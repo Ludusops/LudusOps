@@ -519,6 +519,7 @@
 
   function initDrawer() {
     if (document.getElementById("contactForm")) return;
+    if (document.body.hasAttribute("data-no-drawer")) return;
 
     var drawer = document.createElement("div");
     drawer.className = "drawer";
@@ -680,6 +681,15 @@
     var year = document.getElementById("year");
     if (year) year.textContent = String(new Date().getFullYear());
   }
+
+  /* ----------------------------- PUBLIC API ------------------------------ */
+  window.LudusLeads = {
+    create: createLead,
+    complete: completeLead,
+    uuid: uuid,
+    attribution: attribution,
+    config: CONFIG
+  };
 
   /* ----------------------------- BOOT ------------------------------------ */
   function boot() {
