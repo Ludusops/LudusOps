@@ -18,7 +18,6 @@
 
   var problema = form.querySelector("#problema");
   var email = form.querySelector("#email");
-  var telefono = form.querySelector("#telefono");
   var privacidad = form.querySelector('input[name="privacidad"]');
 
   function fail(message) {
@@ -46,11 +45,10 @@
     var invalid = false;
     invalid = mark(problema, !data.problema || data.problema.length < 3) || invalid;
     invalid = mark(email, !EMAIL.test(data.email || "")) || invalid;
-    invalid = mark(telefono, !data.telefono) || invalid;
     invalid = mark(privacidad, !data.privacidad) || invalid;
 
     if (invalid) {
-      fail("Revisa los campos marcados. Necesitamos email y teléfono para poder contactarte.");
+      fail("Revisa los campos marcados. Necesitamos tu email para poder contactarte.");
       return;
     }
 
@@ -71,7 +69,7 @@
       }
     }).catch(function () {
       btn.disabled = false;
-      btn.textContent = "Quiero que me llaméis →";
+      btn.textContent = "Quiero mi consulta gratuita →";
       fail(GENERIC);
     });
   });
