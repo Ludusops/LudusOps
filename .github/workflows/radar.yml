@@ -1,0 +1,39 @@
+name: Radar operativo
+
+on:
+  schedule:
+    # Cada día a las 06:00 UTC (08:00 en España en horario de verano)
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Leer fuentes y regenerar blog.html
+        run: node scripts/fetch-feeds.mjs
+
+      - name: Publicar si hay novedades
+        run: |
+          git config user.name "Ludus Ops Radar"
+          git config user.email "ludusopsadmin@gmail.com"
+          git add blog.html blog/posts.json
+          if git diff --staged --quiet; then
+            echo "Sin artículos nuevos hoy."
+          else
+            git commit -m "Radar: actualización automática $(date -u +%Y-%m-%d)"
+            git push
+          fi

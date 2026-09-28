@@ -1,0 +1,725 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Radar operativo — Ludus Ops</title>
+  <meta name="description" content="Lo que se está moviendo en operaciones: métodos, herramientas y procesos para operar mejor. Selección diaria de las fuentes de referencia del sector." />
+  <meta name="robots" content="index, follow" />
+  <meta name="theme-color" content="#0A0E12" />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Ludus Ops" />
+  <meta property="og:locale" content="es_ES" />
+  <meta property="og:title" content="Radar operativo — Ludus Ops" />
+  <meta property="og:description" content="Métodos, herramientas y procesos para operar mejor. Selección diaria del sector." />
+  <meta property="og:url" content="https://ludusops.github.io/LudusOps/blog.html" />
+  <meta property="og:image" content="assets/og-image.svg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Radar operativo — Ludus Ops" />
+  <meta name="twitter:description" content="Métodos, herramientas y procesos para operar mejor. Selección diaria del sector." />
+  <meta name="twitter:image" content="assets/og-image.svg" />
+
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+  <script>(function(){var d=document.documentElement;try{d.setAttribute('data-theme',localStorage.getItem('ludus-theme')==='light'?'light':'dark');if(localStorage.getItem('ludus-lang')==='en'){d.classList.add('i18n-pending');setTimeout(function(){d.classList.remove('i18n-pending');},1500);}}catch(e){d.setAttribute('data-theme','dark');}})();</script>
+</head>
+<body>
+  <a class="skip-link" href="#contenido">Saltar al contenido</a>
+
+  <!-- ============================= NAVBAR ============================= -->
+  <header class="nav" id="nav">
+    <div class="container nav__inner">
+      <a class="logo" href="index.html" aria-label="Ludus Ops — Inicio">
+        <img class="logo__mark" src="assets/logo-mark.png" alt="" width="34" height="34" />
+        <span class="logo__text">
+          <span class="logo__name">Ludus Ops</span>
+          <span class="logo__sub">Engineering &amp; Operations</span>
+        </span>
+      </a>
+
+      <nav class="nav__links" id="navLinks" aria-label="Navegación principal">
+        <a href="que-hacemos.html">Qué hacemos</a>
+        <a href="que-hacemos.html#metodo">Método</a>
+        <a href="sectores.html">Sectores</a>
+        <a href="nosotros.html">Nosotros</a>
+        <a href="blog.html" class="is-active" aria-current="page">Radar</a>
+        <a class="btn btn--primary nav__cta nav__cta--mobile" href="contacto.html">Solicitar diagnóstico →</a>
+      </nav>
+
+      <div class="nav__tools">
+        <button class="nav__tool" id="langToggle" type="button" lang="en" aria-label="Switch to English">EN</button>
+        <button class="nav__tool" id="themeToggle" type="button" aria-label="Activar modo claro">
+          <svg class="icon-sun" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+          <svg class="icon-moon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/></svg>
+        </button>
+      </div>
+
+      <a class="btn btn--primary nav__cta nav__cta--desktop" href="contacto.html">Solicitar diagnóstico →</a>
+
+      <button class="nav__toggle" id="navToggle" type="button" aria-expanded="false" aria-controls="navLinks" aria-label="Abrir menú">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <main id="contenido">
+    <section class="page-hero">
+      <div class="container">
+        <p class="eyebrow">RADAR</p>
+        <h1 class="page-hero__title">Lo que se está moviendo en operaciones</h1>
+        <p class="page-hero__text">Recopilamos cada día lo que publican las fuentes de referencia del sector: métodos, herramientas y procesos para operar mejor. Cada enlace lleva al artículo original.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <p class="radar__note">100 artículos · actualizado el 28 sep 2026</p>
+        <div class="radar">
+          <article class="radar__item">
+            <p class="radar__meta">Manufacturing Dive · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.manufacturingdive.com/news/dod-war-expands-build-freedom-workforce-program-ohio-illinois-wisconsin/831424/" target="_blank" rel="noopener nofollow">Defense Department expands workforce development program to 3 states</a></h2>
+            <p class="radar__excerpt">The BuildFreedom.US initiative will extend to Ohio, Illinois and Wisconsin. The program launched in July and aims to bring awareness to “AI-proof” jobs in the defense industrial base’s talent pipeline.</p>
+            <p class="radar__link"><a href="https://www.manufacturingdive.com/news/dod-war-expands-build-freedom-workforce-program-ohio-illinois-wisconsin/831424/" target="_blank" rel="noopener nofollow">Leer en Manufacturing Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">CIO · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.cio.com/article/4227714/architecting-infrastructure-to-optimize-day-2-tokenomics.html" target="_blank" rel="noopener nofollow">Architecting infrastructure to optimize Day 2 tokenomics</a></h2>
+            <p class="radar__excerpt">The gap between simply running AI models and running them profitably is widening fast. Early production architectures can buckle under the relentless demands of multi-agent autonomous workloads and real-time fine-tuning. Moving forward requires a fundamental…</p>
+            <p class="radar__link"><a href="https://www.cio.com/article/4227714/architecting-infrastructure-to-optimize-day-2-tokenomics.html" target="_blank" rel="noopener nofollow">Leer en CIO →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">CIO · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.cio.com/article/4227707/scalable-ai-infrastructure-lessons-from-los-alamos-national-laboratory.html" target="_blank" rel="noopener nofollow">Scalable AI infrastructure: Lessons from Los Alamos National Laboratory</a></h2>
+            <p class="radar__excerpt">CIOs across industries face a common bottleneck: data pipelines and compute architectures designed for traditional analytics cannot scale to handle large-scale artificial intelligence. As organizations accelerate their deployment of large-scale models across…</p>
+            <p class="radar__link"><a href="https://www.cio.com/article/4227707/scalable-ai-infrastructure-lessons-from-los-alamos-national-laboratory.html" target="_blank" rel="noopener nofollow">Leer en CIO →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Food Dive · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.fooddive.com/news/cheez-it-flexes-with-protein-loaded-cheese-cracker/831469/" target="_blank" rel="noopener nofollow">Cheez-It flexes with protein-loaded cheese cracker</a></h2>
+            <p class="radar__excerpt">The Mars-owned brand is the latest to add the nutrient to mainstream snack brands, joining Goldfish, Eggo and Doritos.</p>
+            <p class="radar__link"><a href="https://www.fooddive.com/news/cheez-it-flexes-with-protein-loaded-cheese-cracker/831469/" target="_blank" rel="noopener nofollow">Leer en Food Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">CIO · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.cio.com/article/4227691/how-the-university-of-utah-built-a-sovereign-ai-factory-to-accelerate-breakthroughs-and-slash-cloud-costs.html" target="_blank" rel="noopener nofollow">How the University of Utah built a sovereign AI factory to accelerate breakthroughs and slash cloud costs</a></h2>
+            <p class="radar__excerpt">The scaling of artificial intelligence has forced IT leaders to re-evaluate infrastructure. While public clouds offer rapid deployment for general applications, they introduce steep trade-offs for highly regulated, data-intensive workloads. Issues like high…</p>
+            <p class="radar__link"><a href="https://www.cio.com/article/4227691/how-the-university-of-utah-built-a-sovereign-ai-factory-to-accelerate-breakthroughs-and-slash-cloud-costs.html" target="_blank" rel="noopener nofollow">Leer en CIO →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Restaurant Dive · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.restaurantdive.com/news/mcdonalds-next-franchisee-rent-relief-store-productivity-investment/831377/" target="_blank" rel="noopener nofollow">3 Big Numbers: How McDonald’s is investing in its Next playbook</a></h2>
+            <p class="radar__excerpt">The Golden Arches is targeting 250 basis points in restaurant-level efficiency gains, backed by major investments in equipment and processes.</p>
+            <p class="radar__link"><a href="https://www.restaurantdive.com/news/mcdonalds-next-franchisee-rent-relief-store-productivity-investment/831377/" target="_blank" rel="noopener nofollow">Leer en Restaurant Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Food Dive · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.fooddive.com/news/Coca-cola-rob-Gehring-president-north-america/831488/" target="_blank" rel="noopener nofollow">Coca-Cola taps Monster exec to lead North America unit</a></h2>
+            <p class="radar__excerpt">Rob Gehring will lead the beverage giant’s largest region as it works to keep up with growing demand.</p>
+            <p class="radar__link"><a href="https://www.fooddive.com/news/Coca-cola-rob-Gehring-president-north-america/831488/" target="_blank" rel="noopener nofollow">Leer en Food Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Supply Chain Dive · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.supplychaindive.com/news/trade-groups-urge-ustr-to-extend-pause-on-china-linked-ship-fees/831387/" target="_blank" rel="noopener nofollow">Trade groups urge USTR to extend pause on China-linked ship fees</a></h2>
+            <p class="radar__excerpt">The National Retail Federation and others said a continued halt to fees would help ease uncertainty as stakeholders face elevated transportation costs.</p>
+            <p class="radar__link"><a href="https://www.supplychaindive.com/news/trade-groups-urge-ustr-to-extend-pause-on-china-linked-ship-fees/831387/" target="_blank" rel="noopener nofollow">Leer en Supply Chain Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">TechRepublic · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.techrepublic.com/article/news-truecaller-scam-checker-apac-india/" target="_blank" rel="noopener nofollow">Truecaller Scam Checker Launches in India: How It Works</a></h2>
+            <p class="radar__excerpt">Truecaller Scam Checker lets users check suspicious links, numbers, and messages for free as the company expands its fraud protection beyond caller ID.</p>
+            <p class="radar__link"><a href="https://www.techrepublic.com/article/news-truecaller-scam-checker-apac-india/" target="_blank" rel="noopener nofollow">Leer en TechRepublic →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Food Dive · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.fooddive.com/news/Mondelez-international-oreo-snacking-cookie-mallomars/830584/" target="_blank" rel="noopener nofollow">How Mondelēz keeps Mallomars a ‘cultural icon’ after 113 years</a></h2>
+            <p class="radar__excerpt">The chocolate-coated marshmallow cookie is only available seasonally and in select markets, but it has carved out a valuable niche for the Oreo maker as a steady, dependable performer.</p>
+            <p class="radar__link"><a href="https://www.fooddive.com/news/Mondelez-international-oreo-snacking-cookie-mallomars/830584/" target="_blank" rel="noopener nofollow">Leer en Food Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">CIO · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.cio.com/article/4227681/the-sovereign-imperative-why-enterprise-ai-mandates-a-new-infrastructure-playbook.html" target="_blank" rel="noopener nofollow">The sovereign imperative: Why enterprise AI mandates a new infrastructure playbook</a></h2>
+            <p class="radar__excerpt">For enterprise Chief Information Officers, the honeymoon phase of artificial intelligence is over. As organizations move past baseline experimentation and begin anchoring generative AI and agentic workflows into core operational stacks, we are hitting a…</p>
+            <p class="radar__link"><a href="https://www.cio.com/article/4227681/the-sovereign-imperative-why-enterprise-ai-mandates-a-new-infrastructure-playbook.html" target="_blank" rel="noopener nofollow">Leer en CIO →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Grocery Dive · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.grocerydive.com/news/more-than-a-store-trader-joes-pumpkin-spice-seasonal-assortment/829680/" target="_blank" rel="noopener nofollow">More than a Store: Trader Joe’s masters the seasonal impulse buys</a></h2>
+            <p class="radar__excerpt">From a creative product lineup to helpful shelf tags, the chain makes shopping for its seasonal offerings a treasure hunt experience.</p>
+            <p class="radar__link"><a href="https://www.grocerydive.com/news/more-than-a-store-trader-joes-pumpkin-spice-seasonal-assortment/829680/" target="_blank" rel="noopener nofollow">Leer en Grocery Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Grocery Dive · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.grocerydive.com/news/target-store-hamptons-bridgehampton-gray/831462/" target="_blank" rel="noopener nofollow">Target is opening a store in the Hamptons. It’s not red.</a></h2>
+            <p class="radar__excerpt">The retailer’s signature color is not part of the external facade of the building at its new location in Bridgehampton, New York.</p>
+            <p class="radar__link"><a href="https://www.grocerydive.com/news/target-store-hamptons-bridgehampton-gray/831462/" target="_blank" rel="noopener nofollow">Leer en Grocery Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Grocery Dive · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.grocerydive.com/news/hy-vee-dollar-fresh-market-transition-groceryshop/831402/" target="_blank" rel="noopener nofollow">Hy-Vee abandons dollar store format</a></h2>
+            <p class="radar__excerpt">The regional grocer is transitioning its remaining Dollar Fresh Market locations to its namesake supermarket banner after concluding that the Hy-Vee name resonates better with customers.</p>
+            <p class="radar__link"><a href="https://www.grocerydive.com/news/hy-vee-dollar-fresh-market-transition-groceryshop/831402/" target="_blank" rel="noopener nofollow">Leer en Grocery Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Food Dive · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.fooddive.com/news/guinness-owner-diageo-hires-wpp-cfo-cost-cutting-bonafides/831376/" target="_blank" rel="noopener nofollow">Guinness owner Diageo hires CFO with cost-cutting bonafides</a></h2>
+            <p class="radar__excerpt">Sir Dave Lewis, the liquor giant’s CEO, said Joanne Wilson has experience with companies undergoing transformation.</p>
+            <p class="radar__link"><a href="https://www.fooddive.com/news/guinness-owner-diageo-hires-wpp-cfo-cost-cutting-bonafides/831376/" target="_blank" rel="noopener nofollow">Leer en Food Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">TechRepublic · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.techrepublic.com/article/news-best-ai-meeting-note-takers-2026/" target="_blank" rel="noopener nofollow">6 Best AI Meeting Note Takers for 2026: Fathom, Otter, Fireflies and More</a></h2>
+            <p class="radar__excerpt">Compare six AI meeting note takers for 2026, including Fathom, Fireflies, Otter, Granola, Fellow, and Notta on pricing, free plans, and features.</p>
+            <p class="radar__link"><a href="https://www.techrepublic.com/article/news-best-ai-meeting-note-takers-2026/" target="_blank" rel="noopener nofollow">Leer en TechRepublic →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">TechRepublic · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.techrepublic.com/article/internxt-cloud-storage-lifetime-subscription-2tb-plan/" target="_blank" rel="noopener nofollow">Get Secure Cloud Storage on a 2TB Lifetime Plan with Internxt for $100</a></h2>
+            <p class="radar__excerpt">This secure storage platform uses open source code, zero-knowledge file systems, and end-to-end encryption to keep your online data truly private.</p>
+            <p class="radar__link"><a href="https://www.techrepublic.com/article/internxt-cloud-storage-lifetime-subscription-2tb-plan/" target="_blank" rel="noopener nofollow">Leer en TechRepublic →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Restaurant Dive · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.restaurantdive.com/news/popeyes-snacking-honey-chicken-biscuit-breakfast-sandwich-trial-balloon/831459/" target="_blank" rel="noopener nofollow">Is Popeyes’ new sandwich a breakfast test?</a></h2>
+            <p class="radar__excerpt">The chain says the Honey Chicken Biscuit is designed for all dayparts. It seems built for a time outside the chain’s usual occasions.</p>
+            <p class="radar__link"><a href="https://www.restaurantdive.com/news/popeyes-snacking-honey-chicken-biscuit-breakfast-sandwich-trial-balloon/831459/" target="_blank" rel="noopener nofollow">Leer en Restaurant Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">CIO · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.cio.com/article/4226629/pgedge-launches-starfleet-to-help-developers-take-postgres-ai-apps-from-prototype-to-production-2.html" target="_blank" rel="noopener nofollow">Starfleet will fly Postgres AI apps from prototype to production, says pgEdge</a></h2>
+            <p class="radar__excerpt">The move from proof of concept or prototype to production is a common stumbling block for AI projects, and one that database services provider pgEdge is keen to help enterprises overcome. AI applications often start with developers reaching for Postgres…</p>
+            <p class="radar__link"><a href="https://www.cio.com/article/4226629/pgedge-launches-starfleet-to-help-developers-take-postgres-ai-apps-from-prototype-to-production-2.html" target="_blank" rel="noopener nofollow">Leer en CIO →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Lean.org · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.lean.org/the-lean-post/articles/toyotas-answer-to-knowledge-walking-out-the-door/" target="_blank" rel="noopener nofollow">Toyota’s Answer to Knowledge Walking Out the Door</a></h2>
+            <p class="radar__excerpt">Almost nothing his senpai taught him was written down, says Fran Noto — and that, he argues, is the knowledge most organizations are quietly losing.</p>
+            <p class="radar__link"><a href="https://www.lean.org/the-lean-post/articles/toyotas-answer-to-knowledge-walking-out-the-door/" target="_blank" rel="noopener nofollow">Leer en Lean.org →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">CIO · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.cio.com/article/4226780/if-ai-makes-the-decision-who-owns-the-consequence.html" target="_blank" rel="noopener nofollow">If AI makes the decision, who owns the consequence?</a></h2>
+            <p class="radar__excerpt">Twenty-two rows. That was the AI inventory in a board pack I read last year, and it was a good one. Every system named, every owner listed, every risk rating filled in and colour-coded. Somebody had worked hard on it, and the committee approved it in four…</p>
+            <p class="radar__link"><a href="https://www.cio.com/article/4226780/if-ai-makes-the-decision-who-owns-the-consequence.html" target="_blank" rel="noopener nofollow">Leer en CIO →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">TechRepublic · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.techrepublic.com/article/news-anthropic-australia-ai-hearing-openai-agent-breach-apac/" target="_blank" rel="noopener nofollow">Anthropic Declines Australian AI Hearing as OpenAI Agent Breach Faces Scrutiny</a></h2>
+            <p class="radar__excerpt">Anthropic declined an Australian Senate AI hearing as officials investigate an OpenAI agent breach and consider mandatory AI incident reporting.</p>
+            <p class="radar__link"><a href="https://www.techrepublic.com/article/news-anthropic-australia-ai-hearing-openai-agent-breach-apac/" target="_blank" rel="noopener nofollow">Leer en TechRepublic →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Restaurant Dive · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.restaurantdive.com/news/7-eleven-adds-value-menus/831454/" target="_blank" rel="noopener nofollow">7-Eleven rolls out value menus across its restaurant brands</a></h2>
+            <p class="radar__excerpt">The retailer has added meal deals and low-cost options across its Laredo Taco, Raise the Roost and Speedy Cafe restaurants.</p>
+            <p class="radar__link"><a href="https://www.restaurantdive.com/news/7-eleven-adds-value-menus/831454/" target="_blank" rel="noopener nofollow">Leer en Restaurant Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">TechRepublic · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.techrepublic.com/article/ultimate-ai-assistant-masterclass/" target="_blank" rel="noopener nofollow">Learn Six AI Assistants For $15.99 With This 25-Hour Course Bundle</a></h2>
+            <p class="radar__excerpt">Six courses cover ChatGPT, Gemini, Copilot, Perplexity, DeepSeek, and Tabnine AI, all for one $15.99 payment.</p>
+            <p class="radar__link"><a href="https://www.techrepublic.com/article/ultimate-ai-assistant-masterclass/" target="_blank" rel="noopener nofollow">Leer en TechRepublic →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">CIO · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.cio.com/article/4226867/start-with-the-strugglers-how-to-make-ai-transformation-stick.html" target="_blank" rel="noopener nofollow">Start with the strugglers: How to make AI transformation stick</a></h2>
+            <p class="radar__excerpt">It seems intuitive: Give AI to the people who are crushing it in your organization and watch them fly even higher. So why does it so often fail to work? Why do so many leaders I talk to complain that their AI transformations simply aren’t delivering the…</p>
+            <p class="radar__link"><a href="https://www.cio.com/article/4226867/start-with-the-strugglers-how-to-make-ai-transformation-stick.html" target="_blank" rel="noopener nofollow">Leer en CIO →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">TechRepublic · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.techrepublic.com/article/infosec4tc-projects-hub/" target="_blank" rel="noopener nofollow">Turn Cybersecurity Theory Into Portfolio-Ready Work For $99</a></h2>
+            <p class="radar__excerpt">Complete 10 simulated security and GRC projects, get expert feedback on each, and earn a signed certificate.</p>
+            <p class="radar__link"><a href="https://www.techrepublic.com/article/infosec4tc-projects-hub/" target="_blank" rel="noopener nofollow">Leer en TechRepublic →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">TechRepublic · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.techrepublic.com/article/news-crusoe-boom-turbine-deal/" target="_blank" rel="noopener nofollow">Crusoe Walks Away From $1.25B Boom Turbine Deal as AI Power Race Intensifies</a></h2>
+            <p class="radar__excerpt">Crusoe dropped Boom Supersonic’s $1.25B turbine deal while continuing to secure gas generation, batteries, and grid power for AI data centers.</p>
+            <p class="radar__link"><a href="https://www.techrepublic.com/article/news-crusoe-boom-turbine-deal/" target="_blank" rel="noopener nofollow">Leer en TechRepublic →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">TechRepublic · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.techrepublic.com/article/news-best-surface-pro-alternatives-2026/" target="_blank" rel="noopener nofollow">5 Best Surface Pro Alternatives for 2026: ASUS, iPad, Galaxy and More</a></h2>
+            <p class="radar__excerpt">ASUS, Apple, Samsung, and Lenovo offer five credible Surface Pro alternatives with different strengths in performance, portability, software, and price.</p>
+            <p class="radar__link"><a href="https://www.techrepublic.com/article/news-best-surface-pro-alternatives-2026/" target="_blank" rel="noopener nofollow">Leer en TechRepublic →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">CIO Dive · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.ciodive.com/news/capital-one-agentic-ai-strategy/831435/" target="_blank" rel="noopener nofollow">Capital One’s agentic AI strategy hinges on data, platform-first mindset</a></h2>
+            <p class="radar__excerpt">Proper data context and guardrails are key to deploying AI agents at scale, said Rashmi Shetty, VP of enterprise AI at Capital One.</p>
+            <p class="radar__link"><a href="https://www.ciodive.com/news/capital-one-agentic-ai-strategy/831435/" target="_blank" rel="noopener nofollow">Leer en CIO Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">CIO · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.cio.com/article/4226862/complexity-is-the-biggest-barrier-to-enterprise-ai.html" target="_blank" rel="noopener nofollow">Complexity is the biggest barrier to enterprise AI</a></h2>
+            <p class="radar__excerpt">For CIOs, the enterprise ambition to deploy AI is outpacing execution and is impacting everything from talent to technology to operations. The challenge to deploy is not coming from the technology itself, but rather the complexity that we have built into our…</p>
+            <p class="radar__link"><a href="https://www.cio.com/article/4226862/complexity-is-the-biggest-barrier-to-enterprise-ai.html" target="_blank" rel="noopener nofollow">Leer en CIO →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Supply Chain Dive · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.supplychaindive.com/spons/the-intelligence-advantage-moving-beyond-benchmarking-to-network-wide-insi/830975/" target="_blank" rel="noopener nofollow">The intelligence advantage: Moving beyond benchmarking to network-wide insights</a></h2>
+            <p class="radar__excerpt">How network-scale intelligence helps businesses focus resources on the opportunities that matter most.</p>
+            <p class="radar__link"><a href="https://www.supplychaindive.com/spons/the-intelligence-advantage-moving-beyond-benchmarking-to-network-wide-insi/830975/" target="_blank" rel="noopener nofollow">Leer en Supply Chain Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Supply Chain Dive · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.supplychaindive.com/spons/how-supply-chains-can-achieve-resiliency-with-quantum-optimization/831267/" target="_blank" rel="noopener nofollow">How supply chains can achieve resiliency with quantum optimization</a></h2>
+            <p class="radar__excerpt">If your supply chain is drowning in variables, constraints and constant change, quantum optimization may offer a smarter way forward.</p>
+            <p class="radar__link"><a href="https://www.supplychaindive.com/spons/how-supply-chains-can-achieve-resiliency-with-quantum-optimization/831267/" target="_blank" rel="noopener nofollow">Leer en Supply Chain Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Supply Chain Dive · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.supplychaindive.com/spons/peak-season-has-to-plan-around-weather-heres-how/830856/" target="_blank" rel="noopener nofollow">Peak season has to plan around weather. Here’s how.</a></h2>
+            <p class="radar__excerpt">What to do when the industry's tightest capacity window collides with unpredictable weather.</p>
+            <p class="radar__link"><a href="https://www.supplychaindive.com/spons/peak-season-has-to-plan-around-weather-heres-how/830856/" target="_blank" rel="noopener nofollow">Leer en Supply Chain Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Manufacturing Dive · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.manufacturingdive.com/spons/when-good-enough-becomes-a-competitive-disadvantage-the-case-for-quantum/831084/" target="_blank" rel="noopener nofollow">When “good enough” becomes a competitive disadvantage: The case for quantum optimization</a></h2>
+            <p class="radar__excerpt">Manufacturers may be meeting production requirements but sacrificing capacity, responsiveness and margin to the limitations of their planning tools.</p>
+            <p class="radar__link"><a href="https://www.manufacturingdive.com/spons/when-good-enough-becomes-a-competitive-disadvantage-the-case-for-quantum/831084/" target="_blank" rel="noopener nofollow">Leer en Manufacturing Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Restaurant Dive · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.restaurantdive.com/spons/the-hidden-liability-of-an-outdated-building-why-restaurants-and-retailers/831067/" target="_blank" rel="noopener nofollow">The hidden liability of an outdated building: Why restaurants and retailers are digitizing their real estate portfolios</a></h2>
+            <p class="radar__excerpt">Outdated building records are costing retailers millions. Reality capture ends the guesswork.</p>
+            <p class="radar__link"><a href="https://www.restaurantdive.com/spons/the-hidden-liability-of-an-outdated-building-why-restaurants-and-retailers/831067/" target="_blank" rel="noopener nofollow">Leer en Restaurant Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Grocery Dive · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.grocerydive.com/spons/instacart-gives-grocers-and-cpg-brands-a-live-view-of-every-store/831392/" target="_blank" rel="noopener nofollow">Instacart gives grocers and CPG brands a live view of every store</a></h2>
+            <p class="radar__excerpt">New in-store software solutions will give grocers and CPG brands a live view of every store, so shelves stay stocked and customers can find what they need</p>
+            <p class="radar__link"><a href="https://www.grocerydive.com/spons/instacart-gives-grocers-and-cpg-brands-a-live-view-of-every-store/831392/" target="_blank" rel="noopener nofollow">Leer en Grocery Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">CIO Dive · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.ciodive.com/spons/3-business-risks-of-ai-assisted-coding-executives-cant-ignore/831213/" target="_blank" rel="noopener nofollow">3 business risks of AI-assisted coding executives can’t ignore</a></h2>
+            <p class="radar__excerpt">Without oversight, AI coding assistants can leak secrets, act sans accountability and spike spend.</p>
+            <p class="radar__link"><a href="https://www.ciodive.com/spons/3-business-risks-of-ai-assisted-coding-executives-cant-ignore/831213/" target="_blank" rel="noopener nofollow">Leer en CIO Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">CIO Dive · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.ciodive.com/spons/the-next-ai-challenge-isnt-speed-its-continuity/830624/" target="_blank" rel="noopener nofollow">The next AI challenge isn’t speed. It’s continuity.</a></h2>
+            <p class="radar__excerpt">Continuity, not speed, is AI infrastructure's next challenge. Can your agent pick up where it left off?</p>
+            <p class="radar__link"><a href="https://www.ciodive.com/spons/the-next-ai-challenge-isnt-speed-its-continuity/830624/" target="_blank" rel="noopener nofollow">Leer en CIO Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">IEB School · 28 sep 2026</p>
+            <h2 class="radar__title"><a href="https://www.iebschool.com/hub/que-es-business-analytics-definiciontipos-y-diferencias-big-data/" target="_blank" rel="noopener nofollow">Qué es Business Analytics: definición, tipos y diferencias</a></h2>
+            <p class="radar__excerpt">Business Analytics utiliza datos, técnicas analíticas y modelos para entender qué ocurre en un negocio, explicar por qué, estimar qué puede pasar y decidir qué hacer después.</p>
+            <p class="radar__link"><a href="https://www.iebschool.com/hub/que-es-business-analytics-definiciontipos-y-diferencias-big-data/" target="_blank" rel="noopener nofollow">Leer en IEB School →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Zapier · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://zapier.com/blog/natural-language-generation" target="_blank" rel="noopener nofollow">What is natural language generation (NLG)?</a></h2>
+            <p class="radar__excerpt">A few days ago, my fitness app congratulated me on a &quot;great week of activity&quot; with a poetic recap of where I &quot;crushed it.&quot; I had spent most of that week visiting family, moving from the couch to the kitchen to the guest bedroom at the speed of continental…</p>
+            <p class="radar__link"><a href="https://zapier.com/blog/natural-language-generation" target="_blank" rel="noopener nofollow">Leer en Zapier →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Zapier · 28 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://zapier.com/blog/hubspot-ai-tools" target="_blank" rel="noopener nofollow">HubSpot AI tools: A complete guide to Agent Hub and Breeze</a></h2>
+            <p class="radar__excerpt">My local grocery store decided to be insufferable a few weeks ago and rearrange the aisles. I used to be able to walk through that place blindfolded if I wanted to. Now, it takes me 10 minutes to find the right beans because, for some reason, the dried and…</p>
+            <p class="radar__link"><a href="https://zapier.com/blog/hubspot-ai-tools" target="_blank" rel="noopener nofollow">Leer en Zapier →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">IEB School · 27 sep 2026</p>
+            <h2 class="radar__title"><a href="https://www.iebschool.com/hub/pitch-deck-creacion-empresas/" target="_blank" rel="noopener nofollow">Qué es un Pitch Deck y cómo presentar un negocio a inversores (Plantilla)</a></h2>
+            <p class="radar__excerpt">Un pitch deck resume una oportunidad de inversión: problema, solución, mercado, modelo de negocio, tracción, equipo y capital buscado. Su contenido cambia según la fase de la startup y la evidencia que ya pueda aportar.</p>
+            <p class="radar__link"><a href="https://www.iebschool.com/hub/pitch-deck-creacion-empresas/" target="_blank" rel="noopener nofollow">Leer en IEB School →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">IEB School · 27 sep 2026</p>
+            <h2 class="radar__title"><a href="https://www.iebschool.com/hub/plan-de-marketing-digital/" target="_blank" rel="noopener nofollow">Cómo hacer un plan de marketing digital: pasos y ejemplo completo</a></h2>
+            <p class="radar__excerpt">Construye tu plan de marketing digital con un ejemplo completo: objetivos, canales, acciones, presupuesto, responsables, KPIs y sistema de revisión.</p>
+            <p class="radar__link"><a href="https://www.iebschool.com/hub/plan-de-marketing-digital/" target="_blank" rel="noopener nofollow">Leer en IEB School →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">IEB School · 27 sep 2026</p>
+            <h2 class="radar__title"><a href="https://www.iebschool.com/hub/que-son-metodologias-agiles-agile-scrum/" target="_blank" rel="noopener nofollow">Metodologías ágiles: qué son, cuáles existen y cuándo utilizarlas</a></h2>
+            <p class="radar__excerpt">Las metodologías ágiles organizan el trabajo en ciclos cortos, incorporan feedback frecuente y permiten ajustar decisiones conforme aparece nueva información. Son útiles cuando existe incertidumbre, pero no todos los proyectos necesitan Agile ni todos los…</p>
+            <p class="radar__link"><a href="https://www.iebschool.com/hub/que-son-metodologias-agiles-agile-scrum/" target="_blank" rel="noopener nofollow">Leer en IEB School →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">CIO Dive · 25 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.ciodive.com/news/ai-cybersecurity-maturity-agents-kpmg/831415/" target="_blank" rel="noopener nofollow">Businesses expand AI’s cybersecurity uses as comfort with technology grows</a></h2>
+            <p class="radar__excerpt">Companies in the experimentation stage were less likely than established users to deploy advanced AI-powered defenses, a KPMG survey found.</p>
+            <p class="radar__link"><a href="https://www.ciodive.com/news/ai-cybersecurity-maturity-agents-kpmg/831415/" target="_blank" rel="noopener nofollow">Leer en CIO Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">CIO Dive · 25 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.ciodive.com/news/Microsoft-copilot-enterprise-AI-tools/831423/" target="_blank" rel="noopener nofollow">Microsoft retools Copilot with coding, AI agent capabilities</a></h2>
+            <p class="radar__excerpt">The software giant aims to capture more of the enterprise AI market as providers such as OpenAI and Anthropic snatch up business, a Gartner analyst told CIO Dive.</p>
+            <p class="radar__link"><a href="https://www.ciodive.com/news/Microsoft-copilot-enterprise-AI-tools/831423/" target="_blank" rel="noopener nofollow">Leer en CIO Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Supply Chain Dive · 25 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.supplychaindive.com/news/usps-warns-of-indianapolis-louisville-delays-due-to-facility-upgrades/831390/" target="_blank" rel="noopener nofollow">USPS warns of Indianapolis, Louisville delays due to facility upgrades</a></h2>
+            <p class="radar__excerpt">The agency said the installation of new sorting equipment could temporarily disrupt package flows but benefit its peak season operations.</p>
+            <p class="radar__link"><a href="https://www.supplychaindive.com/news/usps-warns-of-indianapolis-louisville-delays-due-to-facility-upgrades/831390/" target="_blank" rel="noopener nofollow">Leer en Supply Chain Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Manufacturing Dive · 25 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.manufacturingdive.com/news/amazon-us-steel-pirelli-eli-lilly-investments-layoffs-september-2026/831373/" target="_blank" rel="noopener nofollow">Amazon, US Steel, Pirelli and others make facility investments</a></h2>
+            <p class="radar__excerpt">Additionally, Eli Lilly broke ground on its Houston facility, and auto parts suppliers Hansae and Toyotetsu announced U.S. expansions. Meanwhile, Amy’s Kitchen and others are shuttering facilities.</p>
+            <p class="radar__link"><a href="https://www.manufacturingdive.com/news/amazon-us-steel-pirelli-eli-lilly-investments-layoffs-september-2026/831373/" target="_blank" rel="noopener nofollow">Leer en Manufacturing Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Grocery Dive · 25 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.grocerydive.com/news/pcc-community-markets-new-store-seattle-grocery/831340/" target="_blank" rel="noopener nofollow">PCC to open 17th store</a></h2>
+            <p class="radar__excerpt">The grocery co-op’s newest location is set to debut in mid-October in Seattle’s Madison Valley district.</p>
+            <p class="radar__link"><a href="https://www.grocerydive.com/news/pcc-community-markets-new-store-seattle-grocery/831340/" target="_blank" rel="noopener nofollow">Leer en Grocery Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Manufacturing Dive · 25 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.manufacturingdive.com/news/implement-ai-four-pillars-sven-diedrich-pinaxis-imts-2026-automation/831305/" target="_blank" rel="noopener nofollow">These ‘4 pillars’ are critical for successful automation</a></h2>
+            <p class="radar__excerpt">“People, processes, data and systems” are essential elements of any automation strategy, Sven Diedrich, head of digital transformation and business solutions at Pinaxis, said at IMTS in Chicago.</p>
+            <p class="radar__link"><a href="https://www.manufacturingdive.com/news/implement-ai-four-pillars-sven-diedrich-pinaxis-imts-2026-automation/831305/" target="_blank" rel="noopener nofollow">Leer en Manufacturing Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Restaurant Dive · 25 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.restaurantdive.com/news/mcdonalds-tiered-loyalty-rollout/831322/" target="_blank" rel="noopener nofollow">How McDonald’s plans to reactivate 150M infrequent loyalty guests</a></h2>
+            <p class="radar__excerpt">The Golden Arches will add rewards tiers, tie-ups with other major brands and increased personalization to its loyalty system.</p>
+            <p class="radar__link"><a href="https://www.restaurantdive.com/news/mcdonalds-tiered-loyalty-rollout/831322/" target="_blank" rel="noopener nofollow">Leer en Restaurant Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Grocery Dive · 25 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.grocerydive.com/news/aldi-costco-value-grocery-yougov/831339/" target="_blank" rel="noopener nofollow">Costco trumps Aldi in grocery value perception, data shows</a></h2>
+            <p class="radar__excerpt">While the club retailer enjoys an overall advantage over the discounter, the gap varied based on people’s age, analytics firm YouGov found.</p>
+            <p class="radar__link"><a href="https://www.grocerydive.com/news/aldi-costco-value-grocery-yougov/831339/" target="_blank" rel="noopener nofollow">Leer en Grocery Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Grocery Dive · 25 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.grocerydive.com/news/groceryshop-2026-artificial-intelligence/831386/" target="_blank" rel="noopener nofollow">The Friday Checkout: Grocery AI is in full hype mode right now</a></h2>
+            <p class="radar__excerpt">The fast-evolving technology was the focus of this year’s Groceryshop. But amid all the optimism, key executives sounded notes of caution.</p>
+            <p class="radar__link"><a href="https://www.grocerydive.com/news/groceryshop-2026-artificial-intelligence/831386/" target="_blank" rel="noopener nofollow">Leer en Grocery Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Supply Chain Dive · 25 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.supplychaindive.com/news/6-food-manufacturers-talk-supply-chain-tactics/831214/" target="_blank" rel="noopener nofollow">6 food manufacturers talk supply chain tactics</a></h2>
+            <p class="radar__excerpt">General Mills, Nestlé and more discussed how they are cutting operational costs, navigating uneven freight rates and sharpening demand forecasting at a Barclays conference.</p>
+            <p class="radar__link"><a href="https://www.supplychaindive.com/news/6-food-manufacturers-talk-supply-chain-tactics/831214/" target="_blank" rel="noopener nofollow">Leer en Supply Chain Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Manufacturing Dive · 25 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.manufacturingdive.com/news/6-food-manufacturers-talk-supply-chain-tactics/831379/" target="_blank" rel="noopener nofollow">6 food manufacturers talk supply chain tactics</a></h2>
+            <p class="radar__excerpt">General Mills, Nestlé and more discussed how they are cutting operational costs, navigating uneven freight rates and sharpening demand forecasting at a Barclays conference.</p>
+            <p class="radar__link"><a href="https://www.manufacturingdive.com/news/6-food-manufacturers-talk-supply-chain-tactics/831379/" target="_blank" rel="noopener nofollow">Leer en Manufacturing Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Restaurant Dive · 25 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.restaurantdive.com/news/mcdonalds-archiq-drive-thru-artificial-intelligence-next-strategy/831256/" target="_blank" rel="noopener nofollow">McDonald’s turns to AI for drive-thru, inventory management, order accuracy</a></h2>
+            <p class="radar__excerpt">McDonald’s will roll out ArchIQ, an artificial intelligence platform to power restaurant operations, as part of its Next strategy.</p>
+            <p class="radar__link"><a href="https://www.restaurantdive.com/news/mcdonalds-archiq-drive-thru-artificial-intelligence-next-strategy/831256/" target="_blank" rel="noopener nofollow">Leer en Restaurant Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Supply Chain Dive · 25 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.supplychaindive.com/news/lego-to-spend-400m-to-add-warehouse-space-at-mexico-plant/831302/" target="_blank" rel="noopener nofollow">Lego to spend $400M to add warehouse space at Mexico plant</a></h2>
+            <p class="radar__excerpt">The toymaker's investment will also support expanded packing capabilities to strengthen its regional supply chain network in the Americas.</p>
+            <p class="radar__link"><a href="https://www.supplychaindive.com/news/lego-to-spend-400m-to-add-warehouse-space-at-mexico-plant/831302/" target="_blank" rel="noopener nofollow">Leer en Supply Chain Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Supply Chain Dive · 25 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.supplychaindive.com/news/carrier-diversity-key-to-holiday-success-in-a-high-cost-environment/831027/" target="_blank" rel="noopener nofollow">Carrier diversity key to holiday success in a high cost environment</a></h2>
+            <p class="radar__excerpt">Even saving a few dollars per order on shipping fees can free up capital for other parts of a business, UniUni Chief Revenue Officer Sheila Berry said.</p>
+            <p class="radar__link"><a href="https://www.supplychaindive.com/news/carrier-diversity-key-to-holiday-success-in-a-high-cost-environment/831027/" target="_blank" rel="noopener nofollow">Leer en Supply Chain Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Restaurant Dive · 25 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.restaurantdive.com/news/yard-house-third-darden-billion-dollar-brand/831313/" target="_blank" rel="noopener nofollow">Yard House becomes Darden’s third billion-dollar brand</a></h2>
+            <p class="radar__excerpt">The full-service concept, which posted 10% growth in same-store sales during fiscal Q1 2027, plans to open 13 new stores during the ongoing fiscal year.</p>
+            <p class="radar__link"><a href="https://www.restaurantdive.com/news/yard-house-third-darden-billion-dollar-brand/831313/" target="_blank" rel="noopener nofollow">Leer en Restaurant Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Restaurant Dive · 25 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.restaurantdive.com/news/how-chilis-marketing-works-and-why-mexican-qsrs-are-its-next-target/831055/" target="_blank" rel="noopener nofollow">How Chili’s marketing works — and why Mexican QSRs are its next target</a></h2>
+            <p class="radar__excerpt">CMO George Felix dug into the casual dining chain’s past successes and pathway for future growth at Brinker International’s recent investor day.</p>
+            <p class="radar__link"><a href="https://www.restaurantdive.com/news/how-chilis-marketing-works-and-why-mexican-qsrs-are-its-next-target/831055/" target="_blank" rel="noopener nofollow">Leer en Restaurant Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Food Dive · 25 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.fooddive.com/news/aldi-launches-first-ready-made-meals/831250/" target="_blank" rel="noopener nofollow">Aldi to roll out first ready-made meals line</a></h2>
+            <p class="radar__excerpt">The collection of single-serve and family-size meals adds a new dimension to the discount grocer’s lineup of store brand products.</p>
+            <p class="radar__link"><a href="https://www.fooddive.com/news/aldi-launches-first-ready-made-meals/831250/" target="_blank" rel="noopener nofollow">Leer en Food Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Food Dive · 25 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.fooddive.com/news/hidden-valley-spooky-ranch-v8-electrolytes-ocean-spray-cranberry-fall-season/831354/" target="_blank" rel="noopener nofollow">Leftovers: Hidden Valley Ranch goes dark for Halloween | V8 energizes with electrolytes</a></h2>
+            <p class="radar__excerpt">The dressing turns black for its first-ever seasonal product, while Ocean Spray positions cranberry as the next pumpkin spice with new innovations.</p>
+            <p class="radar__link"><a href="https://www.fooddive.com/news/hidden-valley-spooky-ranch-v8-electrolytes-ocean-spray-cranberry-fall-season/831354/" target="_blank" rel="noopener nofollow">Leer en Food Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Process.st · 25 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.process.st/fmea/" target="_blank" rel="noopener nofollow">FMEA: How to Prevent the £100m British Airways Catastrophe</a></h2>
+            <p class="radar__excerpt">Learn how FMEA identifies failure modes, scores risk, and guides preventive action, with a practical template and the British Airways outage as an example. The post FMEA: How to Prevent the £100m British Airways Catastrophe first appeared on Process Street |…</p>
+            <p class="radar__link"><a href="https://www.process.st/fmea/" target="_blank" rel="noopener nofollow">Leer en Process.st →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">CIO Dive · 25 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.ciodive.com/news/agents-remain-disconnected-enterprises-double-down/831317/" target="_blank" rel="noopener nofollow">While AI agents remain siloed, investment soars</a></h2>
+            <p class="radar__excerpt">“Right now, enterprise AI looks a lot like a thousand instruments playing at once without a conductor,” said Anurag Malik, president and CTO of Leah.</p>
+            <p class="radar__link"><a href="https://www.ciodive.com/news/agents-remain-disconnected-enterprises-double-down/831317/" target="_blank" rel="noopener nofollow">Leer en CIO Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">CIO Dive · 24 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.ciodive.com/news/rogue-openai-agent-australian-government/831316/" target="_blank" rel="noopener nofollow">Rogue OpenAI agent targeted Australian government site</a></h2>
+            <p class="radar__excerpt">The prime minister rebuked the company for its slow response and warned that AI poses significant risks that need to be further addressed.</p>
+            <p class="radar__link"><a href="https://www.ciodive.com/news/rogue-openai-agent-australian-government/831316/" target="_blank" rel="noopener nofollow">Leer en CIO Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">CIO Dive · 24 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.ciodive.com/news/ai-organizational-overhauls-aws/831314/" target="_blank" rel="noopener nofollow">AI gains call for organizational overhauls: AWS</a></h2>
+            <p class="radar__excerpt">CIOs need to outline a clear path toward AI value ahead of time or risk wasting resources on adoption, according to AWS research.</p>
+            <p class="radar__link"><a href="https://www.ciodive.com/news/ai-organizational-overhauls-aws/831314/" target="_blank" rel="noopener nofollow">Leer en CIO Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Food Dive · 24 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.fooddive.com/news/food-rating-systems-nutrition-ai-oped/831278/" target="_blank" rel="noopener nofollow">Why food rating apps can miss the mark on nutrition</a></h2>
+            <p class="radar__excerpt">Technology meant to provide more clarity behind the ingredients in food actually deliver confusion, writes the CEO of Perfect Snacks.</p>
+            <p class="radar__link"><a href="https://www.fooddive.com/news/food-rating-systems-nutrition-ai-oped/831278/" target="_blank" rel="noopener nofollow">Leer en Food Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Manufacturing Dive · 24 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.manufacturingdive.com/news/lego-monterrey-mexico-manufacturing-facility-expansion-packing-warehouse/831196/" target="_blank" rel="noopener nofollow">Lego to spend $400M expanding manufacturing facility in Mexico</a></h2>
+            <p class="radar__excerpt">The toymaker plans to add packing and warehousing capabilities, as well as create 1,300 jobs at the Monterrey site.</p>
+            <p class="radar__link"><a href="https://www.manufacturingdive.com/news/lego-monterrey-mexico-manufacturing-facility-expansion-packing-warehouse/831196/" target="_blank" rel="noopener nofollow">Leer en Manufacturing Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Grocery Dive · 24 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.grocerydive.com/news/albertsons-east-region-president-ken-rinaldi-grocery/831208/" target="_blank" rel="noopener nofollow">Albertsons names new regional president</a></h2>
+            <p class="radar__excerpt">Ken Rinaldi has assumed the role of regional operating president of the grocer’s newly formed East Region.</p>
+            <p class="radar__link"><a href="https://www.grocerydive.com/news/albertsons-east-region-president-ken-rinaldi-grocery/831208/" target="_blank" rel="noopener nofollow">Leer en Grocery Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Food Dive · 24 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.fooddive.com/news/grocery-inflation-fuel-prices-fmi/831249/" target="_blank" rel="noopener nofollow">Grocery inflation is primed to rise</a></h2>
+            <p class="radar__excerpt">Elevated fuel costs could soon wear down food companies that have so far kept price increases contained, industry experts said at an FMI briefing.</p>
+            <p class="radar__link"><a href="https://www.fooddive.com/news/grocery-inflation-fuel-prices-fmi/831249/" target="_blank" rel="noopener nofollow">Leer en Food Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Zapier · 24 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://zapier.com/blog/best-resume-builder" target="_blank" rel="noopener nofollow">The 6 best AI resume builders in 2026</a></h2>
+            <p class="radar__excerpt">Searching for a job is becoming a job of its own. With so many open positions, tests, and interview stages, joining the workforce or moving up is becoming harder. And with screening software automatically disqualifying candidates, the chances to get some…</p>
+            <p class="radar__link"><a href="https://zapier.com/blog/best-resume-builder" target="_blank" rel="noopener nofollow">Leer en Zapier →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Zapier · 24 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://zapier.com/blog/best-ai-social-media-management" target="_blank" rel="noopener nofollow">The 9 best AI tools for social media management in 2026</a></h2>
+            <p class="radar__excerpt">Click publish, exhale. Start again. Tomorrow's post doesn't write itself. What are people discussing right now? Dive into analytics, surface trends, reply to 15 DMs. And then you go viral, your sales dashboard goes through the roof—but no more free time for…</p>
+            <p class="radar__link"><a href="https://zapier.com/blog/best-ai-social-media-management" target="_blank" rel="noopener nofollow">Leer en Zapier →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Zapier · 24 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://zapier.com/blog/ai-watermark" target="_blank" rel="noopener nofollow">What is an AI watermark, and what does it actually prove?</a></h2>
+            <p class="radar__excerpt">AI-generated content isn't always easy to spot, which can lead to tricky situations, to put it lightly. As a result, most of the major AI companies now automatically add watermarks to the images, videos, and—increasingly—text their models generate. If you…</p>
+            <p class="radar__link"><a href="https://zapier.com/blog/ai-watermark" target="_blank" rel="noopener nofollow">Leer en Zapier →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Zapier · 24 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://zapier.com/blog/jev" target="_blank" rel="noopener nofollow">What is Jev? TypeSafe AI's System One model</a></h2>
+            <p class="radar__excerpt">When you ask an LLM to give you a confidence score for any decision it makes, you get vibes. I've built tools where the model said it had 95% confidence in a response, and then promptly changed its tune when I asked again 30 seconds later. This makes it hard…</p>
+            <p class="radar__link"><a href="https://zapier.com/blog/jev" target="_blank" rel="noopener nofollow">Leer en Zapier →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Zapier · 24 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://zapier.com/blog/jotform-vs-typeform" target="_blank" rel="noopener nofollow">Jotform vs. Typeform: Which is the best form builder? [2026]</a></h2>
+            <p class="radar__excerpt">Back when I was scrolling through my first website in the mid-'90s—I'm almost certain it was SpaceJam.com—web forms were still in their nascent stage. Websites were treated more as one-way communication devices, like newspapers. Forms changed all that. At…</p>
+            <p class="radar__link"><a href="https://zapier.com/blog/jotform-vs-typeform" target="_blank" rel="noopener nofollow">Leer en Zapier →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Zapier · 24 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://zapier.com/blog/claude-models" target="_blank" rel="noopener nofollow">Claude models: Fable vs. Opus vs. Sonnet vs. Haiku</a></h2>
+            <p class="radar__excerpt">Anthropic's Claude family has four primary models: Haiku, Sonnet, Opus, and Fable. The version numbers are inconsistent between them; as I write this, Opus 5.5 just dropped, Fable 5.1 came out on September 1, 2026, Sonnet 5 was released on June 30, 2026, and…</p>
+            <p class="radar__link"><a href="https://zapier.com/blog/claude-models" target="_blank" rel="noopener nofollow">Leer en Zapier →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">APD · 24 sep 2026</p>
+            <h2 class="radar__title"><a href="https://www.apd.es/que-es-cultura-empresarial/" target="_blank" rel="noopener nofollow">¿Qué es la cultura empresarial y cómo se construye?</a></h2>
+            <p class="radar__excerpt">Entender qué es la cultura empresarial ayuda a comprender por qué dos organizaciones del mismo sector pueden funcionar de maneras muy diferentes. La cultura influye en cómo se trabaja, cómo se toman decisiones, cómo se relacionan los equipos y cómo se…</p>
+            <p class="radar__link"><a href="https://www.apd.es/que-es-cultura-empresarial/" target="_blank" rel="noopener nofollow">Leer en APD →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Manufacturing Dive · 23 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.manufacturingdive.com/news/automation-ai-trends-assocation-manufacturing-technology-2026-imts/831049/" target="_blank" rel="noopener nofollow">Automation, AI among biggest trends shaping manufacturing in 2026: AMT</a></h2>
+            <p class="radar__excerpt">Demand for automation is &quot;off the charts&quot; due in part to the manufacturing labor shortage, and AI is driving major demand for power transmission and electrical equipment, said principal economist Chris Chidzik.</p>
+            <p class="radar__link"><a href="https://www.manufacturingdive.com/news/automation-ai-trends-assocation-manufacturing-technology-2026-imts/831049/" target="_blank" rel="noopener nofollow">Leer en Manufacturing Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Manufacturing Dive · 23 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.manufacturingdive.com/news/new-mexico-pfas-label-regulation-trade-groups-judges-decision/831070/" target="_blank" rel="noopener nofollow">Federal judge blocks New Mexico’s PFAS label mandate</a></h2>
+            <p class="radar__excerpt">The regulation, which was set to begin Jan. 1, 2027, would have required manufacturers to label their products containing intentionally added per- and polyfluoroalkyl substances under a state law banning the chemicals.</p>
+            <p class="radar__link"><a href="https://www.manufacturingdive.com/news/new-mexico-pfas-label-regulation-trade-groups-judges-decision/831070/" target="_blank" rel="noopener nofollow">Leer en Manufacturing Dive →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">APD · 23 sep 2026</p>
+            <h2 class="radar__title"><a href="https://www.apd.es/competitividad-cataluna-entorno-cambiante-victor-xercavins-cuatrecasas/" target="_blank" rel="noopener nofollow">La competitividad en Cataluña: retos y oportunidades en un entorno cambiante</a></h2>
+            <p class="radar__excerpt">Cataluña se ha consolidado históricamente como uno de los motores económicos de España, representando aproximadamente el 19% del PIB nacional. Su tejido productivo diversificado, su posición geográfica estratégica en el arco mediterráneo y su tradición…</p>
+            <p class="radar__link"><a href="https://www.apd.es/competitividad-cataluna-entorno-cambiante-victor-xercavins-cuatrecasas/" target="_blank" rel="noopener nofollow">Leer en APD →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">APD · 23 sep 2026</p>
+            <h2 class="radar__title"><a href="https://www.apd.es/el-noroeste-empresarial-convierte-la-competitividad-en-una-agenda-de-accion/" target="_blank" rel="noopener nofollow">El noroeste empresarial convierte la competitividad en una agenda de acción</a></h2>
+            <p class="radar__excerpt">El pasado 16 de septiembre, Galicia, Asturias y Castilla y León reunieron en Santiago a cerca de 200 directivos para poner sobre la mesa los retos que condicionan su crecimiento y la competitividad del noroeste. El V Encuentro Trilateral APD abrió los Foros…</p>
+            <p class="radar__link"><a href="https://www.apd.es/el-noroeste-empresarial-convierte-la-competitividad-en-una-agenda-de-accion/" target="_blank" rel="noopener nofollow">Leer en APD →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Lean.org · 22 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.lean.org/the-lean-post/articles/the-lean-transformation-at-viwinco-part-2-from-lean-fixes-to-lean-redesign/" target="_blank" rel="noopener nofollow">The Lean Transformation at Viwinco, Part 2: From Lean Fixes to Lean Redesign</a></h2>
+            <p class="radar__excerpt">Viwinco redesigned its custom-window lines for true one-piece flow, cutting WIP by 80% and seal failures by 90% — with zero impact to customer deliveries.</p>
+            <p class="radar__link"><a href="https://www.lean.org/the-lean-post/articles/the-lean-transformation-at-viwinco-part-2-from-lean-fixes-to-lean-redesign/" target="_blank" rel="noopener nofollow">Leer en Lean.org →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">APD · 22 sep 2026</p>
+            <h2 class="radar__title"><a href="https://www.apd.es/resiliencia-organizacional/" target="_blank" rel="noopener nofollow">Resiliencia organizacional: cómo prepararse para un entorno de cambio permanente</a></h2>
+            <p class="radar__excerpt">Las empresas deben adaptarse a cambios tecnológicos constantes, disrupciones en las cadenas de suministro y una situación de incertidumbre constante. Por lo tanto, ya no pueden solamente reaccionar cuando aparece un problema, deben anticiparse y prepararse…</p>
+            <p class="radar__link"><a href="https://www.apd.es/resiliencia-organizacional/" target="_blank" rel="noopener nofollow">Leer en APD →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">APD · 21 sep 2026</p>
+            <h2 class="radar__title"><a href="https://www.apd.es/relaciones-institucionales-convertir-interlocucion-valor-estrategico/" target="_blank" rel="noopener nofollow">Relaciones Institucionales: cómo convertir la interlocución en valor estratégico</a></h2>
+            <p class="radar__excerpt">Mucho más que una agenda de contactos Durante años, las Relaciones Institucionales han sido una de esas funciones empresariales cuyo valor resultaba más sencillo percibir que medir. Se asociaban con frecuencia a la representación corporativa, al…</p>
+            <p class="radar__link"><a href="https://www.apd.es/relaciones-institucionales-convertir-interlocucion-valor-estrategico/" target="_blank" rel="noopener nofollow">Leer en APD →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Process.st · 21 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.process.st/noise-audit-for-business-decision-making/" target="_blank" rel="noopener nofollow">Eliminate Noise &amp; Make Better Business Decisions (+ Free Noise Audit Template)</a></h2>
+            <p class="radar__excerpt">Learn how to run a noise audit, identify unwanted variability in judgment, and build a more consistent decision-making process with a free workflow. The post Eliminate Noise &amp; Make Better Business Decisions (+ Free Noise Audit Template) first appeared on…</p>
+            <p class="radar__link"><a href="https://www.process.st/noise-audit-for-business-decision-making/" target="_blank" rel="noopener nofollow">Leer en Process.st →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Lean.org · 21 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.lean.org/the-lean-post/articles/a-lean-coach-on-coaching-karen-gaudet/" target="_blank" rel="noopener nofollow">A Lean Coach on Coaching: Karen Gaudet</a></h2>
+            <p class="radar__excerpt">Most of us have experienced a coaching relationship as we sought to improve our organizations — receiving instruction and advice and/or helping others expand their capabilities. The question is, given the number coaches and coaching styles out there, were…</p>
+            <p class="radar__link"><a href="https://www.lean.org/the-lean-post/articles/a-lean-coach-on-coaching-karen-gaudet/" target="_blank" rel="noopener nofollow">Leer en Lean.org →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Process.st · 20 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.process.st/employee-spotlight-anne-perry/" target="_blank" rel="noopener nofollow">Employee Spotlight: Anne Perry (Director, Solutions Consulting)</a></h2>
+            <p class="radar__excerpt">Meet Anne Perry through her career story, operations expertise, remote-work perspective, leadership advice, and lessons from building Process Street's Solutions Consulting team. The post Employee Spotlight: Anne Perry (Director, Solutions Consulting) first…</p>
+            <p class="radar__link"><a href="https://www.process.st/employee-spotlight-anne-perry/" target="_blank" rel="noopener nofollow">Leer en Process.st →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">IEB School · 19 sep 2026</p>
+            <h2 class="radar__title"><a href="https://www.iebschool.com/hub/como-posicionar-tu-empresa-con-gso-generative-search-optimization-en-chatgpt-seo-sem/" target="_blank" rel="noopener nofollow">Cómo aparecer en ChatGPT: SEO para conseguir visibilidad, menciones y citas</a></h2>
+            <p class="radar__excerpt">Aparecer en ChatGPT puede significar ser mencionado, recomendado, citado, enlazado o recibir una visita. Esta guía explica qué permite controlar OpenAI, qué sabemos sobre la visibilidad de marcas y cómo medirla sin inventar un ranking que no existe.</p>
+            <p class="radar__link"><a href="https://www.iebschool.com/hub/como-posicionar-tu-empresa-con-gso-generative-search-optimization-en-chatgpt-seo-sem/" target="_blank" rel="noopener nofollow">Leer en IEB School →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">IEB School · 19 sep 2026</p>
+            <h2 class="radar__title"><a href="https://www.iebschool.com/hub/ai-awards-el-primer-festival-que-premia-la-creatividad-audiovisual-con-inteligencia-artificial/" target="_blank" rel="noopener nofollow">AI Awards 2026: Barcelona reúne a una nueva generación de creadores audiovisuales con IA</a></h2>
+            <p class="radar__excerpt">IEBS Business School organiza los AI Awards, el certamen pionero que busca poner nombre y apellidos a los visionarios que ya están dominando la IA generativa audiovisual.</p>
+            <p class="radar__link"><a href="https://www.iebschool.com/hub/ai-awards-el-primer-festival-que-premia-la-creatividad-audiovisual-con-inteligencia-artificial/" target="_blank" rel="noopener nofollow">Leer en IEB School →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">IEB School · 19 sep 2026</p>
+            <h2 class="radar__title"><a href="https://www.iebschool.com/hub/que-es-generative-engine-optimization-geo-como-crear-contenido-para-la-busqueda-generativa-seo-sem/" target="_blank" rel="noopener nofollow">GEO: qué es y cómo optimizar tu contenido para la búsqueda con IA</a></h2>
+            <p class="radar__excerpt">GEO amplía el trabajo SEO hacia ChatGPT, AI Overviews, AI Mode, Gemini y Perplexity. Explicamos cómo funciona, qué sabemos realmente sobre la visibilidad generativa y cómo medirla sin confundir hipótesis con factores demostrados.</p>
+            <p class="radar__link"><a href="https://www.iebschool.com/hub/que-es-generative-engine-optimization-geo-como-crear-contenido-para-la-busqueda-generativa-seo-sem/" target="_blank" rel="noopener nofollow">Leer en IEB School →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Process.st · 19 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.process.st/employee-retention-strategies-for-the-great-resignation/" target="_blank" rel="noopener nofollow">Employee Retention Strategies to Survive the Great Resignation</a></h2>
+            <p class="radar__excerpt">Learn seven practical employee retention strategies for onboarding, flexibility, growth, connection, recognition, and trust after the Great Resignation. The post Employee Retention Strategies to Survive the Great Resignation first appeared on Process Street |…</p>
+            <p class="radar__link"><a href="https://www.process.st/employee-retention-strategies-for-the-great-resignation/" target="_blank" rel="noopener nofollow">Leer en Process.st →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Process.st · 17 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.process.st/drone-maintenance/" target="_blank" rel="noopener nofollow">9 Drone Maintenance Checklists for Commercial Operations</a></h2>
+            <p class="radar__excerpt">Use nine drone maintenance checklists for pre-flight, post-flight, safety, compliance, testing, troubleshooting, routine service, repair, and setup. The post 9 Drone Maintenance Checklists for Commercial Operations first appeared on Process Street |…</p>
+            <p class="radar__link"><a href="https://www.process.st/drone-maintenance/" target="_blank" rel="noopener nofollow">Leer en Process.st →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">IEB School · 17 sep 2026</p>
+            <h2 class="radar__title"><a href="https://www.iebschool.com/hub/el-ser-humano-aumentado-la-ia-nos-permite-hacer-mas-sin-saber-hacerlo-todo-inteligencia-artificial/" target="_blank" rel="noopener nofollow">Humanos aumentados: Capacidad con criterio o criterio sin capacidad</a></h2>
+            <p class="radar__link"><a href="https://www.iebschool.com/hub/el-ser-humano-aumentado-la-ia-nos-permite-hacer-mas-sin-saber-hacerlo-todo-inteligencia-artificial/" target="_blank" rel="noopener nofollow">Leer en IEB School →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Lean.org · 17 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.lean.org/the-lean-post/articles/excellence-in-product-development-takes-high-performing-cross-functional-teams-heres-what-they-look-like/" target="_blank" rel="noopener nofollow">Excellence in Product Development Takes High Performing Cross-Functional Teams, Here’s What They Look Like</a></h2>
+            <p class="radar__excerpt">Staffing teams upfront won't fix rocky launches. John Drogosz on the four behaviors that separate cross-functional teams that gel from those that stall.</p>
+            <p class="radar__link"><a href="https://www.lean.org/the-lean-post/articles/excellence-in-product-development-takes-high-performing-cross-functional-teams-heres-what-they-look-like/" target="_blank" rel="noopener nofollow">Leer en Lean.org →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Process.st · 16 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.process.st/gap-analysis/" target="_blank" rel="noopener nofollow">Gap Analysis: How to Bridge the Gap Between Performance and Potential</a></h2>
+            <p class="radar__excerpt">Learn how to conduct a gap analysis, compare current performance with a measurable target, find root causes, prioritize actions, and monitor progress. The post Gap Analysis: How to Bridge the Gap Between Performance and Potential first appeared on Process…</p>
+            <p class="radar__link"><a href="https://www.process.st/gap-analysis/" target="_blank" rel="noopener nofollow">Leer en Process.st →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Lean.org · 16 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.lean.org/the-lean-post/articles/from-40-hours-to-30-minutes-how-ai-will-remake-the-shopfloor-and-empower-workers/" target="_blank" rel="noopener nofollow">From 40 Hours to 30 Minutes: How AI Will Remake the Shopfloor and Empower Workers</a></h2>
+            <p class="radar__excerpt">An engineer spent 40 hours on a time study. AI ran the same analysis in 30 minutes for $4 at 79% accuracy. The bottleneck to shop-floor tools is now you.</p>
+            <p class="radar__link"><a href="https://www.lean.org/the-lean-post/articles/from-40-hours-to-30-minutes-how-ai-will-remake-the-shopfloor-and-empower-workers/" target="_blank" rel="noopener nofollow">Leer en Lean.org →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Lean.org · 14 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.lean.org/the-lean-post/articles/the-lean-transformation-at-viwinco-part-1-moving-forward-with-lean/" target="_blank" rel="noopener nofollow">The Lean Transformation at Viwinco, Part 1: Moving Forward with Lean</a></h2>
+            <p class="radar__excerpt">Growing fast isn't the same as running lean. See how custom window maker Viwinco began trading firefighting and push production for a scalable lean system.</p>
+            <p class="radar__link"><a href="https://www.lean.org/the-lean-post/articles/the-lean-transformation-at-viwinco-part-1-moving-forward-with-lean/" target="_blank" rel="noopener nofollow">Leer en Lean.org →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">APD · 14 sep 2026</p>
+            <h2 class="radar__title"><a href="https://www.apd.es/competitividad-transformar-fortalezas-oportunidades-covadonga-toca-igape/" target="_blank" rel="noopener nofollow">Competitividad: transformar fortalezas en oportunidades</a></h2>
+            <p class="radar__excerpt">Los informes sobre competitividad suelen interpretarse como una clasificación. Como una referencia que nos dice quién está por delante y quién debe mejorar. Sin embargo, su verdadero valor es otro: ayudarnos a identificar dónde estamos y, sobre todo, hacia…</p>
+            <p class="radar__link"><a href="https://www.apd.es/competitividad-transformar-fortalezas-oportunidades-covadonga-toca-igape/" target="_blank" rel="noopener nofollow">Leer en APD →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Process.st · 12 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.process.st/enterprise-content-management/" target="_blank" rel="noopener nofollow">Enterprise Content Management (ECM): How to Organize Your Content Like a Pro</a></h2>
+            <p class="radar__excerpt">Learn what enterprise content management is, how ECM systems govern the content lifecycle, where they stop, and how to choose the right platform. The post Enterprise Content Management (ECM): How to Organize Your Content Like a Pro first appeared on Process…</p>
+            <p class="radar__link"><a href="https://www.process.st/enterprise-content-management/" target="_blank" rel="noopener nofollow">Leer en Process.st →</a></p>
+          </article>
+          <article class="radar__item">
+            <p class="radar__meta">Process.st · 12 sep 2026 <span class="radar__lang">EN</span></p>
+            <h2 class="radar__title"><a href="https://www.process.st/toolbox-fallacy/" target="_blank" rel="noopener nofollow">Default to Action &amp; Overcome the Toolbox Fallacy</a></h2>
+            <p class="radar__excerpt">The toolbox fallacy is the belief that action must wait for the perfect tool. Learn how to test real constraints, start small, and move with care. The post Default to Action &amp; Overcome the Toolbox Fallacy first appeared on Process Street | Compliance…</p>
+            <p class="radar__link"><a href="https://www.process.st/toolbox-fallacy/" target="_blank" rel="noopener nofollow">Leer en Process.st →</a></p>
+          </article>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ============================= FOOTER ============================= -->
+  <footer class="footer">
+    <div class="container footer__inner">
+      <div class="footer__brand">
+        <a class="logo" href="index.html" aria-label="Ludus Ops — Inicio">
+          <img class="logo__mark" src="assets/logo-mark.png" alt="" width="34" height="34" />
+          <span class="logo__text">
+            <span class="logo__name">Ludus Ops</span>
+            <span class="logo__sub">Engineering &amp; Operations</span>
+          </span>
+        </a>
+        <p class="footer__tagline">Medimos dónde una operación pierde tiempo, coste y capacidad, y ayudamos a rediseñarla.</p>
+      </div>
+
+      <nav class="footer__nav" aria-label="Navegación de pie de página">
+        <a href="que-hacemos.html">Qué hacemos</a>
+        <a href="sectores.html">Sectores</a>
+        <a href="nosotros.html">Nosotros</a>
+        <a href="blog.html">Radar</a>
+        <a href="contacto.html">Contacto</a>
+      </nav>
+
+      <div class="footer__legal">
+        <a href="aviso-legal.html">Aviso legal</a>
+        <a href="privacidad.html">Privacidad</a>
+        <a href="cookies.html">Cookies</a>
+      </div>
+    </div>
+
+    <div class="container footer__bottom">
+      <p class="footer__mail"><a href="mailto:ludusopsadmin@gmail.com">ludusopsadmin@gmail.com</a></p>
+      <p class="footer__copy">© <span id="year">2026</span> Ludus Ops. Todos los derechos reservados.</p>
+    </div>
+  </footer>
+
+  <script src="i18n.js" defer></script>
+  <script src="script.js" defer></script>
+</body>
+</html>
