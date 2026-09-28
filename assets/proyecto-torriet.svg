@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Proyecto Delicias Torriet">
+  <rect width="800" height="500" fill="#0A0E12" />
+  <rect x="60" y="60" width="320" height="380" rx="6" fill="#111D29" />
+  <rect x="410" y="60" width="330" height="180" rx="6" fill="#172532" />
+  <rect x="410" y="270" width="330" height="170" rx="6" fill="#111D29" />
+  <rect x="90" y="100" width="160" height="14" rx="7" fill="#2463E8" />
+  <rect x="90" y="130" width="240" height="10" rx="5" fill="#25303A" />
+  <rect x="90" y="150" width="200" height="10" rx="5" fill="#25303A" />
+  <rect x="440" y="100" width="180" height="10" rx="5" fill="#25303A" />
+  <rect x="440" y="310" width="200" height="10" rx="5" fill="#25303A" />
+</svg>

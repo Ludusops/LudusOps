@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Ludus Ops — Engineering &amp; Operations Architecture</title>
+  <meta name="description" content="Analizamos cómo funciona realmente tu operación, cuantificamos dónde se pierde tiempo, dinero y capacidad, y ayudamos a rediseñarla y ponerla en marcha." />
+  <meta name="robots" content="index, follow" />
+  <meta name="theme-color" content="#0A0E12" />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Ludus Ops" />
+  <meta property="og:locale" content="es_ES" />
+  <meta property="og:title" content="Ludus Ops — Engineering &amp; Operations Architecture" />
+  <meta property="og:description" content="Analizamos cómo funciona realmente tu operación, cuantificamos dónde se pierde tiempo, dinero y capacidad, y ayudamos a rediseñarla." />
+  <meta property="og:url" content="https://ludusops.com/" />
+  <meta property="og:image" content="assets/og-image.svg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Ludus Ops — Engineering &amp; Operations Architecture" />
+  <meta name="twitter:description" content="Analizamos cómo funciona realmente tu operación y cuantificamos dónde se pierde tiempo, dinero y capacidad." />
+  <meta name="twitter:image" content="assets/og-image.svg" />
+
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+  <script>(function(){var d=document.documentElement;try{d.setAttribute('data-theme',localStorage.getItem('ludus-theme')==='light'?'light':'dark');if(localStorage.getItem('ludus-lang')==='en'){d.classList.add('i18n-pending');setTimeout(function(){d.classList.remove('i18n-pending');},1500);}}catch(e){d.setAttribute('data-theme','dark');}})();</script>
+</head>
+<body>
+  <a class="skip-link" href="#inicio">Saltar al contenido</a>
+
+  <!-- ============================= NAVBAR ============================= -->
+  <header class="nav" id="nav">
+    <div class="container nav__inner">
+      <a class="logo" href="index.html" aria-label="Ludus Ops — Inicio">
+        <img class="logo__mark" src="assets/logo-mark.png" alt="" width="34" height="34" />
+        <span class="logo__text">
+          <span class="logo__name">Ludus Ops</span>
+          <span class="logo__sub">Engineering &amp; Operations</span>
+        </span>
+      </a>
+
+      <nav class="nav__links" id="navLinks" aria-label="Navegación principal">
+        <a href="que-hacemos.html">Qué hacemos</a>
+        <a href="que-hacemos.html#metodo">Método</a>
+        <a href="sectores.html">Sectores</a>
+        <a href="nosotros.html">Nosotros</a>
+        <a class="btn btn--primary nav__cta nav__cta--mobile" href="contacto.html">Solicitar diagnóstico →</a>
+      </nav>
+
+      <div class="nav__tools">
+        <button class="nav__tool" id="langToggle" type="button" lang="en" aria-label="Switch to English">EN</button>
+        <button class="nav__tool" id="themeToggle" type="button" aria-label="Activar modo claro">
+          <svg class="icon-sun" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+          <svg class="icon-moon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/></svg>
+        </button>
+      </div>
+
+      <a class="btn btn--primary nav__cta nav__cta--desktop" href="contacto.html">Solicitar diagnóstico →</a>
+
+      <button class="nav__toggle" id="navToggle" type="button" aria-expanded="false" aria-controls="navLinks" aria-label="Abrir menú">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <main>
+    <!-- ============================= HERO ============================= -->
+    <section class="hero" id="inicio">
+      <div class="container hero__grid">
+        <div class="hero__content">
+          <p class="eyebrow hero__eyebrow">OPERATIONS · TIME · COST · CAPACITY</p>
+          <h1 class="hero__title">¿Cuánto te está costando que tu empresa funcione así?</h1>
+          <p class="hero__text">
+            Analizamos cómo funciona realmente una operación, cuantificamos dónde se
+            pierde tiempo, dinero y capacidad, y ayudamos a rediseñarla y ponerla en marcha.
+          </p>
+          <div class="hero__actions">
+            <a class="btn btn--primary btn--lg" href="contacto.html">Solicitar diagnóstico →</a>
+            <a class="btn btn--ghost btn--lg" href="#metodo">Ver cómo funciona ↓</a>
+          </div>
+        </div>
+
+        <div class="hero__visual" aria-hidden="true">
+          <svg viewBox="0 0 620 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <g stroke="#25303A" stroke-width="1.5">
+              <path d="M310 60 L170 130 M310 60 L450 130 M170 130 L100 220 M170 130 L310 220 M450 130 L310 220 M450 130 L520 220 M100 220 L170 310 M310 220 L170 310 M310 220 L450 310 M520 220 L450 310 M170 310 L310 380 M450 310 L310 380" />
+            </g>
+            <g fill="#111D29" stroke="#33414D" stroke-width="1.5">
+              <circle cx="310" cy="60" r="9" />
+              <circle cx="170" cy="130" r="9" />
+              <circle cx="450" cy="130" r="9" />
+              <circle cx="100" cy="220" r="9" />
+              <circle cx="520" cy="220" r="9" />
+              <circle cx="170" cy="310" r="9" />
+              <circle cx="450" cy="310" r="9" />
+              <circle cx="310" cy="380" r="9" />
+            </g>
+            <path d="M310 60 L170 130 L310 220 L450 310 L310 380" stroke="#2463E8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+            <circle cx="310" cy="220" r="46" fill="none" stroke="#2463E8" stroke-opacity="0.25" stroke-width="1.5" />
+            <circle cx="310" cy="220" r="16" fill="#2463E8" />
+            <circle cx="310" cy="220" r="26" fill="none" stroke="#2463E8" stroke-opacity="0.5" stroke-width="1.5" />
+          </svg>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================= PROBLEMA ============================= -->
+    <section class="section section--surface" id="problema">
+      <div class="container">
+        <div class="section__head">
+          <p class="eyebrow">EL PROBLEMA</p>
+          <h2 class="h2">El problema rara vez aparece en una sola línea de gasto.</h2>
+          <p class="lead">
+            Las ineficiencias no se ven en la cuenta de resultados. Se ven en horas
+            perdidas, trabajo repetido, información dispersa y procesos que dependen
+            de personas en lugar de sistemas.
+          </p>
+        </div>
+
+        <ul class="grid grid--3" data-reveal-group>
+          <li class="card" data-reveal>
+            <span class="card__num">01</span>
+            <h3 class="card__title">Esperas</h3>
+            <p class="card__text">Trabajo detenido porque falta una aprobación, un material o una respuesta.</p>
+          </li>
+          <li class="card" data-reveal>
+            <span class="card__num">02</span>
+            <h3 class="card__title">Retrabajo</h3>
+            <p class="card__text">Errores que obligan a repetir tareas ya hechas y consumen capacidad.</p>
+          </li>
+          <li class="card" data-reveal>
+            <span class="card__num">03</span>
+            <h3 class="card__title">Tareas duplicadas</h3>
+            <p class="card__text">El mismo dato se introduce en varios sitios porque los sistemas no se hablan.</p>
+          </li>
+          <li class="card" data-reveal>
+            <span class="card__num">04</span>
+            <h3 class="card__title">Trabajo manual</h3>
+            <p class="card__text">Horas dedicadas a copiar, buscar y ordenar en lugar de a producir valor.</p>
+          </li>
+          <li class="card" data-reveal>
+            <span class="card__num">05</span>
+            <h3 class="card__title">Información dispersa</h3>
+            <p class="card__text">Datos repartidos entre Excel, correo y mensajes sin una fuente única.</p>
+          </li>
+          <li class="card" data-reveal>
+            <span class="card__num">06</span>
+            <h3 class="card__title">Procesos que no escalan</h3>
+            <p class="card__text">Más volumen sin más sistema: la operación se rompe al crecer.</p>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- ============================= COSTE OCULTO ============================= -->
+    <section class="section" id="coste">
+      <div class="container">
+        <div class="section__head">
+          <p class="eyebrow">EL COSTE OCULTO</p>
+          <h2 class="h2">Una fricción repetida puede parecer pequeña. Acumulada durante un año, es un coste real.</h2>
+        </div>
+
+        <div class="cost" data-reveal-group>
+          <div class="cost__factor" data-reveal>
+            <p class="cost__label">Frecuencia</p>
+            <p class="cost__value">40 / semana</p>
+          </div>
+          <div class="cost__factor" data-reveal>
+            <p class="cost__label">Tiempo perdido</p>
+            <p class="cost__value">10 min</p>
+          </div>
+          <div class="cost__factor" data-reveal>
+            <p class="cost__label">Coste / hora</p>
+            <p class="cost__value">15 €</p>
+          </div>
+          <p class="cost__op" aria-hidden="true">=</p>
+          <div class="cost__result" data-reveal>
+            <p class="cost__label">Coste anual</p>
+            <p class="cost__value" data-count-to="4800" data-count-prefix="" data-count-suffix=" €">0 €</p>
+          </div>
+        </div>
+
+        <p class="cost__note">
+          Ejemplo ilustrativo: 40 búsquedas a la semana × 10 minutos × 15 €/h × 48 semanas.
+          No es un ahorro prometido, es una forma de mirar el problema.
+        </p>
+      </div>
+    </section>
+
+    <!-- ============================= MÉTODO ============================= -->
+    <section class="section section--surface" id="metodo">
+      <div class="container">
+        <div class="section__head">
+          <p class="eyebrow">MÉTODO</p>
+          <h2 class="h2">No empezamos por la herramienta. Empezamos por cómo funciona el trabajo.</h2>
+        </div>
+
+        <div class="method" data-reveal-group>
+          <svg class="method-line" viewBox="0 0 100 2" preserveAspectRatio="none" aria-hidden="true">
+            <path class="step-line" d="M0 1 H100" pathLength="1" />
+          </svg>
+
+          <article class="method__step" data-reveal>
+            <span class="method__num">01</span>
+            <h3 class="method__title">DIAGNOSTICAR</h3>
+            <p class="method__text">Observar el proceso real: pasos, personas, tiempos, herramientas y dependencias.</p>
+          </article>
+          <article class="method__step" data-reveal>
+            <span class="method__num">02</span>
+            <h3 class="method__title">CUANTIFICAR</h3>
+            <p class="method__text">Traducir fricciones a tiempo, coste, capacidad y calidad.</p>
+          </article>
+          <article class="method__step" data-reveal>
+            <span class="method__num">03</span>
+            <h3 class="method__title">PRIORIZAR</h3>
+            <p class="method__text">Elegir qué merece ser arreglado primero por impacto y viabilidad.</p>
+          </article>
+          <article class="method__step" data-reveal>
+            <span class="method__num">04</span>
+            <h3 class="method__title">DISEÑAR</h3>
+            <p class="method__text">Definir cómo debería funcionar la operación.</p>
+          </article>
+          <article class="method__step" data-reveal>
+            <span class="method__num">05</span>
+            <h3 class="method__title">IMPLEMENTAR</h3>
+            <p class="method__text">Acompañar la ejecución hasta que el nuevo proceso funcione.</p>
+          </article>
+          <article class="method__step" data-reveal>
+            <span class="method__num">06</span>
+            <h3 class="method__title">MEDIR</h3>
+            <p class="method__text">Comparar antes/después y documentar el resultado.</p>
+          </article>
+        </div>
+
+        <div style="margin-top: 48px;">
+          <a class="btn btn--ghost" href="que-hacemos.html">Ver si encaja →</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================= DIFERENCIACIÓN ============================= -->
+    <section class="section" id="diferenciacion">
+      <div class="container">
+        <div class="section__head">
+          <p class="eyebrow">DIFERENCIACIÓN</p>
+          <h2 class="h2">No entregamos solo un informe. Diseñamos, implementamos y medimos.</h2>
+        </div>
+
+        <div class="compare" data-reveal-group>
+          <div class="compare__row" data-reveal>
+            <p class="compare__head">Consultoría convencional</p>
+            <p class="compare__head compare__head--us">Ludus Ops</p>
+          </div>
+          <div class="compare__row" data-reveal>
+            <p class="compare__cell compare__cell--them">Detecta y recomienda</p>
+            <p class="compare__cell compare__cell--us">Detecta + cuantifica + diseña + implementa + mide</p>
+          </div>
+          <div class="compare__row" data-reveal>
+            <p class="compare__cell compare__cell--them">El entregable es el informe</p>
+            <p class="compare__cell compare__cell--us">El objetivo es una operación mejor</p>
+          </div>
+          <div class="compare__row" data-reveal>
+            <p class="compare__cell compare__cell--them">Habla de eficiencia</p>
+            <p class="compare__cell compare__cell--us">La traduce a tiempo, coste y capacidad</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================= ENTRADA ============================= -->
+    <section class="section section--surface" id="entrada">
+      <div class="container audit">
+        <div data-reveal>
+          <p class="eyebrow">OPERATIONS AUDIT</p>
+          <h2 class="h2">Empieza por un proceso. No por una transformación completa.</h2>
+          <p class="lead">
+            Medimos la situación actual de un proceso crítico y te mostramos qué merece
+            la pena cambiar. Sin compromiso de transformación total.
+          </p>
+          <p class="form__note" style="margin-top: 20px;">Presupuesto cerrado tras la primera llamada.</p>
+          <div style="margin-top: 36px;">
+            <a class="btn btn--primary btn--lg" href="contacto.html">Quiero revisar un proceso →</a>
+          </div>
+        </div>
+
+        <ul class="audit__list" data-reveal-group>
+          <li class="audit__item" data-reveal="left"><span class="num">01</span><span>Mapa del proceso</span></li>
+          <li class="audit__item" data-reveal="left"><span class="num">02</span><span>Fricciones detectadas</span></li>
+          <li class="audit__item" data-reveal="left"><span class="num">03</span><span>Impacto cuantificado</span></li>
+          <li class="audit__item" data-reveal="left"><span class="num">04</span><span>KPIs de control</span></li>
+          <li class="audit__item" data-reveal="left"><span class="num">05</span><span>Diseño del proceso futuro</span></li>
+          <li class="audit__item" data-reveal="left"><span class="num">06</span><span>Roadmap a 90 días</span></li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- ============================= CTA FINAL ============================= -->
+    <section class="cta-final">
+      <div class="container">
+        <h2 class="h2" data-reveal>Cuéntanos qué proceso no está funcionando como debería.</h2>
+        <p class="lead" data-reveal>En una primera conversación entendemos el proceso, el impacto que sospechas y si tiene sentido analizarlo.</p>
+        <a class="btn btn--primary btn--lg" href="contacto.html" data-reveal>Solicitar diagnóstico →</a>
+      </div>
+    </section>
+  </main>
+
+  <!-- ============================= FOOTER ============================= -->
+  <footer class="footer">
+    <div class="container footer__inner">
+      <div class="footer__brand">
+        <a class="logo" href="index.html" aria-label="Ludus Ops — Inicio">
+          <img class="logo__mark" src="assets/logo-mark.png" alt="" width="34" height="34" />
+          <span class="logo__text">
+            <span class="logo__name">Ludus Ops</span>
+            <span class="logo__sub">Engineering &amp; Operations</span>
+          </span>
+        </a>
+        <p class="footer__tagline">Medimos dónde una operación pierde tiempo, coste y capacidad, y ayudamos a rediseñarla.</p>
+      </div>
+
+      <nav class="footer__nav" aria-label="Navegación de pie de página">
+        <a href="que-hacemos.html">Qué hacemos</a>
+        <a href="sectores.html">Sectores</a>
+        <a href="nosotros.html">Nosotros</a>
+        <a href="contacto.html">Contacto</a>
+      </nav>
+
+      <div class="footer__legal">
+        <a href="aviso-legal.html">Aviso legal</a>
+        <a href="privacidad.html">Privacidad</a>
+        <a href="cookies.html">Cookies</a>
+      </div>
+    </div>
+
+    <div class="container footer__bottom">
+      <p class="footer__mail"><a href="mailto:ludusopsadmin@gmail.com">ludusopsadmin@gmail.com</a></p>
+      <p class="footer__copy">© <span id="year">2026</span> Ludus Ops. Todos los derechos reservados.</p>
+    </div>
+  </footer>
+
+  <script src="i18n.js" defer></script>
+  <script src="script.js" defer></script>
+</body>
+</html>

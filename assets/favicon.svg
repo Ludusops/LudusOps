@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Ludus Ops">
+  <rect width="64" height="64" fill="#0A0E12"/>
+  <rect x="14" y="14" width="36" height="36" fill="none" stroke="#FFFFFF" stroke-width="1.5"/>
+  <line x1="14" y1="32" x2="50" y2="32" stroke="#FFFFFF" stroke-width="1.5"/>
+  <line x1="32" y1="14" x2="32" y2="50" stroke="#FFFFFF" stroke-width="1.5"/>
+  <rect x="26" y="26" width="12" height="12" fill="#2463E8"/>
+</svg>

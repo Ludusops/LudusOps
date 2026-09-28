@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="Ludus Ops — Ingeniería de operaciones">
+  <rect width="1200" height="630" fill="#0A0E12"/>
+
+  <g stroke="#1F1F1F" stroke-width="1">
+    <line x1="0" y1="105" x2="1200" y2="105"/>
+    <line x1="0" y1="210" x2="1200" y2="210"/>
+    <line x1="0" y1="315" x2="1200" y2="315"/>
+    <line x1="0" y1="420" x2="1200" y2="420"/>
+    <line x1="0" y1="525" x2="1200" y2="525"/>
+    <line x1="200" y1="0" x2="200" y2="630"/>
+    <line x1="400" y1="0" x2="400" y2="630"/>
+    <line x1="600" y1="0" x2="600" y2="630"/>
+    <line x1="800" y1="0" x2="800" y2="630"/>
+    <line x1="1000" y1="0" x2="1000" y2="630"/>
+  </g>
+
+  <rect x="80" y="72" width="24" height="2" fill="#2463E8"/>
+  <text x="120" y="80" fill="#9A9A9A" font-family="monospace" font-size="16" letter-spacing="4">ENGINEERING &amp; OPERATIONS</text>
+
+  <text x="80" y="250" fill="#F5F7F8" font-family="Helvetica, Arial, sans-serif" font-size="68" font-weight="600" letter-spacing="-2">¿Cuánto te está costando</text>
+  <text x="80" y="330" fill="#F5F7F8" font-family="Helvetica, Arial, sans-serif" font-size="68" font-weight="600" letter-spacing="-2">que tu empresa</text>
+  <text x="80" y="410" fill="#F5F7F8" font-family="Helvetica, Arial, sans-serif" font-size="68" font-weight="600" letter-spacing="-2">funcione así?</text>
+
+  <line x1="80" y1="500" x2="1120" y2="500" stroke="#262626" stroke-width="1"/>
+
+  <text x="80" y="548" fill="#8B949E" font-family="Helvetica, Arial, sans-serif" font-size="22">Analizamos cómo funciona realmente tu operación y cuantificamos dónde se pierde tiempo, dinero y capacidad.</text>
+
+  <text x="80" y="596" fill="#F5F7F8" font-family="monospace" font-size="16" letter-spacing="3">Ludus Ops</text>
+  <text x="1120" y="596" fill="#8B949E" font-family="monospace" font-size="16" letter-spacing="3" text-anchor="end">ENGINEERING &amp; OPERATIONS</text>
+</svg>

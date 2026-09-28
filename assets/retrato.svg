@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 520" role="img" aria-label="Retrato">
+  <rect width="420" height="520" fill="#111D29" />
+  <circle cx="210" cy="200" r="86" fill="#172532" />
+  <path d="M60 520c0-83 67-150 150-150s150 67 150 150z" fill="#172532" />
+</svg>
