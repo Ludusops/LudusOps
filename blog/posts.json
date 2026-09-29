@@ -1,6 +1,60 @@
 {
-  "updated": "2026-09-28T16:31:20.461Z",
+  "updated": "2026-09-29T06:16:03.481Z",
   "posts": [
+    {
+      "id": "1h2pwvq",
+      "title": "Walmart CEO addresses dynamic pricing concerns",
+      "url": "https://www.grocerydive.com/news/walmart-ceo-dynamic-pricing-concerns/831525/",
+      "source": "Grocery Dive",
+      "lang": "en",
+      "date": "2026-09-28T22:17:00.000Z",
+      "excerpt": "John Furner issued a letter attempting to dispel pricing concerns about digital shelf labels and Sparky, but some say a Walmart patent leaves the door open."
+    },
+    {
+      "id": "m5j43i",
+      "title": "Nvidia bakes agent governance into infrastructure layer",
+      "url": "https://www.ciodive.com/news/nvidia-bakes-agent-governance-infrastructure-layer/831565/",
+      "source": "CIO Dive",
+      "lang": "en",
+      "date": "2026-09-28T20:15:50.000Z",
+      "excerpt": "The Nvidia Open Agent Safety Platform aims to enhance control over agents, but it’s unlikely a single platform will let enterprises rule all agentic AI, analysts told CIO Dive."
+    },
+    {
+      "id": "m9bmwi",
+      "title": "Meta carves out enterprise offerings, brings in new leadership",
+      "url": "https://www.ciodive.com/news/meta-carves-out-enterprise-offerings/831561/",
+      "source": "CIO Dive",
+      "lang": "en",
+      "date": "2026-09-28T20:12:31.000Z",
+      "excerpt": "The consumer-focused provider faces several hurdles in earning the trust of enterprise CIOs, Gartner’s Arun Chandrasekaran said."
+    },
+    {
+      "id": "g7md15",
+      "title": "Nvidia Adds Hardware Monitoring Design to AI Agent Safety Platform",
+      "url": "https://www.techrepublic.com/article/news-nvidia-ai-agent-safety-platform-hardware-monitoring/",
+      "source": "TechRepublic",
+      "lang": "en",
+      "date": "2026-09-28T19:11:07.000Z",
+      "excerpt": "Nvidia adds a Sentry hardware monitoring design to its AI agent safety platform. See what OpenShell offers now and what IT teams still need to verify."
+    },
+    {
+      "id": "177d44w",
+      "title": "5 takeaways from Groceryshop",
+      "url": "https://www.grocerydive.com/news/takeaways-groceryshop-conference-2026-las-vegas/831421/",
+      "source": "Grocery Dive",
+      "lang": "en",
+      "date": "2026-09-28T17:58:57.000Z",
+      "excerpt": "Artificial intelligence was the talk of this year’s show, but executives and analysts also had a lot to say about managing loyalty, digital operations and more."
+    },
+    {
+      "id": "r1f0mw",
+      "title": "Hy-Vee looks to dramatically speed up online shopping",
+      "url": "https://www.grocerydive.com/news/hy-vee-e-commerce-groceryshop-ceo-jeremy-gosch/831403/",
+      "source": "Grocery Dive",
+      "lang": "en",
+      "date": "2026-09-28T16:39:58.000Z",
+      "excerpt": "CEO Jeremy Gosch said the regional grocer is looking to cut the time it takes for shoppers to place an order on its website to no more than five minutes."
+    },
     {
       "id": "115dfzs",
       "title": "Defense Department expands workforce development program to 3 states",
@@ -108,6 +162,15 @@
       "lang": "en",
       "date": "2026-09-28T14:19:00.000Z",
       "excerpt": "From a creative product lineup to helpful shelf tags, the chain makes shopping for its seasonal offerings a treasure hunt experience."
+    },
+    {
+      "id": "8xwbke",
+      "title": "Factory robots surpass 5M worldwide, IFR reports",
+      "url": "https://www.manufacturingdive.com/news/factory-robots-surpass-5m-worldwide-ifr-reports/831476/",
+      "source": "Manufacturing Dive",
+      "lang": "en",
+      "date": "2026-09-28T14:14:29.000Z",
+      "excerpt": "That number has doubled over the past seven years and is set to continue growing as manufacturers navigate labor and cost pressures, according to the robotics trade group."
     },
     {
       "id": "1qq9zu4",
@@ -344,6 +407,24 @@
       "excerpt": "Continuity, not speed, is AI infrastructure's next challenge. Can your agent pick up where it left off?"
     },
     {
+      "id": "fzyt1g",
+      "title": "AI’s next enterprise risk is generated sprawl",
+      "url": "https://www.ciodive.com/spons/ais-next-enterprise-risk-is-generated-sprawl/831090/",
+      "source": "CIO Dive",
+      "lang": "en",
+      "date": "2026-09-28T09:00:00.000Z",
+      "excerpt": "Speed of AI development is outpacing governance. Here's what CIOs need to know."
+    },
+    {
+      "id": "y3c3ii",
+      "title": "Claude integrations: How to use Zapier with Claude (Fable 5.1, Opus 5.5, and more)",
+      "url": "https://zapier.com/blog/automate-claude",
+      "source": "Zapier",
+      "lang": "en",
+      "date": "2026-09-28T07:00:00.000Z",
+      "excerpt": "With every new model release, Claude tops almost every benchmark. And chatting with Claude makes it clear why: it's good at everything. But while there's power in a back-and-forth conversation, you can accomplish a lot more when you use Zapier to connect…"
+    },
+    {
       "id": "1e3asdt",
       "title": "Qué es Business Analytics: definición, tipos y diferencias",
       "url": "https://www.iebschool.com/hub/que-es-business-analytics-definiciontipos-y-diferencias-big-data/",
@@ -351,6 +432,24 @@
       "lang": "es",
       "date": "2026-09-28T06:07:58.000Z",
       "excerpt": "Business Analytics utiliza datos, técnicas analíticas y modelos para entender qué ocurre en un negocio, explicar por qué, estimar qué puede pasar y decidir qué hacer después."
+    },
+    {
+      "id": "zqla8l",
+      "title": "12 Google Docs formatting tricks to make your files pretty",
+      "url": "https://zapier.com/blog/google-docs-formatting-tips",
+      "source": "Zapier",
+      "lang": "en",
+      "date": "2026-09-28T05:00:00.000Z",
+      "excerpt": "We all have our reasons for loving Google Docs. (Mine is that it keeps my computer desktop clean—thanks for asking!) And while Google Docs isn't generally known for its looks, it has a whole load of features that help you add some flair to your documents.…"
+    },
+    {
+      "id": "16ux8gg",
+      "title": "Which AI models can you automate on Zapier? (OpenAI, Anthropic, Google, Moonshot AI, Z.ai, and more)",
+      "url": "https://zapier.com/blog/ai-models-on-zapier",
+      "source": "Zapier",
+      "lang": "en",
+      "date": "2026-09-28T05:00:00.000Z",
+      "excerpt": "Staying up to date on the latest AI models is like trying to keep my house vacuumed in the height of my dog's shedding season (a losing battle). New AI models drop practically every week, and it's not exactly obvious which ones deserve a spot in your…"
     },
     {
       "id": "gd9mnw",
@@ -369,6 +468,24 @@
       "lang": "en",
       "date": "2026-09-28T04:00:00.000Z",
       "excerpt": "My local grocery store decided to be insufferable a few weeks ago and rearrange the aisles. I used to be able to walk through that place blindfolded if I wanted to. Now, it takes me 10 minutes to find the right beans because, for some reason, the dried and…"
+    },
+    {
+      "id": "1yb4vyk",
+      "title": "The 5 best Kanban tools in 2026",
+      "url": "https://zapier.com/blog/best-kanban-apps",
+      "source": "Zapier",
+      "lang": "en",
+      "date": "2026-09-28T04:00:00.000Z",
+      "excerpt": "If you're managing a project that's a bit too complex for a to-do list app but not complex enough that it requires a full-on project management app, you're looking for a Kanban app. I've used Kanban apps a lot over the years to manage totally different kinds…"
+    },
+    {
+      "id": "z812sq",
+      "title": "Claude 5.5: What you need to know about Anthropic's AI models and chatbot",
+      "url": "https://zapier.com/blog/claude-ai",
+      "source": "Zapier",
+      "lang": "en",
+      "date": "2026-09-28T04:00:00.000Z",
+      "excerpt": "I've been using Claude long enough to remember when the main selling point was that it was a nicer chatbot to talk to than the alternatives. (That's still true, for what it's worth.) But Claude no longer just talks to you about your work; it also does your…"
     },
     {
       "id": "1gjbdi5",
@@ -783,123 +900,6 @@
       "lang": "en",
       "date": "2026-09-20T13:00:00.000Z",
       "excerpt": "Meet Anne Perry through her career story, operations expertise, remote-work perspective, leadership advice, and lessons from building Process Street's Solutions Consulting team. The post Employee Spotlight: Anne Perry (Director, Solutions Consulting) first…"
-    },
-    {
-      "id": "mtuxfm",
-      "title": "Cómo aparecer en ChatGPT: SEO para conseguir visibilidad, menciones y citas",
-      "url": "https://www.iebschool.com/hub/como-posicionar-tu-empresa-con-gso-generative-search-optimization-en-chatgpt-seo-sem/",
-      "source": "IEB School",
-      "lang": "es",
-      "date": "2026-09-19T21:03:22.000Z",
-      "excerpt": "Aparecer en ChatGPT puede significar ser mencionado, recomendado, citado, enlazado o recibir una visita. Esta guía explica qué permite controlar OpenAI, qué sabemos sobre la visibilidad de marcas y cómo medirla sin inventar un ranking que no existe."
-    },
-    {
-      "id": "u6hrl3",
-      "title": "AI Awards 2026: Barcelona reúne a una nueva generación de creadores audiovisuales con IA",
-      "url": "https://www.iebschool.com/hub/ai-awards-el-primer-festival-que-premia-la-creatividad-audiovisual-con-inteligencia-artificial/",
-      "source": "IEB School",
-      "lang": "es",
-      "date": "2026-09-19T20:30:06.000Z",
-      "excerpt": "IEBS Business School organiza los AI Awards, el certamen pionero que busca poner nombre y apellidos a los visionarios que ya están dominando la IA generativa audiovisual."
-    },
-    {
-      "id": "j62pdp",
-      "title": "GEO: qué es y cómo optimizar tu contenido para la búsqueda con IA",
-      "url": "https://www.iebschool.com/hub/que-es-generative-engine-optimization-geo-como-crear-contenido-para-la-busqueda-generativa-seo-sem/",
-      "source": "IEB School",
-      "lang": "es",
-      "date": "2026-09-19T18:33:36.000Z",
-      "excerpt": "GEO amplía el trabajo SEO hacia ChatGPT, AI Overviews, AI Mode, Gemini y Perplexity. Explicamos cómo funciona, qué sabemos realmente sobre la visibilidad generativa y cómo medirla sin confundir hipótesis con factores demostrados."
-    },
-    {
-      "id": "rjiqwx",
-      "title": "Employee Retention Strategies to Survive the Great Resignation",
-      "url": "https://www.process.st/employee-retention-strategies-for-the-great-resignation/",
-      "source": "Process.st",
-      "lang": "en",
-      "date": "2026-09-19T13:00:00.000Z",
-      "excerpt": "Learn seven practical employee retention strategies for onboarding, flexibility, growth, connection, recognition, and trust after the Great Resignation. The post Employee Retention Strategies to Survive the Great Resignation first appeared on Process Street |…"
-    },
-    {
-      "id": "1gxbl8a",
-      "title": "9 Drone Maintenance Checklists for Commercial Operations",
-      "url": "https://www.process.st/drone-maintenance/",
-      "source": "Process.st",
-      "lang": "en",
-      "date": "2026-09-17T13:00:00.000Z",
-      "excerpt": "Use nine drone maintenance checklists for pre-flight, post-flight, safety, compliance, testing, troubleshooting, routine service, repair, and setup. The post 9 Drone Maintenance Checklists for Commercial Operations first appeared on Process Street |…"
-    },
-    {
-      "id": "1s6kv1p",
-      "title": "Humanos aumentados: Capacidad con criterio o criterio sin capacidad",
-      "url": "https://www.iebschool.com/hub/el-ser-humano-aumentado-la-ia-nos-permite-hacer-mas-sin-saber-hacerlo-todo-inteligencia-artificial/",
-      "source": "IEB School",
-      "lang": "es",
-      "date": "2026-09-17T11:40:32.000Z",
-      "excerpt": ""
-    },
-    {
-      "id": "1usn4d2",
-      "title": "Excellence in Product Development Takes High Performing Cross-Functional Teams, Here’s What They Look Like",
-      "url": "https://www.lean.org/the-lean-post/articles/excellence-in-product-development-takes-high-performing-cross-functional-teams-heres-what-they-look-like/",
-      "source": "Lean.org",
-      "lang": "en",
-      "date": "2026-09-17T09:08:00.000Z",
-      "excerpt": "Staffing teams upfront won't fix rocky launches. John Drogosz on the four behaviors that separate cross-functional teams that gel from those that stall."
-    },
-    {
-      "id": "12vh58z",
-      "title": "Gap Analysis: How to Bridge the Gap Between Performance and Potential",
-      "url": "https://www.process.st/gap-analysis/",
-      "source": "Process.st",
-      "lang": "en",
-      "date": "2026-09-16T13:00:00.000Z",
-      "excerpt": "Learn how to conduct a gap analysis, compare current performance with a measurable target, find root causes, prioritize actions, and monitor progress. The post Gap Analysis: How to Bridge the Gap Between Performance and Potential first appeared on Process…"
-    },
-    {
-      "id": "2lpcb7",
-      "title": "From 40 Hours to 30 Minutes: How AI Will Remake the Shopfloor and Empower Workers",
-      "url": "https://www.lean.org/the-lean-post/articles/from-40-hours-to-30-minutes-how-ai-will-remake-the-shopfloor-and-empower-workers/",
-      "source": "Lean.org",
-      "lang": "en",
-      "date": "2026-09-16T09:00:00.000Z",
-      "excerpt": "An engineer spent 40 hours on a time study. AI ran the same analysis in 30 minutes for $4 at 79% accuracy. The bottleneck to shop-floor tools is now you."
-    },
-    {
-      "id": "9tkumj",
-      "title": "The Lean Transformation at Viwinco, Part 1: Moving Forward with Lean",
-      "url": "https://www.lean.org/the-lean-post/articles/the-lean-transformation-at-viwinco-part-1-moving-forward-with-lean/",
-      "source": "Lean.org",
-      "lang": "en",
-      "date": "2026-09-14T14:21:12.000Z",
-      "excerpt": "Growing fast isn't the same as running lean. See how custom window maker Viwinco began trading firefighting and push production for a scalable lean system."
-    },
-    {
-      "id": "16sqa77",
-      "title": "Competitividad: transformar fortalezas en oportunidades",
-      "url": "https://www.apd.es/competitividad-transformar-fortalezas-oportunidades-covadonga-toca-igape/",
-      "source": "APD",
-      "lang": "es",
-      "date": "2026-09-14T11:31:09.000Z",
-      "excerpt": "Los informes sobre competitividad suelen interpretarse como una clasificación. Como una referencia que nos dice quién está por delante y quién debe mejorar. Sin embargo, su verdadero valor es otro: ayudarnos a identificar dónde estamos y, sobre todo, hacia…"
-    },
-    {
-      "id": "xdnfp1",
-      "title": "Enterprise Content Management (ECM): How to Organize Your Content Like a Pro",
-      "url": "https://www.process.st/enterprise-content-management/",
-      "source": "Process.st",
-      "lang": "en",
-      "date": "2026-09-12T13:00:00.000Z",
-      "excerpt": "Learn what enterprise content management is, how ECM systems govern the content lifecycle, where they stop, and how to choose the right platform. The post Enterprise Content Management (ECM): How to Organize Your Content Like a Pro first appeared on Process…"
-    },
-    {
-      "id": "6i97au",
-      "title": "Default to Action & Overcome the Toolbox Fallacy",
-      "url": "https://www.process.st/toolbox-fallacy/",
-      "source": "Process.st",
-      "lang": "en",
-      "date": "2026-09-12T13:00:00.000Z",
-      "excerpt": "The toolbox fallacy is the belief that action must wait for the perfect tool. Learn how to test real constraints, start small, and move with care. The post Default to Action & Overcome the Toolbox Fallacy first appeared on Process Street | Compliance…"
     }
   ]
 }
