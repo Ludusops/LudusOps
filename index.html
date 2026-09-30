@@ -21,6 +21,9 @@
   <meta name="twitter:description" content="Analizamos cómo funciona realmente tu operación y cuantificamos dónde se pierde tiempo, dinero y capacidad." />
   <meta name="twitter:image" content="assets/og-image.svg" />
 
+  <link rel="alternate" hreflang="es" href="https://ludusops.com/" />
+  <link rel="alternate" hreflang="x-default" href="https://ludusops.com/" />
+
   <link rel="icon" type="image/svg+xml" href="assets/favicon.svg" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -164,29 +167,33 @@
           <h2 class="h2">Una fricción repetida puede parecer pequeña. Acumulada durante un año, es un coste real.</h2>
         </div>
 
-        <div class="cost" data-reveal-group>
+        <div class="cost" id="costCalc" data-reveal-group>
           <div class="cost__factor" data-reveal>
-            <p class="cost__label">Frecuencia</p>
-            <p class="cost__value">40 / semana</p>
+            <label class="cost__label" for="costFreq">Veces / semana</label>
+            <input class="cost__input" type="number" id="costFreq" min="0" step="1" value="40" inputmode="numeric" aria-label="Veces por semana" />
           </div>
           <div class="cost__factor" data-reveal>
-            <p class="cost__label">Tiempo perdido</p>
-            <p class="cost__value">10 min</p>
+            <label class="cost__label" for="costMin">Minutos perdidos</label>
+            <input class="cost__input" type="number" id="costMin" min="0" step="1" value="10" inputmode="numeric" aria-label="Minutos perdidos por vez" />
           </div>
           <div class="cost__factor" data-reveal>
-            <p class="cost__label">Coste / hora</p>
-            <p class="cost__value">15 €</p>
+            <label class="cost__label" for="costRate">Coste / hora (€)</label>
+            <input class="cost__input" type="number" id="costRate" min="0" step="1" value="15" inputmode="numeric" aria-label="Coste por hora en euros" />
+          </div>
+          <div class="cost__factor" data-reveal>
+            <label class="cost__label" for="costPeople">Personas</label>
+            <input class="cost__input" type="number" id="costPeople" min="0" step="1" value="1" inputmode="numeric" aria-label="Número de personas afectadas" />
           </div>
           <p class="cost__op" aria-hidden="true">=</p>
           <div class="cost__result" data-reveal>
             <p class="cost__label">Coste anual</p>
-            <p class="cost__value" data-count-to="4800" data-count-prefix="" data-count-suffix=" €">0 €</p>
+            <p class="cost__value" id="costResult" aria-live="polite">4.800 €</p>
           </div>
         </div>
 
         <p class="cost__note">
-          Ejemplo ilustrativo: 40 búsquedas a la semana × 10 minutos × 15 €/h × 48 semanas.
-          No es un ahorro prometido, es una forma de mirar el problema.
+          Cálculo: veces/semana × minutos × coste/hora × personas × 48 semanas. Cambia los valores
+          para ver tu caso. No es un ahorro prometido, es una forma de mirar el problema.
         </p>
       </div>
     </section>
@@ -281,7 +288,11 @@
             Medimos la situación actual de un proceso crítico y te mostramos qué merece
             la pena cambiar. Sin compromiso de transformación total.
           </p>
-          <p class="form__note" style="margin-top: 20px;">Presupuesto cerrado tras la primera llamada.</p>
+          <dl class="scope">
+            <div class="scope__row"><dt>Duración</dt><dd>2-3 semanas</dd></div>
+            <div class="scope__row"><dt>Entregables</dt><dd>Mapa del proceso, fricciones, impacto cuantificado, KPIs, diseño del proceso futuro y roadmap a 90 días.</dd></div>
+            <div class="scope__row"><dt>Precio</dt><dd>Según la complejidad. Se cierra tras una llamada inicial gratuita de 15 minutos.</dd></div>
+          </dl>
           <div style="margin-top: 36px;">
             <a class="btn btn--primary btn--lg" href="contacto.html">Quiero revisar un proceso →</a>
           </div>
@@ -298,12 +309,168 @@
       </div>
     </section>
 
+    <!-- ============================= PARA QUIÉN ============================= -->
+    <section class="section" id="para-quien">
+      <div class="container">
+        <div class="section__head">
+          <p class="eyebrow">PARA QUIÉN ES</p>
+          <h2 class="h2">Empezamos por un tipo de empresa concreta.</h2>
+          <p class="lead">
+            No trabajamos con «cualquier empresa». Nos centramos en pymes de 10 a 50 empleados
+            donde un proceso repetitivo ya duele. Si encajas en uno de estos perfiles, lo verás rápido.
+          </p>
+        </div>
+        <ul class="grid grid--3" data-reveal-group>
+          <li class="card" data-reveal>
+            <span class="card__num">01</span>
+            <h3 class="card__title">Logística</h3>
+            <p class="card__text">Preparación de pedidos, rutas, devoluciones y coordinación entre almacén y oficina.</p>
+          </li>
+          <li class="card" data-reveal>
+            <span class="card__num">02</span>
+            <h3 class="card__title">Hostelería</h3>
+            <p class="card__text">Pedidos a proveedores, escandallos, turnos y control de mermas.</p>
+          </li>
+          <li class="card" data-reveal>
+            <span class="card__num">03</span>
+            <h3 class="card__title">Industria ligera</h3>
+            <p class="card__text">Planificación, retrabajo, control de calidad y dependencia de personas clave.</p>
+          </li>
+          <li class="card" data-reveal>
+            <span class="card__num">04</span>
+            <h3 class="card__title">E-commerce</h3>
+            <p class="card__text">Picos de pedidos, gestión de stock, atención al cliente y datos dispersos.</p>
+          </li>
+        </ul>
+        <p class="form__note" style="margin-top: 28px;">¿No encajas? Si existe un proceso repetitivo, medible y con impacto, podemos estudiarlo.</p>
+      </div>
+    </section>
+
+    <!-- ============================= PRUEBA ============================= -->
+    <section class="section section--surface" id="prueba">
+      <div class="container">
+        <div class="section__head">
+          <p class="eyebrow">PRUEBA</p>
+          <h2 class="h2">Todavía no tenemos clientes que citar. Preferimos decirlo.</h2>
+          <p class="lead">
+            No inventamos testimonios ni logos. Mientras llegan los primeros casos medidos,
+            te mostramos un ejemplo ilustrativo y el trabajo que ya hemos hecho.
+          </p>
+        </div>
+
+        <article class="illustrative" data-reveal>
+          <p class="illustrative__tag">CASO ILUSTRATIVO · NO ES UN CLIENTE REAL</p>
+          <h3 class="illustrative__title">Cómo se vería un Audit en una pyme de logística.</h3>
+          <p class="illustrative__text">
+            Una empresa de 30 empleados prepara unos 400 pedidos al día. El equipo dedica parte
+            de la jornada a comprobar direcciones y a rehacer albaranes por errores detectados
+            tarde. El Audit mapea el proceso, mide cuánto tiempo se va en esas comprobaciones y
+            cuantifica el coste anual antes de proponer ningún cambio.
+          </p>
+          <p class="illustrative__note">
+            Ejemplo construido para explicar el método. Las cifras son hipotéticas y no representan a ningún cliente.
+          </p>
+        </article>
+
+        <div class="section__head" style="margin-top: 72px; margin-bottom: 32px;">
+          <p class="eyebrow">TRABAJO REALIZADO</p>
+          <h2 class="h3">Proyectos publicados con permiso.</h2>
+        </div>
+        <div class="grid grid--2" data-reveal-group>
+          <a class="card--project" href="nosotros.html" data-reveal>
+            <img src="assets/proyecto-gulacor.svg" alt="Proyecto The Gula Corp." loading="lazy" />
+            <span class="card--project__overlay">
+              <span class="card--project__title">The Gula Corp.</span>
+              <span class="card--project__text">Web corporativa y carta digital.</span>
+              <span class="card--project__link">Ver en Nosotros →</span>
+            </span>
+          </a>
+          <a class="card--project" href="nosotros.html" data-reveal>
+            <img src="assets/proyecto-torriet.svg" alt="Proyecto Delicias Torriet" loading="lazy" />
+            <span class="card--project__overlay">
+              <span class="card--project__title">Delicias Torriet</span>
+              <span class="card--project__text">Tienda online y catálogo.</span>
+              <span class="card--project__link">Ver en Nosotros →</span>
+            </span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================= QUÉ PASA DESPUÉS ============================= -->
+    <section class="section" id="proceso">
+      <div class="container">
+        <div class="section__head">
+          <p class="eyebrow">QUÉ PASA DESPUÉS</p>
+          <h2 class="h2">Cinco pasos, sin compromiso.</h2>
+          <p class="lead">Sabes qué ocurre en cada momento. No hay letra pequeña.</p>
+        </div>
+        <ol class="steps" data-reveal-group>
+          <li class="steps__item" data-reveal><span class="steps__num">01</span><div><p class="steps__title">Respondo en 24-48 h</p><p class="steps__text">Reviso lo que cuentas y te digo si tiene sentido seguir.</p></div></li>
+          <li class="steps__item" data-reveal><span class="steps__num">02</span><div><p class="steps__title">Llamada de 15 minutos</p><p class="steps__text">Entendemos el proceso y el impacto que sospechas.</p></div></li>
+          <li class="steps__item" data-reveal><span class="steps__num">03</span><div><p class="steps__title">Propuesta con alcance y precio</p><p class="steps__text">Qué incluye, cuánto dura y cuánto cuesta, por escrito.</p></div></li>
+          <li class="steps__item" data-reveal><span class="steps__num">04</span><div><p class="steps__title">Audit (2-3 semanas)</p><p class="steps__text">Medimos la situación actual del proceso acordado.</p></div></li>
+          <li class="steps__item" data-reveal><span class="steps__num">05</span><div><p class="steps__title">Informe con plan de mejora</p><p class="steps__text">Fricciones, impacto cuantificado y roadmap a 90 días.</p></div></li>
+        </ol>
+      </div>
+    </section>
+
+    <!-- ============================= FAQ ============================= -->
+    <section class="section section--surface" id="faq">
+      <div class="container">
+        <div class="section__head">
+          <p class="eyebrow">PREGUNTAS FRECUENTES</p>
+          <h2 class="h2">Lo que suelen preguntar antes de empezar.</h2>
+        </div>
+        <div class="faq">
+          <details class="faq__item">
+            <summary class="faq__q">¿Cuánto dura?</summary>
+            <p class="faq__a">Un Audit de un proceso acotado suele durar 2-3 semanas. El alcance y el calendario se definen antes de empezar.</p>
+          </details>
+          <details class="faq__item">
+            <summary class="faq__q">¿Qué tengo que preparar?</summary>
+            <p class="faq__a">Nada especial. Con que nos cuentes el proceso, nos dejes observar cómo se trabaja y hablar con el equipo es suficiente.</p>
+          </details>
+          <details class="faq__item">
+            <summary class="faq__q">¿Es confidencial?</summary>
+            <p class="faq__a">Sí. Lo que compartes se trata de forma confidencial y no se publica ningún caso sin tu permiso por escrito.</p>
+          </details>
+          <details class="faq__item">
+            <summary class="faq__q">¿Necesito ser una empresa grande?</summary>
+            <p class="faq__a">No. El criterio no es el tamaño, sino que exista un proceso repetitivo, medible y con impacto. Trabajamos sobre todo con pymes de 10 a 50 empleados.</p>
+          </details>
+          <details class="faq__item">
+            <summary class="faq__q">¿Cómo se mide el resultado?</summary>
+            <p class="faq__a">Con una línea base antes de intervenir y la misma medición después. Sin línea base no hay mejora demostrable.</p>
+          </details>
+          <details class="faq__item">
+            <summary class="faq__q">¿Tenéis que acceder a nuestros sistemas?</summary>
+            <p class="faq__a">No necesariamente. Trabajamos con lo que ya existe: observación del trabajo, entrevistas y los datos de los que dispongáis.</p>
+          </details>
+        </div>
+      </div>
+    </section>
+
     <!-- ============================= CTA FINAL ============================= -->
-    <section class="cta-final">
+    <section class="cta-final" id="contacto-cta">
       <div class="container">
         <h2 class="h2" data-reveal>Cuéntanos qué proceso no está funcionando como debería.</h2>
         <p class="lead" data-reveal>En una primera conversación entendemos el proceso, el impacto que sospechas y si tiene sentido analizarlo.</p>
-        <a class="btn btn--primary btn--lg" href="contacto.html" data-reveal>Solicitar diagnóstico →</a>
+
+        <div class="cta-levels" data-reveal-group>
+          <div class="cta-level" data-reveal>
+            <p class="cta-level__tag">LLAMADA DE 15 MIN</p>
+            <p class="cta-level__text">Una conversación corta para ver si encaja. Sin presentación ni compromiso.</p>
+            <a class="btn btn--ghost" href="tel:+34625369929">Llamar al +34 625 369 929</a>
+            <a class="btn btn--ghost is-hidden" id="homeCal" target="_blank" rel="noopener">Reservar en el calendario →</a>
+            <a class="btn btn--ghost" href="checklist.html">Descargar la checklist →</a>
+          </div>
+          <div class="cta-level cta-level--primary" data-reveal>
+            <p class="cta-level__tag">DIAGNÓSTICO</p>
+            <p class="cta-level__text">Cuéntanos el proceso por escrito y te respondemos con el siguiente paso en 24-48 h.</p>
+            <a class="btn btn--primary" href="contacto.html">Solicitar diagnóstico →</a>
+          </div>
+        </div>
       </div>
     </section>
   </main>

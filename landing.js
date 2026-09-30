@@ -62,11 +62,7 @@
     btn.textContent = "Enviando…";
 
     api.create(data, "completo", "landing").then(function () {
-      form.classList.add("is-hidden");
-      if (success) {
-        success.classList.remove("is-hidden");
-        success.scrollIntoView({ behavior: "smooth", block: "center" });
-      }
+      window.location.href = "gracias.html";
     }).catch(function () {
       btn.disabled = false;
       btn.textContent = "Quiero mi consulta gratuita →";

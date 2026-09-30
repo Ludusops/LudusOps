@@ -155,6 +155,38 @@
     counters.forEach(function (el) { observer.observe(el); });
   }
 
+  /* ----------------------------- COST CALCULATOR ------------------------- */
+  function initCostCalc() {
+    var root = document.getElementById("costCalc");
+    if (!root) return;
+
+    var freq = document.getElementById("costFreq");
+    var mins = document.getElementById("costMin");
+    var rate = document.getElementById("costRate");
+    var people = document.getElementById("costPeople");
+    var out = document.getElementById("costResult");
+    if (!freq || !mins || !rate || !people || !out) return;
+
+    var WEEKS = 48;
+    var inputs = [freq, mins, rate, people];
+
+    function update() {
+      var f = parseFloat(freq.value) || 0;
+      var m = parseFloat(mins.value) || 0;
+      var r = parseFloat(rate.value) || 0;
+      var p = parseFloat(people.value) || 0;
+      var annual = f * (m / 60) * r * p * WEEKS;
+      var value = Math.round(annual);
+      out.textContent = new Intl.NumberFormat("es-ES", { maximumFractionDigits: 0 }).format(value) + " €";
+    }
+
+    inputs.forEach(function (el) {
+      el.addEventListener("input", update);
+      el.addEventListener("change", update);
+    });
+    update();
+  }
+
   /* ----------------------------- SERVICES ACCORDION ---------------------- */
   function initServices() {
     var services = document.querySelectorAll(".service");
@@ -189,7 +221,13 @@
     supabaseUrl: "https://osyvnsviqvnibivcyibj.supabase.co",
     supabaseKey: "sb_publishable_vZq26_h5JkxogoD4ipyXKg_cDfZWTf_",
     notifyEmail: "ludusopsadmin@gmail.com",
-    calendlyUrl: ""
+    // Rellenar cuando exista la cuenta. Ej.: "https://cal.com/ludus-ops/15min"
+    calendlyUrl: "",
+    // Rellenar cuando exista la cuenta de Plausible. Ej.: "ludusops.com"
+    plausibleDomain: "",
+    // Página de empresa de LinkedIn. Confirma o cambia esta URL.
+    linkedinUrl: "https://www.linkedin.com/company/ludus-ops/",
+    phone: "+34 625 369 929"
   };
 
   /* ----------------------------- TRACKING -------------------------------- */
@@ -198,6 +236,89 @@
     var payload = { event: name };
     if (data) Object.keys(data).forEach(function (k) { payload[k] = data[k]; });
     window.dataLayer.push(payload);
+    // Plausible (sin cookies). Solo se carga si hay consentimiento.
+    if (typeof window.plausible === "function") {
+      window.plausible(name, data ? { props: data } : undefined);
+    }
+  }
+
+  /* ----------------------------- CONSENT (RGPD) -------------------------- */
+  var CONSENT_KEY = "ludus-consent";
+
+  function consentValue() {
+    try { return localStorage.getItem(CONSENT_KEY); } catch (e) { return null; }
+  }
+
+  function loadAnalytics() {
+    if (!CONFIG.plausibleDomain) return;
+    if (document.getElementById("plausible-script")) return;
+    var s = document.createElement("script");
+    s.id = "plausible-script";
+    s.defer = true;
+    s.setAttribute("data-domain", CONFIG.plausibleDomain);
+    s.src = "https://plausible.io/js/script.js";
+    document.head.appendChild(s);
+  }
+
+  function setConsent(value) {
+    try { localStorage.setItem(CONSENT_KEY, value); } catch (e) {}
+    if (value === "granted") loadAnalytics();
+    document.dispatchEvent(new CustomEvent("ludus:consent", { detail: { value: value } }));
+  }
+
+  var CONSENT_CSS =
+    ".consent{position:fixed;left:0;right:0;bottom:0;z-index:300;padding:16px var(--gutter,20px) calc(16px + env(safe-area-inset-bottom,0px));" +
+    "background:rgba(10,14,18,.96);backdrop-filter:blur(12px);border-top:1px solid #25303A;color:#F5F7F8;" +
+    "font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:14px;line-height:1.5;" +
+    "transform:translateY(110%);transition:transform .4s cubic-bezier(.16,1,.3,1)}" +
+    "[data-theme='light'] .consent{background:rgba(245,247,248,.97);border-top-color:#DCE2E8;color:#0A0E12}" +
+    ".consent.is-open{transform:translateY(0)}" +
+    ".consent__inner{max-width:1200px;margin:0 auto;display:flex;flex-wrap:wrap;align-items:center;gap:16px;justify-content:space-between}" +
+    ".consent__text{max-width:70ch;color:inherit;opacity:.85}" +
+    ".consent__text a{color:#3B7BFA;text-decoration:underline;text-underline-offset:3px}" +
+    ".consent__actions{display:flex;gap:10px;flex-wrap:wrap}" +
+    ".consent__btn{min-height:44px;padding:0 20px;border-radius:6px;font:inherit;font-weight:600;cursor:pointer;border:1px solid transparent}" +
+    ".consent__btn--accept{background:#2463E8;color:#fff}" +
+    ".consent__btn--accept:hover{background:#3B7BFA}" +
+    ".consent__btn--reject{background:transparent;color:inherit;border-color:#33414D}" +
+    ".consent__btn--reject:hover{border-color:#2463E8}" +
+    ".consent__btn:focus-visible{outline:2px solid #3B7BFA;outline-offset:2px}" +
+    "@media(max-width:768px){.consent__inner{flex-direction:column;align-items:stretch}.consent__actions{flex-direction:column}.consent__btn{width:100%}}";
+
+  function initConsent() {
+    var value = consentValue();
+    if (value === "granted") { loadAnalytics(); return; }
+    if (value === "denied") return;
+
+    var style = document.createElement("style");
+    style.textContent = CONSENT_CSS;
+    document.head.appendChild(style);
+
+    var bar = document.createElement("div");
+    bar.className = "consent";
+    bar.setAttribute("role", "dialog");
+    bar.setAttribute("aria-label", t("Aviso de cookies"));
+    bar.innerHTML =
+      '<div class="consent__inner">' +
+        '<p class="consent__text">' +
+          t("Usamos almacenamiento local necesario para recordar tus preferencias. Si lo aceptas, activamos una analítica sin cookies (Plausible) para saber qué páginas son útiles. Puedes aceptar o rechazar.") +
+          ' <a href="cookies.html">' + t("Más información") + "</a>." +
+        "</p>" +
+        '<div class="consent__actions">' +
+          '<button class="consent__btn consent__btn--reject" type="button" data-consent="denied">' + t("Rechazar") + "</button>" +
+          '<button class="consent__btn consent__btn--accept" type="button" data-consent="granted">' + t("Aceptar") + "</button>" +
+        "</div>" +
+      "</div>";
+    document.body.appendChild(bar);
+    window.setTimeout(function () { bar.classList.add("is-open"); }, 400);
+
+    bar.addEventListener("click", function (e) {
+      var btn = e.target.closest("[data-consent]");
+      if (!btn) return;
+      setConsent(btn.getAttribute("data-consent"));
+      bar.classList.remove("is-open");
+      window.setTimeout(function () { bar.remove(); }, 400);
+    });
   }
 
   function initAttribution() {
@@ -405,9 +526,7 @@
     var form = document.getElementById("contactForm");
     if (!form) return;
 
-    var successBox = document.getElementById("formSuccess");
     var submitBtn = document.getElementById("submitBtn");
-    var summary = document.getElementById("formSummary");
     var started = false;
 
     bindLiveValidation(form);
@@ -427,15 +546,63 @@
       setBusy(submitBtn, true);
       createLead(data, "completo", "contacto").then(function () {
         track("lead_submit", { form: "contacto", sector: data.sector || "" });
-        renderSummary(summary, data);
-        form.classList.add("is-hidden");
-        showCalendly(document.getElementById("formCal"));
-        if (successBox) {
-          successBox.classList.remove("is-hidden");
-          successBox.scrollIntoView({ behavior: reduceMotion ? "auto" : "smooth", block: "center" });
-        }
+        window.location.href = "gracias.html";
       }).catch(function () {
         track("lead_error", { form: "contacto" });
+        setBusy(submitBtn, false);
+        showSendError(form, true);
+      });
+    });
+  }
+
+  /* ----------------------------- THANK YOU PAGE -------------------------- */
+  function initThankYou() {
+    var cal = document.getElementById("graciasCal");
+    if (cal) {
+      showCalendly(cal);
+      track("lead_thankyou", { page: "gracias" });
+    }
+    var homeCal = document.getElementById("homeCal");
+    if (homeCal) showCalendly(homeCal);
+  }
+
+  /* ----------------------------- CHECKLIST (lead magnet) ----------------- */
+  function initChecklist() {
+    var printBtn = document.getElementById("checklistPrint");
+    if (printBtn) printBtn.addEventListener("click", function () { window.print(); });
+
+    var form = document.getElementById("checklistForm");
+    if (!form) return;
+
+    var success = document.getElementById("checklistSuccess");
+    var submitBtn = document.getElementById("checklistSubmit");
+    var started = false;
+
+    bindLiveValidation(form);
+    form.addEventListener("focusin", function () {
+      if (!started) { started = true; track("checklist_form_start"); }
+    });
+
+    form.addEventListener("submit", function (e) {
+      e.preventDefault();
+      showSendError(form, false);
+      if (!validateForm(form)) return;
+
+      var data = collect(form);
+      if (data._honey) return;
+      data.id = uuid();
+      data.problema = "Descarga de checklist: 10 señales de que tu operación pierde dinero.";
+
+      setBusy(submitBtn, true);
+      createLead(data, "completo", "checklist").then(function () {
+        track("checklist_submit");
+        form.classList.add("is-hidden");
+        if (success) {
+          success.classList.remove("is-hidden");
+          success.scrollIntoView({ behavior: reduceMotion ? "auto" : "smooth", block: "center" });
+        }
+      }).catch(function () {
+        track("checklist_error");
         setBusy(submitBtn, false);
         showSendError(form, true);
       });
@@ -682,6 +849,39 @@
     if (year) year.textContent = String(new Date().getFullYear());
   }
 
+  /* ----------------------------- SOCIAL LINKS ---------------------------- */
+  var LINKEDIN_ICON =
+    '<svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true">' +
+    '<path d="M4.98 3.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5zM3 9h4v12H3zM9 9h3.8v1.7h.05c.53-1 1.83-2.05 3.77-2.05 4.03 0 4.78 2.65 4.78 6.1V21h-4v-5.4c0-1.29-.02-2.95-1.8-2.95-1.8 0-2.08 1.4-2.08 2.85V21H9z"/></svg>';
+
+  function initSocial() {
+    if (!CONFIG.linkedinUrl) return;
+
+    var legal = document.querySelector(".footer__legal");
+    if (legal && !legal.querySelector("[data-linkedin]")) {
+      var a = document.createElement("a");
+      a.href = CONFIG.linkedinUrl;
+      a.target = "_blank";
+      a.rel = "noopener";
+      a.setAttribute("data-linkedin", "");
+      a.textContent = "LinkedIn";
+      legal.appendChild(a);
+    }
+
+    var tools = document.querySelector(".nav__tools");
+    if (tools && !tools.querySelector("[data-linkedin]")) {
+      var b = document.createElement("a");
+      b.className = "nav__tool";
+      b.href = CONFIG.linkedinUrl;
+      b.target = "_blank";
+      b.rel = "noopener";
+      b.setAttribute("data-linkedin", "");
+      b.setAttribute("aria-label", "LinkedIn");
+      b.innerHTML = LINKEDIN_ICON;
+      tools.insertBefore(b, tools.firstChild);
+    }
+  }
+
   /* ----------------------------- PUBLIC API ------------------------------ */
   window.LudusLeads = {
     create: createLead,
@@ -691,19 +891,30 @@
     config: CONFIG
   };
 
+  window.LudusConsent = {
+    value: consentValue,
+    set: setConsent,
+    track: track
+  };
+
   /* ----------------------------- BOOT ------------------------------------ */
   function boot() {
+    initConsent();
     initAttribution();
     initTheme();
     initNav();
     initReveal();
     initMethodLine();
     initCounters();
+    initCostCalc();
     initServices();
     initForm();
+    initThankYou();
+    initChecklist();
     initDrawer();
     initPageTransition();
     initMisc();
+    initSocial();
   }
 
   if (document.readyState === "loading") {
