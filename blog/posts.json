@@ -1,6 +1,51 @@
 {
-  "updated": "2026-10-04T11:21:55.738Z",
+  "updated": "2026-10-05T06:20:22.959Z",
   "posts": [
+    {
+      "id": "vmedqj",
+      "title": "La competitividad toma la palabra: escuchar para competir mejor",
+      "url": "https://www.apd.es/la-competitividad-toma-la-palabra-escuchar-para-competir-mejor/",
+      "source": "APD",
+      "lang": "es",
+      "date": "2026-10-05T06:17:25.000Z",
+      "excerpt": "Durante meses, APD ha recorrido España para escuchar a quienes compiten cada día desde realidades empresariales muy diferentes. Quince Consejos de Competitividad han reunido a empresarios, directivos y otros agentes económicos y sociales para hablar de…"
+    },
+    {
+      "id": "1fvyz9x",
+      "title": "Cómo la Inteligencia Artificial está transformando la competitividad empresarial",
+      "url": "https://www.apd.es/inteligencia-artificial-competitividad/",
+      "source": "APD",
+      "lang": "es",
+      "date": "2026-10-05T06:06:31.000Z",
+      "excerpt": "La incorporación de la Inteligencia Artificial está modificando la forma en que las empresas producen, analizan información, se relacionan con sus clientes y toman decisiones. La relación entre Inteligencia Artificial y competitividad ya no se limita a…"
+    },
+    {
+      "id": "ncfryd",
+      "title": "Dependencias estratégicas: qué son y cómo afectan a las empresas",
+      "url": "https://www.apd.es/dependencias-estrategias-afectan-empresas/",
+      "source": "APD",
+      "lang": "es",
+      "date": "2026-10-05T06:05:37.000Z",
+      "excerpt": "Los cambios geopolíticos, económicos y tecnológicos de los últimos años han dejado al descubierto hasta qué punto empresas y economías dependen de determinados países, proveedores, materias primas y tecnologías. Las dependencias estratégicas han pasado así de…"
+    },
+    {
+      "id": "q4g2g6",
+      "title": "Riesgos geopolíticos para las empresas: cómo anticiparse y adaptarse",
+      "url": "https://www.apd.es/riesgos-geopoliticos-empresas/",
+      "source": "APD",
+      "lang": "es",
+      "date": "2026-10-05T06:04:37.000Z",
+      "excerpt": "Las decisiones empresariales ya no pueden analizarse únicamente desde una perspectiva económica o sectorial. Los riesgos geopolíticos influyen cada vez más en costes, inversiones, mercados y cadenas de suministro. Conflictos internacionales, tensiones…"
+    },
+    {
+      "id": "mwb752",
+      "title": "Greenwashing: What It Is and How to Stop It (Free Template)",
+      "url": "https://www.process.st/greenwashing/",
+      "source": "Process.st",
+      "lang": "en",
+      "date": "2026-10-03T13:00:00.000Z",
+      "excerpt": "Greenwashing uses environmental claims that are vague, exaggerated, or unsupported. Learn how to spot it, prevent it, and document credible sustainability work. The post Greenwashing: What It Is and How to Stop It (Free Template) first appeared on Process…"
+    },
     {
       "id": "qlaomu",
       "title": "Google Launches AI Chips Into Orbit to Test Space Data Centers",
@@ -855,51 +900,6 @@
       "lang": "en",
       "date": "2026-09-30T16:15:33.000Z",
       "excerpt": "Private investment could resolve issues to help the industy meet surging demand for munitions amid ongoing global threats, according to the Aerospace Industries Association and Bain & Co. report."
-    },
-    {
-      "id": "g8b79x",
-      "title": "Microsoft’s New Copilot Combines Home, Code, and Autopilot: What Users Actually Get",
-      "url": "https://www.techrepublic.com/article/news-microsoft-copilot-home-code-autopilot/",
-      "source": "TechRepublic",
-      "lang": "en",
-      "date": "2026-09-30T16:12:42.000Z",
-      "excerpt": "Microsoft is redesigning Copilot around Home, Code, and Autopilot. See what each feature does, when it arrives, and which capabilities cost extra."
-    },
-    {
-      "id": "1giv8ft",
-      "title": "Has Washington’s approach to manufacturing incentives really changed?",
-      "url": "https://www.manufacturingdive.com/news/washington-manufacturing-incentives-onshoring-nearshoring/831657/",
-      "source": "Manufacturing Dive",
-      "lang": "en",
-      "date": "2026-09-30T16:02:00.000Z",
-      "excerpt": "In addition to tariffs, the Trump administration has taken a more sector-specific approach to incentives compared to the Biden administration. A recent Department of Commerce report laid out the current tools available."
-    },
-    {
-      "id": "18qctq2",
-      "title": "ABM launches semiconductor technical training facility in Boise, Idaho",
-      "url": "https://www.manufacturingdive.com/news/abm-launches-semiconductor-technical-training-facility/831692/",
-      "source": "Manufacturing Dive",
-      "lang": "en",
-      "date": "2026-09-30T15:59:22.000Z",
-      "excerpt": "The facility extends ABM's existing semiconductor training footprint in Austin, Texas, and is meant to help increase the supply of skilled technicians."
-    },
-    {
-      "id": "58u3i",
-      "title": "ChromeOS vs Googlebook OS: What You Need to Know as Googlebook OS Transition Begins",
-      "url": "https://www.techrepublic.com/article/news-chromeos-vs-googlebook-os/",
-      "source": "TechRepublic",
-      "lang": "en",
-      "date": "2026-09-30T15:58:38.000Z",
-      "excerpt": "Googlebook OS is beginning its transition from ChromeOS, but existing Chromebooks remain supported. See migration plans, apps, updates, and compatibility."
-    },
-    {
-      "id": "1h6t78g",
-      "title": "Huawei Smartwatches Could Measure Blood Sugar Without a Separate CGM: Here’s How",
-      "url": "https://www.techrepublic.com/article/news-huawei-blood-sugar-smartwatch-apac-china/",
-      "source": "TechRepublic",
-      "lang": "en",
-      "date": "2026-09-30T15:50:45.000Z",
-      "excerpt": "Huawei says its blood-sugar technology is nearing production, with patent work showing how a future smartwatch could measure glucose without a separate CGM."
     }
   ]
 }
