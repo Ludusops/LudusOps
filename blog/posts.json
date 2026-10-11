@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T06:15:46.868Z",
+  "updated": "2026-10-11T06:15:59.248Z",
   "posts": [
     {
       "id": "1pk8pxx",
@@ -122,6 +122,15 @@
       "id": "a6z2rw",
       "title": "The Friday Checkout: Why Kroger and Target store workers are dressing to impress",
       "url": "https://www.grocerydive.com/news/the-friday-checkout-why-kroger-and-target-store-workers-are-dressing-to-im/832556/",
+      "source": "Grocery Dive",
+      "lang": "en",
+      "date": "2026-10-09T15:41:00.000Z",
+      "excerpt": "Both retailers have reportedly introduced new dress codes for their workers as they continue looking for ways to elevate the shopping experience."
+    },
+    {
+      "id": "1h4fya7",
+      "title": "The Friday Checkout: Why Kroger and Target store workers are dressing to impress",
+      "url": "https://www.grocerydive.com/news/kroger-target-dress-code-update-in-store-experience/832556/",
       "source": "Grocery Dive",
       "lang": "en",
       "date": "2026-10-09T15:41:00.000Z",
@@ -891,15 +900,6 @@
       "lang": "en",
       "date": "2026-10-07T15:15:00.000Z",
       "excerpt": "The spice and seasoning maker is mitigating the impact through pricing and productivity measures, as well as the acquisition of a Mexico subsidiary."
-    },
-    {
-      "id": "1iccpmt",
-      "title": "Diesel’s supply crunch may hit CFOs through freight contracts",
-      "url": "https://www.supplychaindive.com/news/diesels-supply-crunch-may-hit-cfos-through-freight-contracts/831981/",
-      "source": "Supply Chain Dive",
-      "lang": "en",
-      "date": "2026-10-07T15:15:00.000Z",
-      "excerpt": "Chevron CFO Eimear Bonner expects energy prices to stay elevated, while a major trucking CEO says contracts signed before diesel prices rose are hurting the bottom line."
     }
   ]
 }
