@@ -1,6 +1,321 @@
 {
-  "updated": "2026-10-16T06:27:54.248Z",
+  "updated": "2026-10-17T06:24:34.644Z",
   "posts": [
+    {
+      "id": "1hgs4gy",
+      "title": "Sprouts’ first-ever CTO departs",
+      "url": "https://www.ciodive.com/news/sprouts-farmers-market-jim-bahrenburg-chief-technology-officer-executive-csuite-changes/833282/",
+      "source": "CIO Dive",
+      "lang": "en",
+      "date": "2026-10-16T20:45:00.000Z",
+      "excerpt": "Jim Bahrenburg stepped down after three years in the role, marking the first confirmed C-suite change since the grocer announced a CEO succession plan in September."
+    },
+    {
+      "id": "hd43o4",
+      "title": "The technology maturity paradox: Why more capabilities can make IT harder",
+      "url": "https://www.cio.com/article/4236693/the-technology-maturity-paradox-why-more-capabilities-can-make-it-harder.html",
+      "source": "CIO",
+      "lang": "en",
+      "date": "2026-10-16T20:37:07.000Z",
+      "excerpt": "Technology maturity is generally considered a sign of progress. Organizations modernize their infrastructure and capabilities, introduce advanced analytics, and invest in AI, all with the expectation that these improvements will make the business more…"
+    },
+    {
+      "id": "i4vb3c",
+      "title": "Apple Reportedly Plans Oct. 28 Event for Touchscreen MacBooks and More",
+      "url": "https://www.techrepublic.com/article/news-apple-october-28-touchscreen-macbooks/",
+      "source": "TechRepublic",
+      "lang": "en",
+      "date": "2026-10-16T20:28:19.000Z",
+      "excerpt": "Apple reportedly plans an Oct. 28 hardware event, with touchscreen MacBook Pros, M6 Macs, and an OLED iPad mini expected. See what buyers should know."
+    },
+    {
+      "id": "1yv209g",
+      "title": "Agentic AI gap persists between executives, workers",
+      "url": "https://www.ciodive.com/news/agentic-gap-executives-workers/833289/",
+      "source": "CIO Dive",
+      "lang": "en",
+      "date": "2026-10-16T20:02:30.000Z",
+      "excerpt": "When it comes to deploying AI agents, leaders find more success than their employees, who face tool overload and trust gaps."
+    },
+    {
+      "id": "1clab6f",
+      "title": "Why technology is no longer IT’s scarcest resource",
+      "url": "https://www.cio.com/article/4236683/why-technology-is-no-longer-its-scarcest-resource.html",
+      "source": "CIO",
+      "lang": "en",
+      "date": "2026-10-16T19:24:33.000Z",
+      "excerpt": "For much of the history of enterprise IT, technology itself was a limiting factor. Organizations had to make difficult choices about which systems they could afford and which capabilities were realistic to deploy. Technology leaders built their strategies…"
+    },
+    {
+      "id": "1f9ibuv",
+      "title": "Avio’s plan to meet the US’ solid rocket motors demand",
+      "url": "https://www.manufacturingdive.com/news/avio-usa-ceo-james-syring-solid-rocket-motor-manufacturing-plant-virginia/832755/",
+      "source": "Manufacturing Dive",
+      "lang": "en",
+      "date": "2026-10-16T16:46:31.000Z",
+      "excerpt": "CEO James Syring discusses how the Italy-based defense entity’s U.S. subsidiary aims to address the Pentagon’s call for more weapons systems and the workforce needed to make them."
+    },
+    {
+      "id": "1xzd2s5",
+      "title": "Alcoa plans to sell part of its Massena East site for $315M",
+      "url": "https://www.manufacturingdive.com/news/alcoa-sell-massena-east-assets-315-m-q3-2026-south32-progress/833226/",
+      "source": "Manufacturing Dive",
+      "lang": "en",
+      "date": "2026-10-16T16:27:00.000Z",
+      "excerpt": "The aluminum producer is also on track to complete its multibillion-dollar acquisition of South32’s assets in Australia, Brazil and South Africa."
+    },
+    {
+      "id": "4vwvyk",
+      "title": "AI datacenter capex will far exceed forecast revenue through 2030",
+      "url": "https://www.cio.com/article/4236629/ai-datacenter-capex-will-far-exceed-forecast-revenue-through-2030-2.html",
+      "source": "CIO",
+      "lang": "en",
+      "date": "2026-10-16T16:03:40.000Z",
+      "excerpt": "Investors are pouring more into AI data center infrastructure than they can hope to recoup by 2030, according to Gartner. “Enterprise and consumer AI revenue will be insufficient to support profitable returns on all planned AI capital expenditures during this…"
+    },
+    {
+      "id": "eb8ejd",
+      "title": "Pixel 11 Rambler AI Voice Typing: How It Rewrites Speech",
+      "url": "https://www.techrepublic.com/article/news-pixel-11-rambler-ai-voice-typing/",
+      "source": "TechRepublic",
+      "lang": "en",
+      "date": "2026-10-16T15:27:04.000Z",
+      "excerpt": "Google's Rambler voice typing cleans up spoken thoughts instead of transcribing them word for word. Here's how rewriting, offline use, privacy, and review work."
+    },
+    {
+      "id": "rw3ast",
+      "title": "iOS 27 AI Shortcuts: What Changed and 5 Useful Things to Try",
+      "url": "https://www.techrepublic.com/article/news-ios-27-ai-shortcuts-automations/",
+      "source": "TechRepublic",
+      "lang": "en",
+      "date": "2026-10-16T15:10:42.000Z",
+      "excerpt": "iOS 27 lets Apple Intelligence build Shortcuts from natural-language descriptions and adds new triggers, model choices, storage, and web-connected automation tools."
+    },
+    {
+      "id": "1df1p7r",
+      "title": "YouTube Rolls Out GIF Comments: What Viewers Can Use So Far",
+      "url": "https://www.techrepublic.com/article/news-youtube-gif-comments-rollout/",
+      "source": "TechRepublic",
+      "lang": "en",
+      "date": "2026-10-16T15:08:34.000Z",
+      "excerpt": "YouTube is rolling out GIF comments for videos and Shorts. Learn how they work, who has access, and what the update means for viewers and businesses."
+    },
+    {
+      "id": "okdxo4",
+      "title": "Manufacturing tech orders hit 3rd-highest monthly total: AMT",
+      "url": "https://www.manufacturingdive.com/news/august-manufacturing-tech-orders-facilities-amt-caterpillar-hewlett-packard/833155/",
+      "source": "Manufacturing Dive",
+      "lang": "en",
+      "date": "2026-10-16T15:00:00.000Z",
+      "excerpt": "Additionally, Caterpillar, Hewlett Packard Enterprise and others announced workforce and facility investments this week."
+    },
+    {
+      "id": "17fiufi",
+      "title": "Albertsons expands board for a third time",
+      "url": "https://www.grocerydive.com/news/albertsons-adds-another-board-member/833164/",
+      "source": "Grocery Dive",
+      "lang": "en",
+      "date": "2026-10-16T14:47:00.000Z",
+      "excerpt": "Dive Brief: Albertsons announced Thursday the appointment of Harmit Singh, chief financial and growth officer of Levi Strauss & Co., to its board of directors, effective immediately. Singh’s appointment marks the third time since early September that the…"
+    },
+    {
+      "id": "qbpr3r",
+      "title": "iPhone Handoff in iOS 27: Use One Number on Two iPhones",
+      "url": "https://www.techrepublic.com/article/news-iphone-handoff-same-number-two-iphones/",
+      "source": "TechRepublic",
+      "lang": "en",
+      "date": "2026-10-16T14:45:57.000Z",
+      "excerpt": "iPhone Handoff lets one phone number move automatically between two iPhones. Here’s how setup, carrier support, Apple Watch, Wallet, and eSIM switching work."
+    },
+    {
+      "id": "1y69a1f",
+      "title": "Inside Omaha Steaks’ efforts to ditch marketing bull and attract Gen Z",
+      "url": "https://www.fooddive.com/news/inside-omaha-steaks-efforts-to-ditch-marketing-bull-and-attract-gen-z/833235/",
+      "source": "Food Dive",
+      "lang": "en",
+      "date": "2026-10-16T14:45:00.000Z",
+      "excerpt": "The century-old meat delivery company emphasizes credibility for a “No Bull” campaign that spans TV, radio, paid social and influencer partnerships."
+    },
+    {
+      "id": "19yhjm1",
+      "title": "Leftovers: Ghirardelli bites into Dubai chocolate | PepsiCo’s Flamin’ Hot spices up Pilgrim’s chicken",
+      "url": "https://www.fooddive.com/news/ghirardelli-dubai-chocolate-perdue-pepsico-chicken-cpk-salads/833232/",
+      "source": "Food Dive",
+      "lang": "en",
+      "date": "2026-10-16T14:41:00.000Z",
+      "excerpt": "The chocolatier is the latest to jump into the TikTok-inspired craze, while California Pizza Kitchen expands its CPG lineup with prepackaged salads."
+    },
+    {
+      "id": "1gu7nk7",
+      "title": "Nvidia Launches Three Nemotron AI Models, Including Two for Local AI Agents",
+      "url": "https://www.techrepublic.com/article/news-nvidia-nemotron-3-5-super-vl-bolt-ai-models/",
+      "source": "TechRepublic",
+      "lang": "en",
+      "date": "2026-10-16T14:39:29.000Z",
+      "excerpt": "Nvidia introduces three Nemotron AI models, including a 120B-parameter system and two smaller Bolt models designed for local AI agents and enterprise tasks."
+    },
+    {
+      "id": "18ssix",
+      "title": "Salad and Go is coming back from the dead",
+      "url": "https://www.restaurantdive.com/news/salad-go-16-million-sale-30-stores-intellectual-property-reopening-arizona/833222/",
+      "source": "Restaurant Dive",
+      "lang": "en",
+      "date": "2026-10-16T14:37:00.000Z",
+      "excerpt": "Roughly 100 former Salad and Go locations were approved for sale during bankruptcy, but the buyer of its intellectual property plans to bring the chain back."
+    },
+    {
+      "id": "bgpc5b",
+      "title": "From library to logistics: Cathy Morrow Roberson shares career insights",
+      "url": "https://www.supplychaindive.com/news/from-library-to-logistics-cathy-morrow-roberson-shares-career-insights/833023/",
+      "source": "Supply Chain Dive",
+      "lang": "en",
+      "date": "2026-10-16T14:34:00.000Z",
+      "excerpt": "“There are so many more opportunities today than there were when I started my business,\" the managing director of Logistics Trends & Insights told Supply Chain Dive."
+    },
+    {
+      "id": "wy4m60",
+      "title": "Sony Wants Audiophiles to Pay $5,900 for Its New Gold-Plated Walkman",
+      "url": "https://www.techrepublic.com/article/news-sony-gold-plated-walkman-5900-price/",
+      "source": "TechRepublic",
+      "lang": "en",
+      "date": "2026-10-16T14:29:35.000Z",
+      "excerpt": "Sony's new gold-plated Walkman costs $5,900 and promises premium audio. Here's what its upgraded hardware offers and whether it's worth the price."
+    },
+    {
+      "id": "uvpv7q",
+      "title": "iPhone Duo Camera Tricks: Smart Take, Kid Cue, Duo Preview, and More",
+      "url": "https://www.techrepublic.com/article/news-iphone-duo-camera-tricks-smart-take-kid-cue/",
+      "source": "TechRepublic",
+      "lang": "en",
+      "date": "2026-10-16T14:27:43.000Z",
+      "excerpt": "Apple's iPhone Duo introduces Smart Take, Kid Cue, Duo Preview, and Duo FaceTime. Here's how its folding design changes group photos and where its cameras fall short."
+    },
+    {
+      "id": "ifh1l1",
+      "title": "FMC proposes fees on Spanish-flagged vessels, import restrictions",
+      "url": "https://www.supplychaindive.com/news/fmc-proposes-fees-on-spanish-flagged-vessels-import-restrictions/833122/",
+      "source": "Supply Chain Dive",
+      "lang": "en",
+      "date": "2026-10-16T14:13:39.000Z",
+      "excerpt": "The Federal Maritime Commission wants to impose a $200,000 per-voyage fee on Spanish-flagged vessels and restrict certain goods from the country."
+    },
+    {
+      "id": "1ujy4dv",
+      "title": "Golden Corral faces uptick in closures",
+      "url": "https://www.restaurantdive.com/news/golden-corral-uptick-closure-rate-2026/833138/",
+      "source": "Restaurant Dive",
+      "lang": "en",
+      "date": "2026-10-16T14:01:00.000Z",
+      "excerpt": "While the chain said its current attrition rate is higher than normal, many of the closed locations are likely to reopen under new ownership."
+    },
+    {
+      "id": "1khjblk",
+      "title": "Sprouts’ first-ever chief technology officer departs",
+      "url": "https://www.grocerydive.com/news/sprouts-farmers-market-jim-bahrenburg-chief-technology-officer-executive-csuite-changes/833211/",
+      "source": "Grocery Dive",
+      "lang": "en",
+      "date": "2026-10-16T14:00:00.000Z",
+      "excerpt": "Jim Bahrenburg has stepped down after three years in the role, marking the first confirmed C-suite change since the company announced a succession plan for CEO Jack Sinclair."
+    },
+    {
+      "id": "1ai4kqo",
+      "title": "Arby’s hires ex-Papa Johns CMO to balance brand-building, sales growth",
+      "url": "https://www.restaurantdive.com/news/arbys-hires-ex-papa-johns-cmo-to-balance-brand-building-sales-growth/833203/",
+      "source": "Restaurant Dive",
+      "lang": "en",
+      "date": "2026-10-16T13:43:00.000Z",
+      "excerpt": "Jenna Bromberg’s appointment is effective Nov. 2 and comes as parent company Inspire Brands considers an IPO."
+    },
+    {
+      "id": "ekqcjn",
+      "title": "KFC ditches Pepsi for Coke in latest turnaround move",
+      "url": "https://www.restaurantdive.com/news/kfc-ditches-pepsi-for-coke-2027-menu-remake/833219/",
+      "source": "Restaurant Dive",
+      "lang": "en",
+      "date": "2026-10-16T13:31:43.000Z",
+      "excerpt": "The fried chicken chain — once owned by Pepsi — will shift beverage providers as part of a broader overhaul of its menu and operations."
+    },
+    {
+      "id": "56xdgk",
+      "title": "FedEx, UPS delivery prices set for record-high Q4: TD Cowen/AFS",
+      "url": "https://www.supplychaindive.com/news/fedex-ups-delivery-prices-set-for-record-high-q4-td-cowenafs/832992/",
+      "source": "Supply Chain Dive",
+      "lang": "en",
+      "date": "2026-10-16T13:31:02.000Z",
+      "excerpt": "Easing fuel prices and a rebound in discounting activity offered shippers relief in Q3, but peak season surcharges will turn up the heat."
+    },
+    {
+      "id": "z87nwm",
+      "title": "Expedia’s AI chief: Models are fungible, data isn’t",
+      "url": "https://www.ciodive.com/news/expedia-chief-AI-data-officer-tech-stack/833165/",
+      "source": "CIO Dive",
+      "lang": "en",
+      "date": "2026-10-16T12:00:00.000Z",
+      "excerpt": "Ten months into his role, Xavier Amatriain details why the organization aims to keep flexible with the AI models it deploys — and its tech team."
+    },
+    {
+      "id": "7ywmb4",
+      "title": "Change saturation is not a communication problem",
+      "url": "https://www.cio.com/article/4236028/change-saturation-is-not-a-communication-problem.html",
+      "source": "CIO",
+      "lang": "en",
+      "date": "2026-10-16T12:00:00.000Z",
+      "excerpt": "On a major S/4HANA transformation, the first signs of trouble did not look like resistance. They looked like missed stand-ups. Then deliverables started slipping, readiness checkpoints came back with gaps and the same functional leads kept surfacing on the…"
+    },
+    {
+      "id": "i0kdr1",
+      "title": "AI won’t kill jobs. Bad team design will",
+      "url": "https://www.cio.com/article/4236023/ai-wont-kill-jobs-bad-team-design-will.html",
+      "source": "CIO",
+      "lang": "en",
+      "date": "2026-10-16T11:00:00.000Z",
+      "excerpt": "In a recent finance training session, an FP&A analyst took the prompting method we had covered twenty minutes earlier and applied it to a monthly variance report spanning four business units. The report normally took one and a half to two hours. It was…"
+    },
+    {
+      "id": "1cg7mfg",
+      "title": "IT leaders still on the hunt for VMware alternatives",
+      "url": "https://www.cio.com/article/4236116/it-leaders-still-on-the-hunt-for-vmware-alternatives.html",
+      "source": "CIO",
+      "lang": "en",
+      "date": "2026-10-16T10:01:00.000Z",
+      "excerpt": "Nearly three years after Broadcom purchased VMware, IT leaders still aren’t convinced they will stick with the leading virtualization technology provider over the long term. Ninety percent of current VMware customer CIOs are considering alternatives to VMware…"
+    },
+    {
+      "id": "am10kg",
+      "title": "The agent-to-agent economy is closer than you think",
+      "url": "https://www.cio.com/article/4236020/the-agent-to-agent-economy-is-closer-than-you-think.html",
+      "source": "CIO",
+      "lang": "en",
+      "date": "2026-10-16T10:00:00.000Z",
+      "excerpt": "Stripe recently acquired AI routing platform OpenRouter for a reported $7.5 billion, making it one of the largest venture-backed AI startup exits and fintech M&A deals of the year. It’s a blockbuster deal that instantly became one of the most intriguing tech…"
+    },
+    {
+      "id": "xbgup0",
+      "title": "IT jobs report: Employers consider AI risks and ethics",
+      "url": "https://www.cio.com/article/4201347/information-technology-jobs-report.html",
+      "source": "CIO",
+      "lang": "en",
+      "date": "2026-10-16T10:00:00.000Z",
+      "excerpt": "The IT job hiring market appears to remain strong, as data from the Dice September 2026 Jobs Report shows that IT job postings continued to increase through September after experiencing a slight dip in August. Overall, the data shows that year over year, IT…"
+    },
+    {
+      "id": "vpmr38",
+      "title": "The 3 best free RSS reader apps in 2026",
+      "url": "https://zapier.com/blog/best-rss-feed-reader-apps",
+      "source": "Zapier",
+      "lang": "en",
+      "date": "2026-10-16T04:00:00.000Z",
+      "excerpt": "If you want to really follow a publication, writer, or something else online and see everything they publish—not just what some social media algorithm throws your way—the best way to do it is with an RSS reader. RSS (it stands for Really Simple Syndication)…"
+    },
+    {
+      "id": "1ltbiq1",
+      "title": "What is Google Vids? And how to use it",
+      "url": "https://zapier.com/blog/google-vids",
+      "source": "Zapier",
+      "lang": "en",
+      "date": "2026-10-16T04:00:00.000Z",
+      "excerpt": "I teach classes asynchronously at a local college, which means I spend a lot of time trying to find new ways to create fun and engaging content that students will actually log in to watch. My lectures are all built on Google Slides, so naturally, Google…"
+    },
     {
       "id": "18js93v",
       "title": "Onboard your AI agents like new hires to prevent automated mistakes",
@@ -585,321 +900,6 @@
       "lang": "en",
       "date": "2026-10-14T13:33:00.000Z",
       "excerpt": "Franchisee Original Entrepreneurs has worked with the brand since 2017, and has experience running donut shops in a highly competitive environment."
-    },
-    {
-      "id": "15d5ws2",
-      "title": "Savory Fund raises over $200M to back emerging restaurant chains",
-      "url": "https://www.restaurantdive.com/news/savory-fund-3-private-equity-restaurant-brand-expansion/832893/",
-      "source": "Restaurant Dive",
-      "lang": "en",
-      "date": "2026-10-14T13:22:12.000Z",
-      "excerpt": "The private equity firm aided the early growth of Swig and Mo’ Bettahs, and its latest fund will support expanding concepts with strong brand identity."
-    },
-    {
-      "id": "1vpiam3",
-      "title": "Why Yum! Brands is deepening supplier relationships",
-      "url": "https://www.supplychaindive.com/news/why-yum-brands-is-deepening-supplier-relationships/832944/",
-      "source": "Supply Chain Dive",
-      "lang": "en",
-      "date": "2026-10-14T13:19:00.000Z",
-      "excerpt": "The restaurant company has built a network of suppliers that are “ready to flex with us” if disruption strikes, Chief Supply Chain Officer Eric Craft said."
-    },
-    {
-      "id": "1ozv35k",
-      "title": "GlobalFoundries building $21B New York fabs under US-Japan trade deal",
-      "url": "https://www.manufacturingdive.com/news/globalfoundries-us-japan-trade-deal-chips-malta-new-york-fabs/832953/",
-      "source": "Manufacturing Dive",
-      "lang": "en",
-      "date": "2026-10-14T13:11:32.000Z",
-      "excerpt": "The multibillion-dollar agreement will accelerate U.S. semiconductor manufacturing, strengthen critical supply chains and support growing automotive and industrial demand, GlobalFoundries said."
-    },
-    {
-      "id": "1aavrnt",
-      "title": "From a garage and a pickup truck to $3.8 million",
-      "url": "https://zapier.com/blog/3r-plumbing-next-gen-zaps",
-      "source": "Zapier",
-      "lang": "en",
-      "date": "2026-10-14T13:00:00.000Z",
-      "excerpt": "A missed call in home services is a missed job. In a Massachusetts October, that can be a five-figure heating replacement going to the next company on Google. Ross Hunt started 3R Plumbing & Mechanical in 2022 out of his garage with one pickup truck. In its…"
-    },
-    {
-      "id": "1g76ki3",
-      "title": "Aldi and Lidl dish out Thanksgiving meal deals for under $40",
-      "url": "https://www.grocerydive.com/news/aldi-lidl-thanksgiving-meal-bundle-ecommerce-discounter/832767/",
-      "source": "Grocery Dive",
-      "lang": "en",
-      "date": "2026-10-14T13:00:00.000Z",
-      "excerpt": "While both bundles can feed 10 people and include sides and dessert fixings, the discounters are taking different approaches to serving up value to their shoppers."
-    },
-    {
-      "id": "16u8yin",
-      "title": "Gen Restaurant Group sells 47 restaurants for $100M to Chubby Cattle Group",
-      "url": "https://www.restaurantdive.com/news/gen-restaurant-group-sells-47-stores-chubbys-100-million/832905/",
-      "source": "Restaurant Dive",
-      "lang": "en",
-      "date": "2026-10-14T12:39:00.000Z",
-      "excerpt": "The deal will strengthen Gen’s balance sheet while speeding up the growth of Chubby’s restaurant operations."
-    },
-    {
-      "id": "s70ehm",
-      "title": "Why Yum Brands is deepening supplier relationships",
-      "url": "https://www.restaurantdive.com/news/why-yum-brands-is-deepening-supplier-relationships/832881/",
-      "source": "Restaurant Dive",
-      "lang": "en",
-      "date": "2026-10-14T12:00:00.000Z",
-      "excerpt": "The restaurant company has built a network of suppliers that are “ready to flex with us” if disruption strikes, Chief Supply Chain Officer Eric Craft said."
-    },
-    {
-      "id": "1jj4p68",
-      "title": "Software providers are still waiting for AI to pay off",
-      "url": "https://www.ciodive.com/news/software-waiting-ai-pay-off/832913/",
-      "source": "CIO Dive",
-      "lang": "en",
-      "date": "2026-10-14T12:00:00.000Z",
-      "excerpt": "Vendors and CIOs both need more visibility into how the tech is being used amid shifts in pricing structures, a Revenera study found."
-    },
-    {
-      "id": "1iwynyd",
-      "title": "Has Washington’s approach to manufacturing incentives really changed?",
-      "url": "https://www.supplychaindive.com/news/has-washingtons-approach-to-manufacturing-incentives-really-changed/832121/",
-      "source": "Supply Chain Dive",
-      "lang": "en",
-      "date": "2026-10-14T11:36:00.000Z",
-      "excerpt": "In addition to tariffs, the Trump administration has taken a more sector-specific approach to incentives compared to the Biden administration. A recent Department of Commerce report laid out the current tools available."
-    },
-    {
-      "id": "1yyxlg2",
-      "title": "You Can’t Improve What You Don’t Commit To",
-      "url": "https://www.lean.org/the-lean-post/articles/you-cant-improve-what-you-dont-commit-to/",
-      "source": "Lean.org",
-      "lang": "en",
-      "date": "2026-10-14T11:17:00.000Z",
-      "excerpt": "Surfacing invisible work is half the job. Steve Pereira shows how to make hidden work visible and build the response mechanisms that turn it into action."
-    },
-    {
-      "id": "1y3vgzt",
-      "title": "Don’t start with AI. Start with the work",
-      "url": "https://www.cio.com/article/4234675/dont-start-with-ai-start-with-the-work.html",
-      "source": "CIO",
-      "lang": "en",
-      "date": "2026-10-14T10:00:00.000Z",
-      "excerpt": "There is a lot of discussion about deploying AI across the enterprise. Most of it starts with the model, the platform or the tool. I start somewhere else: the work. What decision are we trying to improve? What information does a person need at that moment?…"
-    },
-    {
-      "id": "35i6jk",
-      "title": "New US CIO appointments, October 2026",
-      "url": "https://www.cio.com/article/230613/new-cio-appointments.html",
-      "source": "CIO",
-      "lang": "en",
-      "date": "2026-10-14T10:00:00.000Z",
-      "excerpt": "Movers & Shakers is where you can keep up with new CIO appointments and gain valuable insight into the job market and CIO hiring trends. As every company becomes a technology company, CEOs and corporate boards are seeking multi-dimensional CIOs and IT leaders…"
-    },
-    {
-      "id": "vrxm68",
-      "title": "How to move fast with AI and still maintain customer trust",
-      "url": "https://www.cio.com/article/4229610/how-to-move-fast-with-ai-and-still-maintain-customer-trust.html",
-      "source": "CIO",
-      "lang": "en",
-      "date": "2026-10-14T10:00:00.000Z",
-      "excerpt": "Companies are moving fast to put AI into chatbots, virtual assistants, and other customer service tools. But for CIOs, that comes with a risk: if the technology gives customers the wrong information, makes biased recommendations, or mishandles data, it can…"
-    },
-    {
-      "id": "7m3w39",
-      "title": "Spend vs. debt: what’s the bigger security risk?",
-      "url": "https://www.cio.com/article/4233353/spend-vs-debt-whats-the-bigger-security-risk.html",
-      "source": "CIO",
-      "lang": "en",
-      "date": "2026-10-14T10:00:00.000Z",
-      "excerpt": "With a career built at companies like Visa, Ellie May, and Blackhawk, Selim Aissi, a 2026 CSO hall of fame inductee, understands how boards and executives demand a clear justification for cyber security investment, especially considering today’s difficult…"
-    },
-    {
-      "id": "1ciqkna",
-      "title": "AI is changing (and chaining) the cybersecurity math",
-      "url": "https://www.cio.com/article/4234669/ai-is-changing-and-chaining-the-cybersecurity-math.html",
-      "source": "CIO",
-      "lang": "en",
-      "date": "2026-10-14T09:00:00.000Z",
-      "excerpt": "For years, cybersecurity teams have worked from a relatively straightforward model: identify the critical vulnerability, patch it and reduce the risk. That model still matters, but it is no longer enough. The growing concern is not simply that attackers can…"
-    },
-    {
-      "id": "kk7wvv",
-      "title": "Human-in-the-loop in AI workflows: HITL meaning, benefits, and practical patterns",
-      "url": "https://zapier.com/blog/human-in-the-loop",
-      "source": "Zapier",
-      "lang": "en",
-      "date": "2026-10-14T05:00:00.000Z",
-      "excerpt": "AI systems can route messages, update records, make decisions, and trigger entire workflows across multiple apps without you touching anything. But as AI shifts more and more from being an assistive tool to powering agentic systems, humans have a new kind of…"
-    },
-    {
-      "id": "1l5g2x2",
-      "title": "The best AI chatbots in 2026",
-      "url": "https://zapier.com/blog/best-ai-chatbot",
-      "source": "Zapier",
-      "lang": "en",
-      "date": "2026-10-14T05:00:00.000Z",
-      "excerpt": "You've probably already subscribed to ChatGPT. Maybe your company rolled out Copilot. Your developer friends won't shut up about Claude. All the noise is confusing: which one should you actually use for your work? The answer depends on the actual task. The AI…"
-    },
-    {
-      "id": "16ux8gg",
-      "title": "Which AI models can you automate on Zapier? (OpenAI, Anthropic, Google, Moonshot AI, Z.ai, and more)",
-      "url": "https://zapier.com/blog/ai-models-on-zapier",
-      "source": "Zapier",
-      "lang": "en",
-      "date": "2026-10-14T05:00:00.000Z",
-      "excerpt": "Staying up to date on the latest AI models is like trying to keep my house vacuumed in the height of my dog's shedding season (a losing battle). New AI models drop practically every week, and it's not exactly obvious which ones deserve a spot in your…"
-    },
-    {
-      "id": "3ktx8l",
-      "title": "Claude vs. ChatGPT: Which is best? [2026]",
-      "url": "https://zapier.com/blog/claude-vs-chatgpt",
-      "source": "Zapier",
-      "lang": "en",
-      "date": "2026-10-14T05:00:00.000Z",
-      "excerpt": "When OpenAI launched ChatGPT in late 2022, tech writers (myself included) became obsessed with testing its limits. Could it write poetry? Debug code? Explain quantum physics to a five-year-old? Once Anthropic's Claude entered the scene a few months later, the…"
-    },
-    {
-      "id": "o5emxa",
-      "title": "OpenAI’s AI misalignment problem is growing",
-      "url": "https://www.cio.com/article/4234925/openais-ai-misalignment-problem-is-growing-2.html",
-      "source": "CIO",
-      "lang": "en",
-      "date": "2026-10-14T03:54:05.000Z",
-      "excerpt": "OpenAI’s misalignment problems seem to only be getting worse, based on yet another trio of reports detailing its models’ troubling and overzealous behaviors. In ad hoc misalignment testing, OpenAI models found creative ways to subversively access restricted…"
-    },
-    {
-      "id": "a1h8tc",
-      "title": "Firefox takes aim at the enterprise browser market",
-      "url": "https://www.cio.com/article/4234907/firefox-takes-aim-at-the-enterprise-browser-market-2.html",
-      "source": "CIO",
-      "lang": "en",
-      "date": "2026-10-14T03:05:33.000Z",
-      "excerpt": "There’s growing talk of digital sovereignty as enterprises rethink past consolidation decisions made in the name of simplicity. Mozilla, developer of Firefox, argues that a “very specific, very important layer” has been mostly missing from that conversation:…"
-    },
-    {
-      "id": "1qpgand",
-      "title": "Gestión de equipos de alto rendimiento y cómo desarrollarlos en la empresa",
-      "url": "https://www.apd.es/gestion-de-equipos-de-alto-rendimiento/",
-      "source": "APD",
-      "lang": "es",
-      "date": "2026-10-14T00:00:51.000Z",
-      "excerpt": "En un entorno empresarial marcado por la transformación constante, la presión por alcanzar resultados y la necesidad de adaptarse con rapidez, contar con equipos de alto rendimiento se ha convertido en una ventaja competitiva para las organizaciones. Sin…"
-    },
-    {
-      "id": "125cs4j",
-      "title": "Workday brings autopilots to finance in autonomous AI bet",
-      "url": "https://www.ciodive.com/news/workday-brings-autopilots-finance-autonomous-ai-bet/832912/",
-      "source": "CIO Dive",
-      "lang": "en",
-      "date": "2026-10-13T20:16:00.000Z",
-      "excerpt": "The company said its latest tools will anticipate needs and take actions across finance and HR workflows, with customer-defined controls."
-    },
-    {
-      "id": "11yt4y4",
-      "title": "IT execs brace for AI agent security incidents",
-      "url": "https://www.ciodive.com/news/it-execs-brace-ai-agent-security-incidents/832903/",
-      "source": "CIO Dive",
-      "lang": "en",
-      "date": "2026-10-13T19:45:20.000Z",
-      "excerpt": "With shadow AI on the rise, 36% of leaders would try to quietly handle an agent-driven security incident without disclosing it, a Workato report found."
-    },
-    {
-      "id": "13dingu",
-      "title": "Samsung Galaxy S26 Ultra Cheat Sheet: New Price, Specs, Features, and More",
-      "url": "https://www.techrepublic.com/article/news-samsung-galaxy-s26-ultra-cheat-sheet/",
-      "source": "TechRepublic",
-      "lang": "en",
-      "date": "2026-10-13T19:21:55.000Z",
-      "excerpt": "Samsung Galaxy S26 Ultra prices have increased. Explore the latest pricing, specs, cameras, AI features, and whether the flagship is worth buying."
-    },
-    {
-      "id": "1f1fnx",
-      "title": "Amazon Reportedly in Talks to Buy Decart AI for Around $7B",
-      "url": "https://www.techrepublic.com/article/news-amazon-decart-ai-acquisition-talks/",
-      "source": "TechRepublic",
-      "lang": "en",
-      "date": "2026-10-13T19:13:13.000Z",
-      "excerpt": "Amazon reportedly seeks to buy Decart AI for around $7 billion. Explore the competing valuations and potential implications for AWS customers."
-    },
-    {
-      "id": "jo1lmq",
-      "title": "Google Sheets Canvas Builds Mini-Apps From Prompts: How It Works",
-      "url": "https://www.techrepublic.com/article/news-google-sheets-canvas-mini-apps-gemini/",
-      "source": "TechRepublic",
-      "lang": "en",
-      "date": "2026-10-13T16:57:52.000Z",
-      "excerpt": "Google Sheets canvas uses Gemini to create interactive mini-apps from prompts. Here's how to build Kanban boards and dashboards, plus subscription and availability requirements."
-    },
-    {
-      "id": "1i6r9c3",
-      "title": "Bed Bath & Beyond parent company taps AI to unify forecasting, replenishment",
-      "url": "https://www.supplychaindive.com/news/bed-bath-beyond-parent-company-taps-ai-to-unify-forecasting-replenishmen/832759/",
-      "source": "Supply Chain Dive",
-      "lang": "en",
-      "date": "2026-10-13T16:41:00.000Z",
-      "excerpt": "Neighborhood Intelligence is using Relex Solutions to reduce supply chain complexity across its brand portfolio, which includes The Container Store and Kirkland’s."
-    },
-    {
-      "id": "150dv13",
-      "title": "Vietnam’s FPT Joins NAVER Cloud to Expand AI Factory Services Across Asia",
-      "url": "https://www.techrepublic.com/article/news-fpt-naver-cloud-ai-factory-partnership-apac-vietnam/",
-      "source": "TechRepublic",
-      "lang": "en",
-      "date": "2026-10-13T16:33:09.000Z",
-      "excerpt": "Vietnam's FPT and South Korea's NAVER Cloud are partnering to expand AI Factory and GPU-as-a-Service offerings across Asia-Pacific. The agreement targets enterprise AI infrastructure, model deployment, and engineering support, although commercial rollout…"
-    },
-    {
-      "id": "384acv",
-      "title": "Albertsons hastens cost-cutting drive as sales continue to flounder",
-      "url": "https://www.grocerydive.com/news/albertsons-second-quarter-2026-earnings-turnaround-grocery-supermarkets/832830/",
-      "source": "Grocery Dive",
-      "lang": "en",
-      "date": "2026-10-13T16:28:00.000Z",
-      "excerpt": "As the grocer recorded its third consecutive quarter of falling identical sales growth, its CEO indicated that layoffs and store closures in certain markets are on the table."
-    },
-    {
-      "id": "ek1ikd",
-      "title": "How to Transfer Passwords and Passkeys Between Android Password Managers",
-      "url": "https://www.techrepublic.com/article/news-transfer-passwords-passkeys-android-managers/",
-      "source": "TechRepublic",
-      "lang": "en",
-      "date": "2026-10-13T16:19:09.000Z",
-      "excerpt": "Android users can transfer passwords and passkeys between compatible password managers. Here's how Credential Exchange works, how to import into 1Password, and what to check before switching."
-    },
-    {
-      "id": "fxlvxr",
-      "title": "Raytheon secures 2 Pentagon contracts worth $30.7B combined",
-      "url": "https://www.manufacturingdive.com/news/rtx-raytheon-dod-defense-war-sm3-ib-sm-6-missile-interceptors/832760/",
-      "source": "Manufacturing Dive",
-      "lang": "en",
-      "date": "2026-10-13T16:11:55.000Z",
-      "excerpt": "The agreements will boost production of Standard Missile-3 Block IB and Standard Missile-6 interceptors at the RTX subsidiary’s Alabama and Arizona facilities."
-    },
-    {
-      "id": "sxrzjx",
-      "title": "Samsung One UI 9 Can Flag Suspicious App Activity: Which Galaxy Phones Get Privacy Alerts?",
-      "url": "https://www.techrepublic.com/article/news-samsung-one-ui-9-privacy-alerts/",
-      "source": "TechRepublic",
-      "lang": "en",
-      "date": "2026-10-13T16:05:25.000Z",
-      "excerpt": "Samsung's One UI 9 introduces AI-powered Privacy Alerts that flag potentially unnecessary app access. Find out which Galaxy devices are eligible and how the feature works."
-    },
-    {
-      "id": "3y0xh2",
-      "title": "GSK to invest $800M on Pennsylvania expansion",
-      "url": "https://www.manufacturingdive.com/news/biopharma-gsk-invest-800m-pennsylvania-expansion-montgomery-county/832846/",
-      "source": "Manufacturing Dive",
-      "lang": "en",
-      "date": "2026-10-13T16:04:00.000Z",
-      "excerpt": "The biopharmaceutical maker plans to establish a manufacturing hub with a quality control lab and plant for technology and process development. It is expected to create 300 jobs."
-    },
-    {
-      "id": "15j9rfr",
-      "title": "Albertsons seeks $8B from Kroger over failed merger",
-      "url": "https://www.grocerydive.com/news/albertsons-kroger-merger-pretrial-brief-damages-grocery/832813/",
-      "source": "Grocery Dive",
-      "lang": "en",
-      "date": "2026-10-13T16:04:00.000Z",
-      "excerpt": "Kroger is responsible for a “lost merger premium” because it put its own interests ahead of its obligation to pursue regulatory approval for the deal, Albertsons claimed in a court filing."
     }
   ]
 }
