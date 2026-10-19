@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-18T06:23:32.106Z",
+  "updated": "2026-10-19T06:33:23.903Z",
   "posts": [
+    {
+      "id": "vw7bnv",
+      "title": "Skills Registry: cómo se registran y verifican las competencias profesionale",
+      "url": "https://www.iebschool.com/hub/registro-competencias-profesionales/",
+      "source": "IEB School",
+      "lang": "es",
+      "date": "2026-10-18T21:15:39.000Z",
+      "excerpt": "Un registro de competencias reúne habilidades, formación y evidencias. Su utilidad depende de qué se ha evaluado, quién lo acredita y cómo puedes comprobarlo."
+    },
     {
       "id": "1hgs4gy",
       "title": "Sprouts’ first-ever CTO departs",
@@ -245,6 +254,15 @@
       "excerpt": "Easing fuel prices and a rebound in discounting activity offered shippers relief in Q3, but peak season surcharges will turn up the heat."
     },
     {
+      "id": "1l727ay",
+      "title": "FedEx, UPS delivery prices set for record-high Q4",
+      "url": "https://www.supplychaindive.com/news/fedex-ups-delivery-prices-set-for-record-high-q4/832992/",
+      "source": "Supply Chain Dive",
+      "lang": "en",
+      "date": "2026-10-16T13:31:02.000Z",
+      "excerpt": "Easing fuel prices and a discounting activity rebound offered relief in Q3, but peak season surcharges will turn up the heat, according to the TD Cowen/AFS Freight Index."
+    },
+    {
       "id": "z87nwm",
       "title": "Expedia’s AI chief: Models are fungible, data isn’t",
       "url": "https://www.ciodive.com/news/expedia-chief-AI-data-officer-tech-stack/833165/",
@@ -261,6 +279,15 @@
       "lang": "en",
       "date": "2026-10-16T12:00:00.000Z",
       "excerpt": "On a major S/4HANA transformation, the first signs of trouble did not look like resistance. They looked like missed stand-ups. Then deliverables started slipping, readiness checkpoints came back with gaps and the same functional leads kept surfacing on the…"
+    },
+    {
+      "id": "xaghs6",
+      "title": "Lego taps e-methanol to make certain products, cut reliance on fossil fuels",
+      "url": "https://www.supplychaindive.com/news/lego-taps-e-methanol-to-make-certain-products-cut-reliance-on-fossil-fuels/833062/",
+      "source": "Supply Chain Dive",
+      "lang": "en",
+      "date": "2026-10-16T11:45:00.000Z",
+      "excerpt": "The Danish toymaker said it has started using low-carbon fuel to produce over 90 components like steering wheels, connectors and Minifigure hands to reduce its dependency on virgin fossil fuel."
     },
     {
       "id": "i0kdr1",
@@ -873,33 +900,6 @@
       "lang": "en",
       "date": "2026-10-14T14:32:12.000Z",
       "excerpt": "The retailer deployed electric yard switchers as part of its efforts to curb emissions and will gauge future deployment potential across its supply chain."
-    },
-    {
-      "id": "qghy6y",
-      "title": "B&G Foods sells bean brands amid push to sharpen business",
-      "url": "https://www.fooddive.com/news/bg-foods-sale-divesitures-green-giant-serial-buyer/832939/",
-      "source": "Food Dive",
-      "lang": "en",
-      "date": "2026-10-14T14:00:00.000Z",
-      "excerpt": "The sale of B&M and Joan of Arc to McCall Farms marks the one-time serial acquirer’s latest divestiture as the company focuses on its core brands and pays down debt."
-    },
-    {
-      "id": "xca3c",
-      "title": "CBP eyes earlier filing deadlines for low-cost imports, postal changes",
-      "url": "https://www.supplychaindive.com/news/cbp-eyes-earlier-filing-deadlines-for-low-cost-imports-postal-changes/832877/",
-      "source": "Supply Chain Dive",
-      "lang": "en",
-      "date": "2026-10-14T13:49:47.000Z",
-      "excerpt": "The proposed adjustments could spur higher shipping costs and USPS capacity issues, but trade compliance would improve, the agency said."
-    },
-    {
-      "id": "1h1iy08",
-      "title": "Monster tries again on protein shakes",
-      "url": "https://www.fooddive.com/news/monster-energy-returns-protein-drinks/832954/",
-      "source": "Food Dive",
-      "lang": "en",
-      "date": "2026-10-14T13:40:00.000Z",
-      "excerpt": "The energy giant is returning to the category as innovation becomes a key piece of its growth strategy."
     }
   ]
 }
