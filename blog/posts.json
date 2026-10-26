@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-25T06:26:04.815Z",
+  "updated": "2026-10-26T06:34:20.653Z",
   "posts": [
+    {
+      "id": "1uck9p2",
+      "title": "Cursos gratuitos online con certificado: MOOCs, webinars y eventos de IEBS",
+      "url": "https://www.iebschool.com/hub/cursos-gratuitos-online-gratis-bonificados/",
+      "source": "IEB School",
+      "lang": "es",
+      "date": "2026-10-25T23:32:47.000Z",
+      "excerpt": "Cursos, MOOCs, SPOOCs, webinars, seminarios y eventos ON LINE gratuitos de IEBS. Consulta qué puedes empezar ahora y recupera algunas de las mejores ponencias de 2026."
+    },
+    {
+      "id": "1kztnmk",
+      "title": "Ciberresiliencia: cómo seguir operando cuando tu empresa sufre un ciberataque",
+      "url": "https://www.iebschool.com/hub/ciberresiliencia-empresa-ciberseguridad/",
+      "source": "IEB School",
+      "lang": "es",
+      "date": "2026-10-25T23:17:42.000Z",
+      "excerpt": "No basta con prevenir ataques: una empresa debe saber cómo responder y recuperar la actividad. Guía práctica de ciberresiliencia con ENISA y NIST."
+    },
+    {
+      "id": "1g0vmwm",
+      "title": "Edge AI: qué es y cómo acercar la Inteligencia Artificial a los datos",
+      "url": "https://www.iebschool.com/hub/edge-ai-inteligencia-artificial-dispositivos-inteligencia-artificial/",
+      "source": "IEB School",
+      "lang": "es",
+      "date": "2026-10-25T23:17:31.000Z",
+      "excerpt": "La IA ya no necesita enviar siempre los datos a la nube. Descubre qué es Edge AI, dónde se utiliza y cómo valorar sus ventajas y límites en una empresa."
+    },
+    {
+      "id": "1n9xl5b",
+      "title": "IA neurosimbólica: inteligencia artificial necesita reglas para razonar",
+      "url": "https://www.iebschool.com/hub/ia-neurosimbolica-como-funciona-aplicaciones-inteligencia-artificial/",
+      "source": "IEB School",
+      "lang": "es",
+      "date": "2026-10-25T23:16:58.000Z",
+      "excerpt": "La IA neurosimbólica combina aprendizaje profundo y reglas lógicas. Descubre cómo funciona, el caso AlphaGeometry y sus aplicaciones empresariales."
+    },
     {
       "id": "6g9d7f",
       "title": "Apple’s $1,999 Foldable iPhone Is Here: What Buyers Need to Know",
@@ -864,42 +900,6 @@
       "lang": "en",
       "date": "2026-10-21T14:39:00.000Z",
       "excerpt": "Restaurants offering the four new housemade drinks saw the share of beverage transactions jump nearly 25%."
-    },
-    {
-      "id": "4i52st",
-      "title": "Microsoft Is Removing 8 Copilot Shortcuts From File Explorer — Here’s What Stays",
-      "url": "https://www.techrepublic.com/article/news-microsoft-onedrive-copilot-shortcuts-file-explorer/",
-      "source": "TechRepublic",
-      "lang": "en",
-      "date": "2026-10-21T14:19:22.000Z",
-      "excerpt": "Microsoft will remove eight OneDrive Copilot shortcuts from File Explorer starting in November 2026, changing how users access AI-powered file tools."
-    },
-    {
-      "id": "1ji04mv",
-      "title": "Extended peak season drives high dwell times at San Pedro Bay ports",
-      "url": "https://www.supplychaindive.com/news/extended-peak-season-drives-high-dwell-times-at-san-pedro-bay-ports/833584/",
-      "source": "Supply Chain Dive",
-      "lang": "en",
-      "date": "2026-10-21T14:17:43.000Z",
-      "excerpt": "The Pacific Merchant Shipping Association said record volumes in September pushed up the time cargo remained idle, both for rail and truck transport."
-    },
-    {
-      "id": "16lemc2",
-      "title": "CIOs brace for higher memory costs in 2027 amid global IT spend hike",
-      "url": "https://www.ciodive.com/news/CIOs-brace-higher-memory-costs-2027-global-it-spend-hike/833579/",
-      "source": "CIO Dive",
-      "lang": "en",
-      "date": "2026-10-21T14:09:06.000Z",
-      "excerpt": "“As much as CIOs are worried about the cost of AI today, it’s not going to be this low again,” said John-David Lovelock, distinguished VP analyst at Gartner."
-    },
-    {
-      "id": "8mkp1g",
-      "title": "Transfr Pro Replaces WeTransfer With a Single $79.99 Payment",
-      "url": "https://www.techrepublic.com/article/transfr-pro-lifetime-subscription/",
-      "source": "TechRepublic",
-      "lang": "en",
-      "date": "2026-10-21T14:00:21.000Z",
-      "excerpt": "Send unlimited files with real-time tracking, custom branding, and GDPR-compliant infrastructure — no fees."
     }
   ]
 }
