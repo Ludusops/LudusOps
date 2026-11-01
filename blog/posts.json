@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T11:49:19.959Z",
+  "updated": "2026-11-01T12:48:05.195Z",
   "posts": [
     {
       "id": "11rwihq",
@@ -279,6 +279,15 @@
       "lang": "en",
       "date": "2026-10-30T14:14:00.000Z",
       "excerpt": "The agency and eight states allege that the point-of-sale services provider charges its restaurant clients and their customers hidden fees."
+    },
+    {
+      "id": "1vaczvw",
+      "title": "Starbucks’ strong comps driven by ticket growth",
+      "url": "https://www.restaurantdive.com/news/starbucks-ticket-traffic-merch-turnaround-becomes-growth/873299/",
+      "source": "Restaurant Dive",
+      "lang": "en",
+      "date": "2026-10-30T14:04:19.000Z",
+      "excerpt": "The chain is moving from a turnaround to a sustained growth plan, CEO Brian Niccol said, as traffic, mix, pricing and merch all contribute to sales growth."
     },
     {
       "id": "3jh108",
@@ -891,15 +900,6 @@
       "lang": "en",
       "date": "2026-10-28T20:43:18.000Z",
       "excerpt": "Which humanoid robots are closest to deployment in 2027? Compare Tesla, Figure AI, Agility Robotics, and other leaders in industrial automation."
-    },
-    {
-      "id": "1e1oxka",
-      "title": "CISA, security researchers confirm successful exploitation of PHP flaws",
-      "url": "https://www.ciodive.com/news/cisa-security-researchers-exploitation-php-flaws/873116/",
-      "source": "CIO Dive",
-      "lang": "en",
-      "date": "2026-10-28T20:40:00.000Z",
-      "excerpt": "The security community has come under increased scrutiny as earlier threat warnings were slow to materialize."
     }
   ]
 }
