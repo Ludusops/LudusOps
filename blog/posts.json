@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-07T12:36:24.656Z",
+  "updated": "2026-11-08T12:53:19.044Z",
   "posts": [
+    {
+      "id": "1axto8",
+      "title": "Nvidia Tightens AI Chip Tracking in Southeast Asia as China Smuggling Concerns Grow",
+      "url": "https://www.techrepublic.com/article/news-nvidia-ai-chip-tracking-apac-singapore-china/",
+      "source": "TechRepublic",
+      "lang": "en",
+      "date": "2026-11-06T21:15:43.000Z",
+      "excerpt": "Nvidia reportedly requires GPU monitoring for Southeast Asian cloud partners as China AI chip smuggling concerns grow. Here's what businesses should know."
+    },
     {
       "id": "x3t4w1",
       "title": "Tech employment rebounded in October, bolstered by AI jobs",
@@ -891,15 +900,6 @@
       "lang": "en",
       "date": "2026-11-04T16:20:50.000Z",
       "excerpt": "While the company recorded strong U.S. online growth in Q3, it expects the online breach that disrupted its operations last month to reduce its net sales for the current quarter."
-    },
-    {
-      "id": "dyme5x",
-      "title": "Cleveland-Cliffs confirms compliance with Stelco labor commitments",
-      "url": "https://www.manufacturingdive.com/news/cleveland-cliffs-confirms-compliance-stelco-amid-canada-dispute/873709/",
-      "source": "Manufacturing Dive",
-      "lang": "en",
-      "date": "2026-11-04T16:10:00.000Z",
-      "excerpt": "The steelmaker plans to meet with Canada’s Minister of Industry Mélanie Joly to discuss a path toward resuming full employment of its laid-off workers in Hamilton, Ontario."
     }
   ]
 }
