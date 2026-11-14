@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T14:03:45.670Z",
+  "updated": "2026-11-14T13:05:43.231Z",
   "posts": [
     {
       "id": "18vnq26",
@@ -9,6 +9,249 @@
       "lang": "en",
       "date": "2027-11-10T05:00:00.000Z",
       "excerpt": "I've been using Notion to take notes and organize my life for a few years now. As you might expect with a popular app like Notion, there are quite a few alternatives these days. Superhuman Docs (formerly known as Coda) might be the clearest 1:1 substitute for…"
+    },
+    {
+      "id": "1d457uh",
+      "title": "FAA Grounds US Flights Nationwide, Citing ‘Extraordinary’ Safety Concerns",
+      "url": "https://www.techrepublic.com/article/news-faa-nationwide-ground-stop-flight-delays-2026/",
+      "source": "TechRepublic",
+      "lang": "en",
+      "date": "2026-11-13T22:14:35.000Z",
+      "excerpt": "FAA grounds flights nationwide, citing extraordinary safety concerns amid air traffic control communications problems. Here's what travelers need to know."
+    },
+    {
+      "id": "1uvkt54",
+      "title": "Toshiba Wins UK Contract to Scale Quantum Networks With BT, Colt",
+      "url": "https://www.techrepublic.com/article/news-toshiba-uk-quantum-network-contract-bt-colt-emea/",
+      "source": "TechRepublic",
+      "lang": "en",
+      "date": "2026-11-13T22:02:27.000Z",
+      "excerpt": "Toshiba Europe won an Innovate UK contract to build long-distance, multi-user quantum network subsystems, with BT and Colt testing them on real fiber."
+    },
+    {
+      "id": "1l5s8wi",
+      "title": "Microsoft 365 outage underscores enterprise resiliency issues",
+      "url": "https://www.ciodive.com/news/microsoft-outage-enterprise-resiliancy/874695/",
+      "source": "CIO Dive",
+      "lang": "en",
+      "date": "2026-11-13T21:19:35.000Z",
+      "excerpt": "CIOs should rely on a diversity of providers and bolster incident response as strain on compute threatens to bring future disruptions."
+    },
+    {
+      "id": "11n3jml",
+      "title": "Kraft Heinz expects return to growth in 2027 as innovation investments pay off",
+      "url": "https://www.fooddive.com/news/kraft-heinz-return-to-growth-innovation-investments-payoff/874643/",
+      "source": "Food Dive",
+      "lang": "en",
+      "date": "2026-11-13T21:00:00.000Z",
+      "excerpt": "Recent launches, including ketchup with lower sugar and gluten-free cream cheese, are helping grow market share and volume."
+    },
+    {
+      "id": "srlc4c",
+      "title": "Companies struggle to know what normal looks like for AI agents",
+      "url": "https://www.ciodive.com/news/ai-agents-normal-baseline-security-governance/874676/",
+      "source": "CIO Dive",
+      "lang": "en",
+      "date": "2026-11-13T20:58:00.000Z",
+      "excerpt": "The inability to establish baselines is complicating the task of securing these autonomous tools, a report from security firm Abnormal AI found."
+    },
+    {
+      "id": "h8eqm8",
+      "title": "M365 services slowly come back online after global outage",
+      "url": "https://www.cio.com/article/4248596/m365-services-slowly-come-back-online-after-global-outage-2.html",
+      "source": "CIO",
+      "lang": "en",
+      "date": "2026-11-13T20:50:47.000Z",
+      "excerpt": "After a lengthy Microsoft 365 outage disrupted business around the globe, Microsoft is now restoring services to its customers. As of 6:00 p.m. UTC (1 p.m. ET) on Friday, Nov. 13, Microsoft said that it is seeing broad recovery and stability across its…"
+    },
+    {
+      "id": "1c5i1o5",
+      "title": "Nvidia’s leadership crisis puts enterprise AI’s dependence on one company under scrutiny",
+      "url": "https://www.cio.com/article/4248546/nvidias-leadership-crisis-puts-enterprise-ais-dependence-on-one-company-under-scrutiny-2.html",
+      "source": "CIO",
+      "lang": "en",
+      "date": "2026-11-13T18:19:32.000Z",
+      "excerpt": "The tech world has been rattled by the toppling of one of its most prominent leaders, and the widespread implications it could have on the AI industry itself. Nvidia, which provides the underlying AI infrastructure for seemingly every company on the planet,…"
+    },
+    {
+      "id": "gxwm1b",
+      "title": "Monthly manufacturing tech orders reach $1B; GE Vernova expands and more",
+      "url": "https://www.manufacturingdive.com/news/manufacturing-technology-orders-reached-1b-september-kopin-ge-vernova/874607/",
+      "source": "Manufacturing Dive",
+      "lang": "en",
+      "date": "2026-11-13T17:09:00.000Z",
+      "excerpt": "Additionally, companies such as Honda, Kopin and ATP Adhesive announced openings or expansion projects this week."
+    },
+    {
+      "id": "1iudeui",
+      "title": "BASF opens $1B MDI production facility in Louisiana",
+      "url": "https://www.manufacturingdive.com/news/basf-verbund-mdi-facility-polyurethanes-geismar-louisiana/874549/",
+      "source": "Manufacturing Dive",
+      "lang": "en",
+      "date": "2026-11-13T16:50:00.000Z",
+      "excerpt": "The Geismar site is the Germany-based entity’s largest single investment to date in the United States and **, making it its most significant** MDI producer in North America."
+    },
+    {
+      "id": "1qoxdc6",
+      "title": "Automakers using advanced tech to cut waste and costs, boost flexibility",
+      "url": "https://www.manufacturingdive.com/news/automakers-ai-reduce-waste-cut-costs-boost-flexibility/874543/",
+      "source": "Manufacturing Dive",
+      "lang": "en",
+      "date": "2026-11-13T16:48:52.000Z",
+      "excerpt": "Artificial intelligence can help companies enhance connectivity on the factory floor and optimize supply chains, experts said at the State of Automotive Manufacturing virtual event."
+    },
+    {
+      "id": "1etx74d",
+      "title": "The beverage boom is here to stay",
+      "url": "https://www.restaurantdive.com/news/beverage-boom-restaurant-finance-continuing-trends/874571/",
+      "source": "Restaurant Dive",
+      "lang": "en",
+      "date": "2026-11-13T16:05:32.000Z",
+      "excerpt": "A widening consumer base, traffic at unconventional times and strong food attachment mean the brands benefiting from beverage have a bright future."
+    },
+    {
+      "id": "1akvp6a",
+      "title": "Port of Los Angeles grapples with elevated rail dwell times",
+      "url": "https://www.supplychaindive.com/news/port-of-los-angeles-grapples-with-elevated-rail-dwell-times/874553/",
+      "source": "Supply Chain Dive",
+      "lang": "en",
+      "date": "2026-11-13T16:04:00.000Z",
+      "excerpt": "Wait times for idle containers set for rail transport have reached over nine days, Executive Director Gene Seroka said."
+    },
+    {
+      "id": "1xud3pp",
+      "title": "JD Sports leverages tech for faster replenishment",
+      "url": "https://www.supplychaindive.com/news/jd-sports-leverages-tech-for-faster-replenishment/874427/",
+      "source": "Supply Chain Dive",
+      "lang": "en",
+      "date": "2026-11-13T15:55:00.000Z",
+      "excerpt": "The sportswear retailer is partnering with Zebra to gain real-time inventory visibility across its omnichannel operations, citing 98% on-shelf availability."
+    },
+    {
+      "id": "1ss1uih",
+      "title": "Merchants sue feds over Illinois card fee law",
+      "url": "https://www.grocerydive.com/news/merchants-sue-federal-government-illinois-card-fee-law/874601/",
+      "source": "Grocery Dive",
+      "lang": "en",
+      "date": "2026-11-13T15:55:00.000Z",
+      "excerpt": "Trade groups including FMI and NGA filed lawsuits against bank and credit union regulators over a preemption of a state law that bans swipe fees for taxes and tips."
+    },
+    {
+      "id": "o6zkvs",
+      "title": "Papa Johns franchisee declares bankruptcy",
+      "url": "https://www.restaurantdive.com/news/papa-johns-franchisee-papazhs-files-chapter-11-bankruptcy/874612/",
+      "source": "Restaurant Dive",
+      "lang": "en",
+      "date": "2026-11-13T15:45:00.000Z",
+      "excerpt": "Papa ZHS, which opened the chain’s 6,000th restaurant in 2025, is the latest operator to seek court-supervised restructuring as the brand’s sales troubles continue."
+    },
+    {
+      "id": "5ii61v",
+      "title": "Leftovers: Hershey bakes Reese’s pie for Thanksgiving | Tostitos adds zesty twist to Scoops",
+      "url": "https://www.fooddive.com/news/leftovers-pepsico-hint-of-lime-scoops-reeses-3-pound-pie-cutwater-white-russian/874620/",
+      "source": "Food Dive",
+      "lang": "en",
+      "date": "2026-11-13T15:45:00.000Z",
+      "excerpt": "The sweets giant is introducing a 3-pound peanut butter cup for holiday hosting, while Cutwater gets festive with a Gingerbread White Russian."
+    },
+    {
+      "id": "1l8871n",
+      "title": "Samsung and Google Open AI Glasses Preorders: What $395 Gets You",
+      "url": "https://www.techrepublic.com/article/news-samsung-google-ai-glasses-preorders/",
+      "source": "TechRepublic",
+      "lang": "en",
+      "date": "2026-11-13T15:20:38.000Z",
+      "excerpt": "Samsung and Google open AI glasses preorders from $395. Explore Gemini features, Warby Parker and Gentle Monster styles, release dates, and phone compatibility."
+    },
+    {
+      "id": "17bym74",
+      "title": "Apple Wants $50 for More AI Usage: How Much Do You Actually Get?",
+      "url": "https://www.techrepublic.com/article/news-apple-creator-studio-ai-usage-packs/",
+      "source": "TechRepublic",
+      "lang": "en",
+      "date": "2026-11-13T15:03:56.000Z",
+      "excerpt": "Apple now sells $49.99 AI usage packs for Creator Studio subscribers. Here's how they work, who qualifies, and why the extra capacity is hard to predict."
+    },
+    {
+      "id": "1o7eroz",
+      "title": "This Week in Tech: Nvidia’s Shakeup and AI’s Reality Check",
+      "url": "https://www.techrepublic.com/article/this-week-in-tech-nvidias-shakeup-and-ais-reality-check/",
+      "source": "TechRepublic",
+      "lang": "en",
+      "date": "2026-11-13T15:01:46.000Z",
+      "excerpt": "See what you missed in Daily Tech Insider from Nov. 9–13."
+    },
+    {
+      "id": "zuqdfn",
+      "title": "Instacart starts stocking up bars",
+      "url": "https://www.grocerydive.com/news/instacart-provi-restaurants-bar-delivery/874540/",
+      "source": "Grocery Dive",
+      "lang": "en",
+      "date": "2026-11-13T15:00:00.000Z",
+      "excerpt": "The grocery technology company partnered with digital platform Provi to let bars and restaurants order non-alcoholic items."
+    },
+    {
+      "id": "w1a775",
+      "title": "Starbucks brings extra personalization, delivery to app",
+      "url": "https://www.restaurantdive.com/news/starbucks-digital-personalization-app-update/874610/",
+      "source": "Restaurant Dive",
+      "lang": "en",
+      "date": "2026-11-13T14:58:21.000Z",
+      "excerpt": "The coffee giant will personalize recommendations for consumers as it plans to grow its presence in conversational product discovery."
+    },
+    {
+      "id": "1vdy5n1",
+      "title": "Walmart more than doubles planned drone delivery sites",
+      "url": "https://www.supplychaindive.com/news/walmart-more-than-doubles-planned-drone-delivery-sites/874580/",
+      "source": "Supply Chain Dive",
+      "lang": "en",
+      "date": "2026-11-13T14:37:21.000Z",
+      "excerpt": "An expansion with drone operator Zipline will allow the retailer to make rapid air delivery available to customers nationwide over the next several years."
+    },
+    {
+      "id": "185mjcq",
+      "title": "USPS readies 2027 rate increase, permanent fuel surcharge",
+      "url": "https://www.supplychaindive.com/news/usps-readies-2027-rate-increase-permanent-fuel-surcharge/874524/",
+      "source": "Supply Chain Dive",
+      "lang": "en",
+      "date": "2026-11-13T14:26:13.000Z",
+      "excerpt": "The agency plans to increase prices by 5.9% on average for services like USPS Ground Advantage and Priority Mail in January."
+    },
+    {
+      "id": "18303b2",
+      "title": "Google, Meta, TikTok Oppose Indonesia’s AI Copyright Bill",
+      "url": "https://www.techrepublic.com/article/news-google-meta-tiktok-indonesia-ai-copyright-apac/",
+      "source": "TechRepublic",
+      "lang": "en",
+      "date": "2026-11-13T14:19:55.000Z",
+      "excerpt": "Google, Meta, and TikTok oppose Indonesia's proposed copyright changes. Here's what APAC businesses should know about AI content, news links, and liability."
+    },
+    {
+      "id": "11it9ch",
+      "title": "Nvidia CEO resigns amid scandal; CFO named interim",
+      "url": "https://www.manufacturingdive.com/news/nvidia-ceo-resigns-scandal-cfo-named-interim-ceo-ai/874515/",
+      "source": "Manufacturing Dive",
+      "lang": "en",
+      "date": "2026-11-13T14:17:33.000Z",
+      "excerpt": "Jensen Huang resigned effective immediately, with the chipmaker naming its long-time CFO Colette Kress as interim CEO until a permanent successor is found, Nvidia announced Thursday."
+    },
+    {
+      "id": "xamsyz",
+      "title": "Your Smartphone Camera Wastes Light. HoloCoder Wants to Fix That",
+      "url": "https://www.techrepublic.com/article/news-metalenz-holocoder-smartphone-camera-technology/",
+      "source": "TechRepublic",
+      "lang": "en",
+      "date": "2026-11-13T14:09:49.000Z",
+      "excerpt": "Metalenz says HoloCoder could deliver up to 2.5 times more light to smartphone camera sensors. Here's how the technology works and what remains unproven."
+    },
+    {
+      "id": "1nq5w0e",
+      "title": "Oppo A7 Pro Launches in Europe at €429 With 7,400mAh Battery",
+      "url": "https://www.techrepublic.com/article/news-oppo-a7-pro-europe-price-specs-battery-emea/",
+      "source": "TechRepublic",
+      "lang": "en",
+      "date": "2026-11-13T13:44:03.000Z",
+      "excerpt": "Oppo A7 Pro arrives in Europe with a 7,400mAh battery, 80W charging, and a €429 launch price. Compare its specs, regional changes, and buying trade-offs."
     },
     {
       "id": "7mxpe9",
@@ -63,6 +306,15 @@
       "lang": "en",
       "date": "2026-11-13T06:56:56.000Z",
       "excerpt": "If you’re struggling to send or receive emails, you’re not alone. Microsoft has been unable to fully restore Microsoft 365 more than 13 hours after an Exchange Online failure took down Outlook and spread to Teams, SharePoint, Copilot and parts of the…"
+    },
+    {
+      "id": "8fbfsa",
+      "title": "How to automate your AI personal assistant",
+      "url": "https://zapier.com/blog/automate-ai-personal-assistant",
+      "source": "Zapier",
+      "lang": "en",
+      "date": "2026-11-13T05:00:00.000Z",
+      "excerpt": "Personal AI assistants have officially stopped being chatbots. Muse, ChatGPT dots, Claude Duet, and Pally now all do some version of the same thing: they run on their own, flag important stuff for you, and take actions autonomously in your connected apps.…"
     },
     {
       "id": "1sy92hs",
@@ -648,258 +900,6 @@
       "lang": "en",
       "date": "2026-11-11T11:12:37.000Z",
       "excerpt": "Xiaomi's 18 Pro Max boasts a much bigger battery in China, but reported global specifications could put it nearly level with Motorola's Signature 27."
-    },
-    {
-      "id": "18s7cyp",
-      "title": "Google Messages May Soon Let You Edit Photos and Videos Before Sending",
-      "url": "https://www.techrepublic.com/article/news-google-messages-edit-photos-videos-before-sending/",
-      "source": "TechRepublic",
-      "lang": "en",
-      "date": "2026-11-11T10:54:50.000Z",
-      "excerpt": "Google Messages beta code reveals an Edit media shortcut that could let users crop photos and trim videos using their phone's existing editing app."
-    },
-    {
-      "id": "18zwbzn",
-      "title": "Microsoft Teams AI Phishing Detection: Rollout and Deepfake Warnings",
-      "url": "https://www.techrepublic.com/article/news-microsoft-teams-ai-phishing-detection-deepfake-warnings/",
-      "source": "TechRepublic",
-      "lang": "en",
-      "date": "2026-11-11T10:29:53.000Z",
-      "excerpt": "Microsoft Teams is introducing AI phishing detection for external chats, while separate deepfake detection will require third-party providers and administrator setup."
-    },
-    {
-      "id": "14yvi3t",
-      "title": "Stop dialing carriers one by one: How Kuehne+Nagel put AI agents on its overnight cold chain calls",
-      "url": "https://www.supplychaindive.com/spons/stop-dialing-carriers-one-by-one-how-kuehnenagel-put-ai-agents-on-its-ove/874349/",
-      "source": "Supply Chain Dive",
-      "lang": "en",
-      "date": "2026-11-11T10:00:00.000Z",
-      "excerpt": "AI agents handled 78% of the control tower’s carrier calls end-to-end. CMA CGM, DHL Supply Chain, and Encompass are seeing..."
-    },
-    {
-      "id": "35i6jk",
-      "title": "New US CIO appointments, November 2026",
-      "url": "https://www.cio.com/article/230613/new-cio-appointments.html",
-      "source": "CIO",
-      "lang": "en",
-      "date": "2026-11-11T10:00:00.000Z",
-      "excerpt": "Movers & Shakers is where you can keep up with new CIO appointments and gain valuable insight into the job market and CIO hiring trends. As every company becomes a technology company, CEOs and corporate boards are seeking multi-dimensional CIOs and IT leaders…"
-    },
-    {
-      "id": "1gfcudn",
-      "title": "Taking AI-based transformations to the next level with prompt markup languages",
-      "url": "https://www.cio.com/article/4246977/taking-ai-based-transformations-to-the-next-level-with-prompt-markup-languages.html",
-      "source": "CIO",
-      "lang": "en",
-      "date": "2026-11-11T10:00:00.000Z",
-      "excerpt": "For engineers, one of generative AI’s chief selling points is its ability to write code using natural language. It may seem surprising, then, to learn that getting the most out of generative AI increasingly requires them to write code. Specifically, engineers…"
-    },
-    {
-      "id": "m6vgu7",
-      "title": "As employees build AI agents, CIOs manage the lifecycle",
-      "url": "https://www.cio.com/article/4246026/as-employees-build-ai-agents-cios-manage-the-lifecycle.html",
-      "source": "CIO",
-      "lang": "en",
-      "date": "2026-11-11T10:00:00.000Z",
-      "excerpt": "At Fujifilm Biotechnologies, an AI agent designed to help the legal department read contracts is gearing up to graduate from sandbox to full production in early December. Contracts are a large part of the business at the CDMO, which partners with…"
-    },
-    {
-      "id": "1a5n11k",
-      "title": "The AI prototype worked. Who promised the launch?",
-      "url": "https://www.cio.com/article/4246975/the-ai-prototype-worked-who-promised-the-launch.html",
-      "source": "CIO",
-      "lang": "en",
-      "date": "2026-11-11T09:00:00.000Z",
-      "excerpt": "“Sure, we can figure it out.” Earlier in my career, I used those words to avoid an uncomfortable conversation. I meant I would assess the request and explore what was possible. The person asking could hear that I had accepted the work and would deliver what…"
-    },
-    {
-      "id": "162ua7j",
-      "title": "How to get a Google Gemini API key—and use the Gemini API",
-      "url": "https://zapier.com/blog/gemini-api",
-      "source": "Zapier",
-      "lang": "en",
-      "date": "2026-11-11T05:00:00.000Z",
-      "excerpt": "OpenAI and Anthropic models can read text and look at images just fine, but video is a big no-no. If you're building a tool or a product that absolutely needs that type of media, you'd have to engineer a long workaround, decomposing it into multiple images…"
-    },
-    {
-      "id": "1olho75",
-      "title": "Pipedream pricing: Is it worth it?",
-      "url": "https://zapier.com/blog/pipedream-pricing",
-      "source": "Zapier",
-      "lang": "en",
-      "date": "2026-11-11T05:00:00.000Z",
-      "excerpt": "If you're building a product that connects to your users' apps, you've probably run into the same problem: every integration is its own little project. You need to manage OAuth flows, token refresh, API quirks, and all the maintenance in between. Multiply…"
-    },
-    {
-      "id": "sg0hqn",
-      "title": "Gumloop pricing: Is it worth it?",
-      "url": "https://zapier.com/blog/gumloop-pricing",
-      "source": "Zapier",
-      "lang": "en",
-      "date": "2026-11-11T05:00:00.000Z",
-      "excerpt": "I'm still looking for a cab service that shows the full price range before I even book. Something like: \"Base fare $12 + possible surge $0-$4 depending on traffic and demand.\" Hey, I can dream. Gumloop's pricing gets close to that idea. It's transparent, but…"
-    },
-    {
-      "id": "sgf3h3",
-      "title": "Workato pricing: Is it worth it?",
-      "url": "https://zapier.com/blog/workato-pricing",
-      "source": "Zapier",
-      "lang": "en",
-      "date": "2026-11-11T05:00:00.000Z",
-      "excerpt": "Imagine booking a flight where every ticket just says \"contact the airline.\" No prices, no range—nada. Just a polite suggestion to start a conversation while you hope the cost doesn't make your eyebrows hit your hairline. That's what Workato's pricing feels…"
-    },
-    {
-      "id": "3zr6zm",
-      "title": "Power Automate pricing and plans for 2026",
-      "url": "https://zapier.com/blog/power-automate-pricing",
-      "source": "Zapier",
-      "lang": "en",
-      "date": "2026-11-11T05:00:00.000Z",
-      "excerpt": "The first time someone at a Microsoft shop notices their Power Automate bill is higher than expected, they usually look for a pricing page. What they find is a grid with three plans, a $5,000/month add-on that isn't a typo, and the slow realization that the…"
-    },
-    {
-      "id": "f5gu8g",
-      "title": "n8n pricing: Is it worth it?",
-      "url": "https://zapier.com/blog/n8n-pricing",
-      "source": "Zapier",
-      "lang": "en",
-      "date": "2026-11-11T05:00:00.000Z",
-      "excerpt": "When I got married, my mom and I visited countless bakeries looking for the perfect wedding cake. Nothing quite hit the mark. So she did what any completely rational mother of the bride would do: she made the cake herself. It ended up being perfectly…"
-    },
-    {
-      "id": "16jyzks",
-      "title": "Tray pricing: Is it worth it?",
-      "url": "https://zapier.com/blog/tray-pricing",
-      "source": "Zapier",
-      "lang": "en",
-      "date": "2026-11-11T05:00:00.000Z",
-      "excerpt": "As a software engineer who's built hundreds of integrations over the years, I demand a lot from integration platforms. In the case of Tray, the promise is that you can orchestrate workflows and enterprise-grade AI agents. That's a claim many other platforms…"
-    },
-    {
-      "id": "1o7f3f6",
-      "title": "Lindy pricing and plans for 2026",
-      "url": "https://zapier.com/blog/lindy-pricing",
-      "source": "Zapier",
-      "lang": "en",
-      "date": "2026-11-11T05:00:00.000Z",
-      "excerpt": "As a small business owner running multiple newsletters, I'm always hunting for ways to claw back a few hours. So my ears perked up when I first heard Lindy AI's pitch that it could save me time. Of course, I had questions: namely, how much does it actually…"
-    },
-    {
-      "id": "rum8kf",
-      "title": "UiPath pricing: Exploring RPA pricing models",
-      "url": "https://zapier.com/blog/uipath-pricing",
-      "source": "Zapier",
-      "lang": "en",
-      "date": "2026-11-11T05:00:00.000Z",
-      "excerpt": "Understanding UiPath pricing should take three minutes. It doesn't. Take a few seconds to browse the website, and you'll find a mostly hidden pricing structure filled with attended bots, action center limits, and AI consumption units. If you want any further…"
-    },
-    {
-      "id": "2lme33",
-      "title": "One Identity Unveils Active Roles 8.6 with Enhanced Security and Administration",
-      "url": "https://www.cio.com/article/4247172/one-identity-unveils-active-roles-8-6-with-enhanced-security-and-administration-2.html",
-      "source": "CIO",
-      "lang": "en",
-      "date": "2026-11-11T04:44:23.000Z",
-      "excerpt": "Active Roles 8.6: Cumulative security, feature and administration upgrades One Identity has introduced Active Roles 8.6, strengthening secure and streamlined Active Directory administration with cumulative platform improvements, expanded API capabilities and…"
-    },
-    {
-      "id": "1nxg39n",
-      "title": "How PMI Elevation Manages 175 Doors with a Team of 4",
-      "url": "https://www.process.st/case-study-pmi-elevation/",
-      "source": "Process.st",
-      "lang": "en",
-      "date": "2026-11-11T04:16:22.000Z",
-      "excerpt": "PMI Elevation runs 175 Denver rental properties with a team of 4. See how documented workflows, conditional logic and clear ownership cut training time and missed deadlines. The post How PMI Elevation Manages 175 Doors with a Team of 4 first appeared on…"
-    },
-    {
-      "id": "198diua",
-      "title": "Ferrara to shutter Chicago plant, impacting more than 150 workers",
-      "url": "https://www.fooddive.com/news/ferrara-closing-chicago-plant-jobs-snacking/874294/",
-      "source": "Food Dive",
-      "lang": "en",
-      "date": "2026-11-10T20:54:00.000Z",
-      "excerpt": "The closure, expected to occur in April 2027, comes as the Laffy Taffy and Jelly Belly maker assesses market conditions and its long-term innovation plans."
-    },
-    {
-      "id": "l5qny5",
-      "title": "Despite rising ROI on AI, infrastructure woes persist",
-      "url": "https://www.ciodive.com/news/rising-ROI-AI-infrastructure-woes/874312/",
-      "source": "CIO Dive",
-      "lang": "en",
-      "date": "2026-11-10T20:41:06.000Z",
-      "excerpt": "External security shortcomings, lagging tech stacks and a lack of workforce skills prevent CIOs from reaping AI’s rewards, a Kyndryl report found."
-    },
-    {
-      "id": "1ah6r4d",
-      "title": "Trump picks Palantir cybersecurity executive to lead CISA",
-      "url": "https://www.ciodive.com/news/trump-cisa-director-nominee-michael-losapio/874306/",
-      "source": "CIO Dive",
-      "lang": "en",
-      "date": "2026-11-10T20:33:00.000Z",
-      "excerpt": "The nomination — Trump’s second attempt to fill a post that has sat vacant for his entire second term — could face steep odds in the Senate."
-    },
-    {
-      "id": "1khu25q",
-      "title": "Softbank and ABB reenter talks after China blocked acquisition",
-      "url": "https://www.manufacturingdive.com/news/softbank-abb-reenter-talks-after-china-blocked-robotics-acquisition-5b-deal/874244/",
-      "source": "Manufacturing Dive",
-      "lang": "en",
-      "date": "2026-11-10T17:06:00.000Z",
-      "excerpt": "The decision could result in a carve-out of the $5.4 billion deal, a new buyer or a potential spin-off."
-    },
-    {
-      "id": "q3dpms",
-      "title": "The 6 best landing page builders in 2026",
-      "url": "https://zapier.com/blog/best-landing-page-builders",
-      "source": "Zapier",
-      "lang": "en",
-      "date": "2026-11-10T16:31:00.000Z",
-      "excerpt": "In marketing terms, landing pages are more than just stripped-down websites. They're one-page sites with a specific focus, like promoting your product or getting customers to sign up for your newsletter. You can almost think of them as an interactive online…"
-    },
-    {
-      "id": "1aryvh1",
-      "title": "Lidl US prepares to debut 9th store of 2026",
-      "url": "https://www.grocerydive.com/news/lidl-us-store-growth-grocery/874203/",
-      "source": "Grocery Dive",
-      "lang": "en",
-      "date": "2026-11-10T16:12:00.000Z",
-      "excerpt": "The chain’s new location in Baltimore, Maryland, due to open in mid-December, will come on line during a year when it has concentrated its growth in the New York City region."
-    },
-    {
-      "id": "19esda1",
-      "title": "Mars to invest $1.4B in US manufacturing, operations in 2027",
-      "url": "https://www.fooddive.com/news/mars-invest-us-manufacturing-operations-snacking-kellanova-acquisition/874254/",
-      "source": "Food Dive",
-      "lang": "en",
-      "date": "2026-11-10T16:00:00.000Z",
-      "excerpt": "The investment, the largest made by the M&Ms maker in a single year, will help grow its snacking portfolio following its $36 billion acquisition of Kellanova."
-    },
-    {
-      "id": "1n3ebdz",
-      "title": "Mars to invest $1.4B in US manufacturing, operations in 2027",
-      "url": "https://www.manufacturingdive.com/news/mars-invest-us-manufacturing-operations-snacking-kellanova-acquisition/874403/",
-      "source": "Manufacturing Dive",
-      "lang": "en",
-      "date": "2026-11-10T16:00:00.000Z",
-      "excerpt": "The investment, the largest made by the M&Ms maker in a single year, will help grow its snacking portfolio following its $36 billion acquisition of Kellanova."
-    },
-    {
-      "id": "v89yk2",
-      "title": "US government aims to prevent cyberattacks on refrigeration systems",
-      "url": "https://www.grocerydive.com/news/cisa-cybersecurity-grocery-refrigeration-attacks/874208/",
-      "source": "Grocery Dive",
-      "lang": "en",
-      "date": "2026-11-10T15:57:25.000Z",
-      "excerpt": "In response to cyberattacks targeting supermarkets in Europe, the U.S. is urging businesses to implement measures to protect online systems."
-    },
-    {
-      "id": "10lctrh",
-      "title": "General Mills streamlines business structure amid CEO change",
-      "url": "https://www.fooddive.com/news/general-mills-restructures-new-ceo-cereal-snacking/874236/",
-      "source": "Food Dive",
-      "lang": "en",
-      "date": "2026-11-10T15:47:00.000Z",
-      "excerpt": "The Cheerios maker is reorganizing into three operating segments as it looks to enhance its focus and accelerate growth."
     }
   ]
 }
