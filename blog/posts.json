@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T13:05:43.231Z",
+  "updated": "2026-11-15T13:34:46.111Z",
   "posts": [
     {
       "id": "18vnq26",
@@ -9,6 +9,15 @@
       "lang": "en",
       "date": "2027-11-10T05:00:00.000Z",
       "excerpt": "I've been using Notion to take notes and organize my life for a few years now. As you might expect with a popular app like Notion, there are quite a few alternatives these days. Superhuman Docs (formerly known as Coda) might be the clearest 1:1 substitute for…"
+    },
+    {
+      "id": "lkzsuo",
+      "title": "Samsung’s Next Phone Could Stretch Instead of Fold, Leak Suggests.",
+      "url": "https://www.techrepublic.com/article/news-samsung-rollable-phone-vertical-sliding-display-leak/",
+      "source": "TechRepublic",
+      "lang": "en",
+      "date": "2026-11-13T22:56:31.000Z",
+      "excerpt": "Samsung may be exploring a rollable phone that expands vertically from 16:9 to 21:9. Here's what the leak suggests about its design and potential challenges."
     },
     {
       "id": "1d457uh",
@@ -243,6 +252,15 @@
       "lang": "en",
       "date": "2026-11-13T14:09:49.000Z",
       "excerpt": "Metalenz says HoloCoder could deliver up to 2.5 times more light to smartphone camera sensors. Here's how the technology works and what remains unproven."
+    },
+    {
+      "id": "1ypecoh",
+      "title": "The Friday Checkout: Winn-Dixie bets on its Florida roots",
+      "url": "https://www.grocerydive.com/news/winn-dixie-florida-grocery-georgia/874598/",
+      "source": "Grocery Dive",
+      "lang": "en",
+      "date": "2026-11-13T14:06:35.000Z",
+      "excerpt": "The company sold the last of its Georgia stores this month to focus on the Sunshine State. But does it have a strong enough reputation to survive in such a competitive market?"
     },
     {
       "id": "1nq5w0e",
@@ -882,24 +900,6 @@
       "lang": "en",
       "date": "2026-11-11T11:48:25.000Z",
       "excerpt": "This Grade A refurbished Lenovo 500w Gen 5 converts from laptop to tablet and comes with a pen for notes."
-    },
-    {
-      "id": "g1edbb",
-      "title": "Google Gemini Now Shows What It Remembers About You — and Lets You Fix It",
-      "url": "https://www.techrepublic.com/article/news-google-gemini-memory-summary-controls/",
-      "source": "TechRepublic",
-      "lang": "en",
-      "date": "2026-11-11T11:46:34.000Z",
-      "excerpt": "Gemini's new Memory summary reveals what the AI remembers about you, with tools to correct outdated details. Access remains limited."
-    },
-    {
-      "id": "nlybyi",
-      "title": "Xiaomi 18 Pro Max vs Motorola Signature 27: A Big Battery Advantage May Disappear",
-      "url": "https://www.techrepublic.com/article/news-xiaomi-18-pro-max-vs-motorola/",
-      "source": "TechRepublic",
-      "lang": "en",
-      "date": "2026-11-11T11:12:37.000Z",
-      "excerpt": "Xiaomi's 18 Pro Max boasts a much bigger battery in China, but reported global specifications could put it nearly level with Motorola's Signature 27."
     }
   ]
 }
