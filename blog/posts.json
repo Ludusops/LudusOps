@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T13:34:46.111Z",
+  "updated": "2026-11-16T15:03:11.148Z",
   "posts": [
     {
       "id": "18vnq26",
@@ -9,6 +9,177 @@
       "lang": "en",
       "date": "2027-11-10T05:00:00.000Z",
       "excerpt": "I've been using Notion to take notes and organize my life for a few years now. As you might expect with a popular app like Notion, there are quite a few alternatives these days. Superhuman Docs (formerly known as Coda) might be the clearest 1:1 substitute for…"
+    },
+    {
+      "id": "g6bjnl",
+      "title": "Family Dollar will pay $63M to settle unfair-pricing claims from state, federal regulators",
+      "url": "https://www.grocerydive.com/news/family-dollar-63-million-settlement-unfair-pricing-claims-ftc/874642/",
+      "source": "Grocery Dive",
+      "lang": "en",
+      "date": "2026-11-16T14:53:00.000Z",
+      "excerpt": "The discounter said it’s cooperating and “focused on strengthening pricing accuracy across our stores and maintaining our customers' trust.”"
+    },
+    {
+      "id": "kje0je",
+      "title": "How to prepare for the most severe El Niño on record",
+      "url": "https://www.manufacturingdive.com/news/how-manufacturers-prepare-for-most-severe-el-nino/873285/",
+      "source": "Manufacturing Dive",
+      "lang": "en",
+      "date": "2026-11-16T14:24:31.000Z",
+      "excerpt": "As this year's severe weather approaches, manufacturers should audit their systems for failure risks and take other protective measures, experts say."
+    },
+    {
+      "id": "np9aer",
+      "title": "App performance lags despite more infrastructure spend",
+      "url": "https://www.ciodive.com/news/app-performance-lags-despite-infrastructure-spend/874674/",
+      "source": "CIO Dive",
+      "lang": "en",
+      "date": "2026-11-16T12:00:00.000Z",
+      "excerpt": "Less than one in six IT decision-makers said critical business workloads consistently meet response time goals, according to an Akamai survey."
+    },
+    {
+      "id": "138l4cc",
+      "title": "IT leaders rethink ‘Big T’ transformation for a new era",
+      "url": "https://www.cio.com/article/4248675/it-leaders-rethink-big-t-transformation-for-a-new-era.html",
+      "source": "CIO",
+      "lang": "en",
+      "date": "2026-11-16T10:01:00.000Z",
+      "excerpt": "Longtime IT executive Mohan Sankararaman has transformed how he views transformations. Sankararaman, CIO of First Horizon, used to run transformations as monumental multiyear IT programs. Today, his transformations are smaller — yet still consequential —…"
+    },
+    {
+      "id": "b80f8t",
+      "title": "From cost center to growth engine: The supply chain value shift",
+      "url": "https://www.supplychaindive.com/spons/from-cost-center-to-growth-engine-the-supply-chain-value-shift/874220/",
+      "source": "Supply Chain Dive",
+      "lang": "en",
+      "date": "2026-11-16T10:00:00.000Z",
+      "excerpt": "The resilience era is over. Learn how leading companies are converting supply chain investments into margin, market share and growth."
+    },
+    {
+      "id": "vnzgh5",
+      "title": "Business continuity starts before supply chain disruption",
+      "url": "https://www.supplychaindive.com/spons/business-continuity-starts-before-supply-chain-disruption/874344/",
+      "source": "Supply Chain Dive",
+      "lang": "en",
+      "date": "2026-11-16T10:00:00.000Z",
+      "excerpt": "Discover how Crisis24 AiiA helps leaders anticipate supply chain risks and make informed business continuity decisions."
+    },
+    {
+      "id": "xw3enb",
+      "title": "The hidden connectivity problems slowing down frontline workers",
+      "url": "https://www.manufacturingdive.com/spons/the-hidden-connectivity-problems-slowing-down-frontline-workers/873962/",
+      "source": "Manufacturing Dive",
+      "lang": "en",
+      "date": "2026-11-16T10:00:00.000Z",
+      "excerpt": "See how combined device and network telemetry ends the blame game and keeps frontline workers productive."
+    },
+    {
+      "id": "1v6u0mx",
+      "title": "Discounts, voids and comps: What the 2026 restaurant AI report says about loss prevention",
+      "url": "https://www.restaurantdive.com/spons/discounts-voids-and-comps-what-the-2026-restaurant-ai-report-says-about-l/873946/",
+      "source": "Restaurant Dive",
+      "lang": "en",
+      "date": "2026-11-16T10:00:00.000Z",
+      "excerpt": "See where managers look first when checking loss prevention and how to audit mid-shift with AI."
+    },
+    {
+      "id": "1htona6",
+      "title": "4 pain points that can limit restaurant agility",
+      "url": "https://www.restaurantdive.com/spons/4-pain-points-that-can-limit-restaurant-agility/873546/",
+      "source": "Restaurant Dive",
+      "lang": "en",
+      "date": "2026-11-16T10:00:00.000Z",
+      "excerpt": "Agility is more than an IT decision. It's a business strategy."
+    },
+    {
+      "id": "11t3o6n",
+      "title": "GLP-1s, additional metabolic therapies, longevity-minded consumers and a trust gap: Where food CPG portfolios go from here",
+      "url": "https://www.fooddive.com/spons/glp-1s-additional-metabolic-therapies-longevity-minded-consumers-and-a-tr/874592/",
+      "source": "Food Dive",
+      "lang": "en",
+      "date": "2026-11-16T10:00:00.000Z",
+      "excerpt": "As GLP-1s and longevity trends reshape diets, food CPGs face pivotal portfolio decisions."
+    },
+    {
+      "id": "1eizbid",
+      "title": "Everyone is talking about AI visibility. Grocery CPG brands need more than that.",
+      "url": "https://www.fooddive.com/spons/everyone-is-talking-about-ai-visibility-grocery-cpg-brands-need-more-than/873830/",
+      "source": "Food Dive",
+      "lang": "en",
+      "date": "2026-11-16T10:00:00.000Z",
+      "excerpt": "AI search is reshaping CPG discovery. SPINS on investing where it actually pays off."
+    },
+    {
+      "id": "1lt2sh1",
+      "title": "Better food traceability starts at the first mile",
+      "url": "https://www.fooddive.com/spons/better-food-traceability-starts-at-the-first-mile/873412/",
+      "source": "Food Dive",
+      "lang": "en",
+      "date": "2026-11-16T10:00:00.000Z",
+      "excerpt": "A text message could be the key to solving food traceability's toughest challenge."
+    },
+    {
+      "id": "akrg",
+      "title": "Under protective screens, Florida grapefruit finds room to grow",
+      "url": "https://www.grocerydive.com/spons/under-protective-screens-florida-grapefruit-finds-room-to-grow/874216/",
+      "source": "Grocery Dive",
+      "lang": "en",
+      "date": "2026-11-16T10:00:00.000Z",
+      "excerpt": "For retailers, fruit grown under CUPS converts an investment in the grove to an opportunity in the produce aisle."
+    },
+    {
+      "id": "uad00z",
+      "title": "Black Friday is a stress test for customer trust",
+      "url": "https://www.ciodive.com/spons/black-friday-is-a-stress-test-for-customer-trust/874140/",
+      "source": "CIO Dive",
+      "lang": "en",
+      "date": "2026-11-16T10:00:00.000Z",
+      "excerpt": "Black Friday / Cyber Monday isn’t just a stress test for your infrastructure. It’s a stress test for customer trust."
+    },
+    {
+      "id": "6yr5bo",
+      "title": "The physics of agentic scale: Why full-stack co-design matters",
+      "url": "https://www.ciodive.com/spons/the-physics-of-agentic-scale-why-full-stack-co-design-matters/874197/",
+      "source": "CIO Dive",
+      "lang": "en",
+      "date": "2026-11-16T10:00:00.000Z",
+      "excerpt": "Scaling AI agents requires more than faster chips. Discover how full-stack co-design can help optimize performance, reduce costs and improve efficiency."
+    },
+    {
+      "id": "99ffx3",
+      "title": "Ghost businesses are easier to build than ever",
+      "url": "https://www.cio.com/article/4248460/ghost-businesses-are-easier-to-build-than-ever.html",
+      "source": "CIO",
+      "lang": "en",
+      "date": "2026-11-16T10:00:00.000Z",
+      "excerpt": "Earlier this year, CBS News reporters set out to investigate 89 licensed hospice companies. The task was simpler than it seemed at first glance: state records tied these companies to a single, 32,000-square-foot Los Angeles building that also housed a salon,…"
+    },
+    {
+      "id": "9rlsk8",
+      "title": "Building AI-enabled cities starts with putting people first",
+      "url": "https://www.cio.com/article/4248094/building-ai-enabled-cities-starts-with-putting-people-first.html",
+      "source": "CIO",
+      "lang": "en",
+      "date": "2026-11-16T10:00:00.000Z",
+      "excerpt": "The cities getting the most out of AI aren’t just the ones adopting it fastest but those putting their residents first. These cities are seeing more than twice the return on their AI investments compared with their peers. This is according to ThoughtLab’s new…"
+    },
+    {
+      "id": "1733icd",
+      "title": "Your AI is smarter. Is your business still working the same way?",
+      "url": "https://www.cio.com/article/4248443/your-ai-is-smarter-is-your-business-still-working-the-same-way.html",
+      "source": "CIO",
+      "lang": "en",
+      "date": "2026-11-16T09:00:00.000Z",
+      "excerpt": "AI is getting smarter at remarkable speed. Employees can draft, analyze, search and automate routine work faster than they could a year ago. Recent research on the state of AI shows organizations continuing to expand adoption across functions and use cases.…"
+    },
+    {
+      "id": "1ffqmjr",
+      "title": "Qué es el Marketing Directo: Mi definición, estrategias y ejemplos reales",
+      "url": "https://www.iebschool.com/hub/marketing-directo-interactivo-comercio-ventas/",
+      "source": "IEB School",
+      "lang": "es",
+      "date": "2026-11-16T08:40:44.000Z",
+      "excerpt": ""
     },
     {
       "id": "lkzsuo",
@@ -261,6 +432,15 @@
       "lang": "en",
       "date": "2026-11-13T14:06:35.000Z",
       "excerpt": "The company sold the last of its Georgia stores this month to focus on the Sunshine State. But does it have a strong enough reputation to survive in such a competitive market?"
+    },
+    {
+      "id": "1dvjm9",
+      "title": "How to Create A+ Content with a Content Development Process",
+      "url": "https://www.process.st/content-development/",
+      "source": "Process.st",
+      "lang": "en",
+      "date": "2026-11-13T14:00:00.000Z",
+      "excerpt": "Content development is the repeatable process of researching, planning, creating, reviewing, publishing, promoting, and improving useful content. The post How to Create A+ Content with a Content Development Process first appeared on Process Street |…"
     },
     {
       "id": "1nq5w0e",
@@ -720,186 +900,6 @@
       "lang": "en",
       "date": "2026-11-11T17:15:00.000Z",
       "excerpt": "The automaker contracted with battery cell manufacturers Samsung SDI and LG Energy Solution as it aims for a more localized supply chain for future electric vehicles."
-    },
-    {
-      "id": "3ff6gi",
-      "title": "Manufacturing advocates make case for tariffs following midterm results",
-      "url": "https://www.manufacturingdive.com/news/manufacturing-advocates-make-case-tariffs-following-mid-term-results/874379/",
-      "source": "Manufacturing Dive",
-      "lang": "en",
-      "date": "2026-11-11T17:02:00.000Z",
-      "excerpt": "Although poll surveys show the public is tired of import taxes, rolling back trade enforcement would be a “serious mistake,” according to a report from the Alliance for American Manufacturing."
-    },
-    {
-      "id": "1mllxcp",
-      "title": "Bojangles bets breakfast, boneless chicken will spur national growth",
-      "url": "https://www.restaurantdive.com/news/bojangles-national-expansion-breakfast-daypart/874348/",
-      "source": "Restaurant Dive",
-      "lang": "en",
-      "date": "2026-11-11T16:19:30.000Z",
-      "excerpt": "The regional poultry powerhouse is looking to build up its presence in recent market entries and establish a durable customer base."
-    },
-    {
-      "id": "1sbdu25",
-      "title": "Grocery Outlet’s comps return to the green",
-      "url": "https://www.grocerydive.com/news/grocery-outlet-third-quarter-2026-earnings/874330/",
-      "source": "Grocery Dive",
-      "lang": "en",
-      "date": "2026-11-11T16:14:00.000Z",
-      "excerpt": "After three consecutive quarters of negative comparable-store sales, the discounter turned the metric positive with higher traffic and changes to its assortment."
-    },
-    {
-      "id": "1lnz0vc",
-      "title": "GoTo Foods hires TGI Fridays vet as Deli Brands president",
-      "url": "https://www.restaurantdive.com/news/goto-foods-hires-brandon-coleman-president-mcalisters-deli/874259/",
-      "source": "Restaurant Dive",
-      "lang": "en",
-      "date": "2026-11-11T16:08:00.000Z",
-      "excerpt": "Brandon Coleman will oversee the next phase of growth at McAlister’s Deli and Schlotzsky’s Deli."
-    },
-    {
-      "id": "guxnxw",
-      "title": "McCormick and Unilever’s $45B food merger hits antitrust snag in UK",
-      "url": "https://www.fooddive.com/news/mccormick-unilever-antitrust-review-merger-UK/874361/",
-      "source": "Food Dive",
-      "lang": "en",
-      "date": "2026-11-11T16:00:00.000Z",
-      "excerpt": "A regulator ruled the tie-up could harm competition and is requiring the companies to address concerns or face a more in-depth investigation."
-    },
-    {
-      "id": "1h64imn",
-      "title": "Albertsons names new CFO",
-      "url": "https://www.grocerydive.com/news/albertsons-cfo-andrew-murray-grocery-supermarkets/874342/",
-      "source": "Grocery Dive",
-      "lang": "en",
-      "date": "2026-11-11T15:59:00.000Z",
-      "excerpt": "Andrew Murray, currently finance chief of New Zealand dairy exporter Fonterra Co-Operative Group, will join the struggling supermarket chain in January 2027."
-    },
-    {
-      "id": "ae0aj5",
-      "title": "Transpacific ocean rates ease slightly as peak winds down",
-      "url": "https://www.supplychaindive.com/news/transpacific-ocean-rates-ease-slightly-as-peak-winds-down/874262/",
-      "source": "Supply Chain Dive",
-      "lang": "en",
-      "date": "2026-11-11T15:48:40.000Z",
-      "excerpt": "Slowing demand at U.S. ports is helping ease rates, but costs remain elevated on a year-over-year basis."
-    },
-    {
-      "id": "1o53cx1",
-      "title": "DoorDash-Instacart combination shines a spotlight on e-commerce pricing",
-      "url": "https://www.grocerydive.com/news/doordash-instacart-merger-pricing-grocery-ecommerce/874318/",
-      "source": "Grocery Dive",
-      "lang": "en",
-      "date": "2026-11-11T15:30:00.000Z",
-      "excerpt": "Their proposed deal places newfound emphasis on how to make online grocery shopping more affordable for shoppers and economically viable for retailers."
-    },
-    {
-      "id": "kdtaqg",
-      "title": "How Applebee’s menu innovation pipeline is boosting traffic and spend",
-      "url": "https://www.restaurantdive.com/news/dine-brands-applebees-ihop-menu-innovation-strategy/874031/",
-      "source": "Restaurant Dive",
-      "lang": "en",
-      "date": "2026-11-11T15:26:18.000Z",
-      "excerpt": "The chain has eight quarters of menu innovation ready in advance, allowing the brand to offer a new item every three months."
-    },
-    {
-      "id": "my5wb6",
-      "title": "CarParts.com revs up in-house last-mile delivery for cost, speed benefits",
-      "url": "https://www.supplychaindive.com/news/carpartscom-revs-up-in-house-last-mile-delivery-for-cost-speed-benefits/874287/",
-      "source": "Supply Chain Dive",
-      "lang": "en",
-      "date": "2026-11-11T15:23:46.000Z",
-      "excerpt": "The cost savings opportunity will be “substantial” as the company aims to deliver 300,000 packages a year via its internal network, per CEO David Meniane."
-    },
-    {
-      "id": "1y50r7y",
-      "title": "The problem with ‘GLP-1 friendly’ food labels",
-      "url": "https://www.grocerydive.com/news/glp1s-labels-food-health-innovation-protein-fiber/874369/",
-      "source": "Grocery Dive",
-      "lang": "en",
-      "date": "2026-11-11T15:11:00.000Z",
-      "excerpt": "As more companies design products for consumers on weight loss drugs, experts warn there are risks in treating these shoppers as “a monolith.”"
-    },
-    {
-      "id": "l3e0l3",
-      "title": "Asics boosts inventory management using warehouse drones",
-      "url": "https://www.supplychaindive.com/news/asics-boosts-inventory-management-using-warehouse-drones/874273/",
-      "source": "Supply Chain Dive",
-      "lang": "en",
-      "date": "2026-11-11T15:00:00.000Z",
-      "excerpt": "By using the technology, the footwear brand improved misplaced inventory recovery while slashing manual labor hours and increasing counting frequency."
-    },
-    {
-      "id": "l0ak86",
-      "title": "Just Ice Tea ups the caffeine with cold brew teas",
-      "url": "https://www.fooddive.com/news/just-ice-tea-caffeine-energy-drink-alternative/874372/",
-      "source": "Food Dive",
-      "lang": "en",
-      "date": "2026-11-11T15:00:00.000Z",
-      "excerpt": "Awaken, which has caffeine levels equivalent to two espresso shots, is positioning itself as a more natural alternative to energy drinks and sugary coffee beverages."
-    },
-    {
-      "id": "8ulxic",
-      "title": "Craveworthy Brands to buy Papa Gino’s",
-      "url": "https://www.restaurantdive.com/news/craveworthy-brands-acquires-new-england-authentic-eats/874279/",
-      "source": "Restaurant Dive",
-      "lang": "en",
-      "date": "2026-11-11T14:37:00.000Z",
-      "excerpt": "The purchase of the pizza chain’s parent, New England Authentic Eats, will add over 160 restaurants and $160 million in annual revenue to Craveworthy."
-    },
-    {
-      "id": "13uxa9a",
-      "title": "Samsung One UI 9.5 Leak Reveals WhatsApp and Telegram Call Recording",
-      "url": "https://www.techrepublic.com/article/news-samsung-one-ui-9-5-whatsapp-telegram-call-recording/",
-      "source": "TechRepublic",
-      "lang": "en",
-      "date": "2026-11-11T13:21:48.000Z",
-      "excerpt": "Samsung's leaked One UI 9.5 firmware suggests native call recording for WhatsApp, Telegram, and Google Meet, but availability and privacy rules remain uncertain."
-    },
-    {
-      "id": "qgqtq4",
-      "title": "NVIDIA Takes Aim at Two AI Agent Problems: Security and Cost",
-      "url": "https://www.techrepublic.com/article/news-nvidia-openshell-cncf-ai-infrastructure-tools/",
-      "source": "TechRepublic",
-      "lang": "en",
-      "date": "2026-11-11T13:01:53.000Z",
-      "excerpt": "NVIDIA brings OpenShell to CNCF and introduces open-source AI infrastructure tools aimed at improving agent security, workload efficiency and startup times."
-    },
-    {
-      "id": "pphii3",
-      "title": "Honda to invest $3B in new Ohio hybrid vehicle plant",
-      "url": "https://www.supplychaindive.com/news/honda-to-invest-3b-in-new-ohio-hybrid-vehicle-plant/874281/",
-      "source": "Supply Chain Dive",
-      "lang": "en",
-      "date": "2026-11-11T12:39:00.000Z",
-      "excerpt": "The factory will create 2,000 jobs, and as part of Honda’s focus on hybrids and swift development, it’s keeping close to the automaker’s existing U.S. footprint."
-    },
-    {
-      "id": "83l24e",
-      "title": "Microsoft Plans Second Malaysia Azure Region — Here’s Why It Matters for Disaster Recovery",
-      "url": "https://www.techrepublic.com/article/news-microsoft-malaysia-azure-disaster-recovery-apac/",
-      "source": "TechRepublic",
-      "lang": "en",
-      "date": "2026-11-11T12:17:05.000Z",
-      "excerpt": "Microsoft's second Malaysia Azure region could give enterprises a domestic disaster recovery option. Here's what SEA3 could change and what's still unconfirmed."
-    },
-    {
-      "id": "1ujq6qm",
-      "title": "Northern Trust leans on Microsoft FDEs to boost agentic buildout",
-      "url": "https://www.ciodive.com/news/northern-trust-leans-microsoft-fde-agentic-buildout/874317/",
-      "source": "CIO Dive",
-      "lang": "en",
-      "date": "2026-11-11T12:00:00.000Z",
-      "excerpt": "The financial services firm cut analyst’s data preparation time by 83% with the use of an onboarding agent, the companies said."
-    },
-    {
-      "id": "1s68x53",
-      "title": "This Lenovo 2-in-1 refurb is just $260, and comes with Windows 11 Pro plus a free month of VPN protection",
-      "url": "https://www.techrepublic.com/article/lenovo-500w-gen-5-refurbished/",
-      "source": "TechRepublic",
-      "lang": "en",
-      "date": "2026-11-11T11:48:25.000Z",
-      "excerpt": "This Grade A refurbished Lenovo 500w Gen 5 converts from laptop to tablet and comes with a pen for notes."
     }
   ]
 }
