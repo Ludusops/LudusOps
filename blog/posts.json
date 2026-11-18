@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T15:37:20.658Z",
+  "updated": "2026-11-18T15:15:07.799Z",
   "posts": [
     {
       "id": "18vnq26",
@@ -11,6 +11,294 @@
       "excerpt": "I've been using Notion to take notes and organize my life for a few years now. As you might expect with a popular app like Notion, there are quite a few alternatives these days. Superhuman Docs (formerly known as Coda) might be the clearest 1:1 substitute for…"
     },
     {
+      "id": "13zkjll",
+      "title": "Hadrian acquires steel caster, plans $300M facility upgrade and expansion",
+      "url": "https://www.manufacturingdive.com/news/hadrian-acquiring-kutztown-foundry-machine-f6-upgrade-expand-pennsylvania/874947/",
+      "source": "Manufacturing Dive",
+      "lang": "en",
+      "date": "2026-11-18T15:10:28.000Z",
+      "excerpt": "The defense startup aims to update and grow manufacturing capacity at Kutztown Foundry & Machine’s site in Pennsylvania to support the U.S. Navy’s submarine program."
+    },
+    {
+      "id": "4ku03f",
+      "title": "OX Security Launches OX Radar and Response Center to Show Companies Which Cyber Threats Actually Affect Them",
+      "url": "https://www.cio.com/article/4250220/ox-security-launches-ox-radar-and-response-center-to-show-companies-which-cyber-threats-actually-affect-them.html",
+      "source": "CIO",
+      "lang": "en",
+      "date": "2026-11-18T14:47:34.000Z",
+      "excerpt": "New technology monitors critical vulnerabilities and supply chain threats, automatically assessing customer exposure and guiding remediation OX Security, a leader in AI-native application protection, today announced the launch of OX Radar and Response Center,…"
+    },
+    {
+      "id": "1s9awhb",
+      "title": "AnyToSpeech Pro Turns Your Team’s Content Into Audio for $130",
+      "url": "https://www.techrepublic.com/article/anytospeech-lifetime-subscription/",
+      "source": "TechRepublic",
+      "lang": "en",
+      "date": "2026-11-18T14:30:30.000Z",
+      "excerpt": "One lifetime license replaces separate voiceover, transcription, and podcast production tools for busy teams."
+    },
+    {
+      "id": "6uzjy8",
+      "title": "Jim Beam won’t resume production at flagship distillery next year",
+      "url": "https://www.supplychaindive.com/news/jim-beam-wont-resume-production-at-flagship-distillery-next-year/875019/",
+      "source": "Supply Chain Dive",
+      "lang": "en",
+      "date": "2026-11-18T14:25:00.000Z",
+      "excerpt": "The Suntory-owned whiskey is moving production to another facility in Kentucky as value spirits brands continue to struggle."
+    },
+    {
+      "id": "1rufkiq",
+      "title": "Grocery inflation set to go up as input costs rise",
+      "url": "https://www.fooddive.com/news/grocery-inflation-food-prices-supply-chain-fmi/874868/",
+      "source": "Food Dive",
+      "lang": "en",
+      "date": "2026-11-18T14:21:00.000Z",
+      "excerpt": "High energy costs and a powerful El Niño weather pattern will likely elevate grocery prices at an above-average clip during the next few months, a food economist said."
+    },
+    {
+      "id": "14xr02l",
+      "title": "Intel shareholders sue CEO, CFO after stock rout",
+      "url": "https://www.manufacturingdive.com/news/intel-shareholders-sue-ceo-cfo-stock-drop-ai-cpu/875017/",
+      "source": "Manufacturing Dive",
+      "lang": "en",
+      "date": "2026-11-18T14:07:40.000Z",
+      "excerpt": "CEO Lip-Bu Tan and CFO David Zinsner failed to properly disclose the full impact of waning PC demand on company revenue and profitability for the PC maker, shareholders claim."
+    },
+    {
+      "id": "15il19d",
+      "title": "Get Secure Cloud Storage on a 2TB Lifetime Plan with Internxt for $90",
+      "url": "https://www.techrepublic.com/article/internxt-cloud-storage-lifetime-subscription-2tb-plan/",
+      "source": "TechRepublic",
+      "lang": "en",
+      "date": "2026-11-18T14:00:45.000Z",
+      "excerpt": "This secure storage platform uses open source code, zero-knowledge file systems, and end-to-end encryption to keep your online data truly private."
+    },
+    {
+      "id": "1by51l9",
+      "title": "Amazon adds prepared meals to same-day grocery delivery service",
+      "url": "https://www.grocerydive.com/news/amazon-same-day-prepared-meals-grocery/874981/",
+      "source": "Grocery Dive",
+      "lang": "en",
+      "date": "2026-11-18T13:41:44.000Z",
+      "excerpt": "The new line of ready-to-eat offerings — all priced under $8 — marks another way the company is looking to cut into grocers’ margins."
+    },
+    {
+      "id": "1eef4vj",
+      "title": "Apple Tightens Mac Privacy Controls, but AI Agents May Keep Existing Access",
+      "url": "https://www.techrepublic.com/article/news-apple-macos-27-3-app-permissions/",
+      "source": "TechRepublic",
+      "lang": "en",
+      "date": "2026-11-18T13:02:56.000Z",
+      "excerpt": "Apple's new Mac privacy controls aim to rein in AI agents, but existing permissions remain active. Here's what changes in macOS 27.3."
+    },
+    {
+      "id": "1hsy5tn",
+      "title": "Instagram DMs Without Instagram? Meta Tests Direct in Thailand and Türkiye",
+      "url": "https://www.techrepublic.com/article/news-instagram-direct-thailand-turkiye-apac-emea/",
+      "source": "TechRepublic",
+      "lang": "en",
+      "date": "2026-11-18T12:35:48.000Z",
+      "excerpt": "Instagram DMs without Instagram? Meta is testing Direct in Thailand and Türkiye, giving users a separate way to chat without a social media account."
+    },
+    {
+      "id": "e5hy57",
+      "title": "Want to combat AI brainrot? PwC is piloting a way to do so.",
+      "url": "https://www.ciodive.com/news/pwc-critical-thinking-assessment/874982/",
+      "source": "CIO Dive",
+      "lang": "en",
+      "date": "2026-11-18T12:00:00.000Z",
+      "excerpt": "The professional services firm plans to have more than 85,000 of its workers take the course to “strengthen the human capabilities essential to quality work and trust.”"
+    },
+    {
+      "id": "1attbgq",
+      "title": "Apple’s iPhone Repair Restrictions Head to Trial in France, With 24 Models at Issue",
+      "url": "https://www.techrepublic.com/article/news-apple-iphone-repair-france-trial-emea/",
+      "source": "TechRepublic",
+      "lang": "en",
+      "date": "2026-11-18T11:43:29.000Z",
+      "excerpt": "Apple faces a French trial over iPhone repair restrictions affecting 24 models, putting its parts-pairing practices under legal scrutiny."
+    },
+    {
+      "id": "il86ne",
+      "title": "Apple Sells iPhone Duo Repair Parts: The Inner Display Assembly Costs $999",
+      "url": "https://www.techrepublic.com/article/news-apple-iphone-duo-self-service-repair-parts-prices/",
+      "source": "TechRepublic",
+      "lang": "en",
+      "date": "2026-11-18T10:49:21.000Z",
+      "excerpt": "Apple now sells iPhone Duo repair parts. See US prices for the folding display, full assembly, and tool rental, plus what to check before ordering."
+    },
+    {
+      "id": "1cr8y45",
+      "title": "OpenAI and Upwork Find AI Freelance Projects Have Bigger Budgets and Broader Skills",
+      "url": "https://www.techrepublic.com/article/news-openai-upwork-ai-freelance-project-budgets/",
+      "source": "TechRepublic",
+      "lang": "en",
+      "date": "2026-11-18T10:37:31.000Z",
+      "excerpt": "New OpenAI and Upwork research finds AI-related freelance projects have 52% higher advertised budgets and 41% more hours worked on qualifying hourly contracts, while posted hourly rates remain similar."
+    },
+    {
+      "id": "1cetg3u",
+      "title": "OpenAI’s GPT-6.2 Astra: Lower API Prices, More Unreported Blockers in Testing",
+      "url": "https://www.techrepublic.com/article/news-openai-gpt-6-2-astra-pricing-reliability/",
+      "source": "TechRepublic",
+      "lang": "en",
+      "date": "2026-11-18T10:34:32.000Z",
+      "excerpt": "OpenAI’s GPT-6.2 Astra lowers API prices. See where it improved in testing, why it can miss blockers, and what businesses should measure before switching."
+    },
+    {
+      "id": "1qg20ir",
+      "title": "How BCG turns client innovation into enterprise AI",
+      "url": "https://www.cio.com/article/4248115/how-bcg-turns-client-innovation-into-enterprise-ai.html",
+      "source": "CIO",
+      "lang": "en",
+      "date": "2026-11-18T10:00:00.000Z",
+      "excerpt": "Most CIOs deploy technology created by vendors or developed internally for their own organizations. At Boston Consulting Group, CIO Merim Becirovic operates in a different environment. Every day, the firm’s consultants help clients across industries rethink…"
+    },
+    {
+      "id": "1ct310e",
+      "title": "What is a semantic knowledge graph, and does your AI need one?",
+      "url": "https://www.cio.com/article/4249101/what-is-a-semantic-knowledge-graph-and-does-your-ai-need-one.html",
+      "source": "CIO",
+      "lang": "en",
+      "date": "2026-11-18T10:00:00.000Z",
+      "excerpt": "A traditional database organizes information into tables. One column is the name, another is the company they work for. A graph database stores the same information not in tables but in nodes and edges. A person could be one node, the company they work for is…"
+    },
+    {
+      "id": "lqyvpd",
+      "title": "Why IT leaders who hit every target still get passed over for promotion",
+      "url": "https://www.cio.com/article/4249765/why-it-leaders-who-hit-every-target-still-get-passed-over-for-promotion.html",
+      "source": "CIO",
+      "lang": "en",
+      "date": "2026-11-18T10:00:00.000Z",
+      "excerpt": "A VP of engineering I coach received a performance review last year full of positive feedback. She met her targets, her manager had nothing but good things to say about her delivery, and the one piece of critical feedback she received was so vague she felt…"
+    },
+    {
+      "id": "1sr98q9",
+      "title": "Your agentic AI results can’t be checked. Here’s how to fix that",
+      "url": "https://www.cio.com/article/4249739/your-agentic-ai-results-cant-be-checked-heres-how-to-fix-that.html",
+      "source": "CIO",
+      "lang": "en",
+      "date": "2026-11-18T09:00:00.000Z",
+      "excerpt": "Read 50 published accounts of agentic AI in production and a pattern emerges fast. Escalations down. Handling times down. Conversion up. Onboarding compressed from weeks to days. Now read them looking for how those numbers were produced, and the field thins…"
+    },
+    {
+      "id": "xi2xr5",
+      "title": "How to build a secure automated system on Zapier",
+      "url": "https://zapier.com/blog/how-to-build-automated-system-on-zapier",
+      "source": "Zapier",
+      "lang": "en",
+      "date": "2026-11-18T07:00:00.000Z",
+      "excerpt": "At Zapier, we're big believers in automation. That's a given. But our platform goes beyond automating simple \"if this, then that\" work—you can build fully automated systems for your work. You can set these systems up from the AI tool you already use, or build…"
+    },
+    {
+      "id": "wywf2i",
+      "title": "How to create AI agents",
+      "url": "https://zapier.com/blog/how-to-create-ai-agents",
+      "source": "Zapier",
+      "lang": "en",
+      "date": "2026-11-18T05:00:00.000Z",
+      "excerpt": "Unfortunately for me and my appallingly long TBR list, they still haven't invented a way to hand off my entire workload to a robot so I can curl up on the couch with my Border Collie mix and binge fantasy novels instead. But AI agents are the closest thing to…"
+    },
+    {
+      "id": "6em9zk",
+      "title": "How to orchestrate AI workflows in 4 steps with Zapier",
+      "url": "https://zapier.com/blog/ai-orchestration-workflows",
+      "source": "Zapier",
+      "lang": "en",
+      "date": "2026-11-18T05:00:00.000Z",
+      "excerpt": "Growing up as a band kid, I would have considered it the height of achievement to someday conduct a symphonic orchestra. (What can I say—I was really cool and popular as a teenager.) As an adult tech writer (equally as cool), workflow orchestration is the…"
+    },
+    {
+      "id": "nzlpc1",
+      "title": "Vibe automation: How to build powerful workflows from a prompt",
+      "url": "https://zapier.com/blog/vibe-automation",
+      "source": "Zapier",
+      "lang": "en",
+      "date": "2026-11-18T05:00:00.000Z",
+      "excerpt": "When you read the word \"apple,\" what image pops into your head? For me, it's usually a blurry outline of an apple, or (if I'm reading fast) just a loose connection to what the word means. Imagine my jealousy when I discovered that I fall on the aphantasia…"
+    },
+    {
+      "id": "1iv1ood",
+      "title": "How to automate Telegram with your AI agent and Zapier",
+      "url": "https://zapier.com/blog/automate-telegram",
+      "source": "Zapier",
+      "lang": "en",
+      "date": "2026-11-18T05:00:00.000Z",
+      "excerpt": "These days, more and more customers prefer to interact with businesses through messaging. If you've already invested in chat-based marketing and sales, you're probably familiar with Telegram, a popular cloud-based, encrypted instant messaging service. But…"
+    },
+    {
+      "id": "1cxlw9g",
+      "title": "After Black October, OffSec Turns PHPH2Shell and Other New Vulnerabilities Into Hands-On Labs",
+      "url": "https://www.cio.com/article/4250010/after-black-october-offsec-turns-phph2shell-and-other-new-vulnerabilities-into-hands-on-labs.html",
+      "source": "CIO",
+      "lang": "en",
+      "date": "2026-11-18T04:08:52.000Z",
+      "excerpt": "OffSec built 14 labs on real CVEs in two weeks. Its Level 20 offer takes $550 off Learn One for learners ready to train against threats like these. OffSec, the world’s leading provider of hands-on cybersecurity training and certifications, released more than…"
+    },
+    {
+      "id": "1fp9bxt",
+      "title": "Optimizely confirms massive cyberattack on customer websites injected stealer malware",
+      "url": "https://www.cio.com/article/4249975/optimizely-confirms-massive-cyberattack-on-customer-websites-injected-stealer-malware-3.html",
+      "source": "CIO",
+      "lang": "en",
+      "date": "2026-11-18T01:39:49.000Z",
+      "excerpt": "Attackers apparently from China used an authentication security hole within the popular Optimizely AI platform for marketers to steal from at least 178 sites owned by some of the planet’s largest companies. Named victims featured vendors including Zoom,…"
+    },
+    {
+      "id": "1awu31j",
+      "title": "Can your business withstand a destructive cyberattack?",
+      "url": "https://www.cio.com/article/4249889/can-your-business-withstand-a-destructive-cyberattack.html",
+      "source": "CIO",
+      "lang": "en",
+      "date": "2026-11-17T22:24:12.000Z",
+      "excerpt": "Nearly every cyber recovery plan relies on assumptions about how recovery will unfold. Teams expect incidents can be fully contained before recovery begins, that recovery can proceed in a mostly linear sequence, and that they will have sufficient visibility…"
+    },
+    {
+      "id": "1dl0td1",
+      "title": "Banks, insurers deploy agents without proper data, context",
+      "url": "https://www.ciodive.com/news/banks-insurers-deploy-agents-without-proper-data-context/874974/",
+      "source": "CIO Dive",
+      "lang": "en",
+      "date": "2026-11-17T20:45:15.000Z",
+      "excerpt": "More than 8 in 10 organizations believe the data feeding their AI needs at least some improvement, according to a Quantexa study."
+    },
+    {
+      "id": "uk338p",
+      "title": "Chief AI officers lack control over enterprise AI investment decisions",
+      "url": "https://www.ciodive.com/news/chief-ai-officers-lack-control-decision-making/874970/",
+      "source": "CIO Dive",
+      "lang": "en",
+      "date": "2026-11-17T20:44:59.000Z",
+      "excerpt": "AI leaders have broad insight into the tech’s value but need to deliver evidence to shape C-suite decisions, an IBM Institute for Business Value report found."
+    },
+    {
+      "id": "tnjvfa",
+      "title": "US Foods to test inventory-scanning robots at 6 more warehouses",
+      "url": "https://www.supplychaindive.com/news/us-foods-to-test-inventory-scanning-robots-at-6-more-warehouses/874829/",
+      "source": "Supply Chain Dive",
+      "lang": "en",
+      "date": "2026-11-17T19:18:00.000Z",
+      "excerpt": "The food service distributor plans to begin piloting the technology in each of the facilities by year-end, CEO David Flitman told investors."
+    },
+    {
+      "id": "eprshk",
+      "title": "Anheuser-Busch invests in flagship Cutwater plant to expand production",
+      "url": "https://www.fooddive.com/news/anheuser-busch-invests-cutwater-plant-expansion/874944/",
+      "source": "Food Dive",
+      "lang": "en",
+      "date": "2026-11-17T19:17:00.000Z",
+      "excerpt": "The brand beloved by Gen Z will use the money to expand its cream-based cocktail lines and fund future innovation."
+    },
+    {
+      "id": "51wp06",
+      "title": "Chomps sells $350M minority stake to private equity firm",
+      "url": "https://www.fooddive.com/news/chomps-snacking-investment-private-equity/874927/",
+      "source": "Food Dive",
+      "lang": "en",
+      "date": "2026-11-17T19:00:00.000Z",
+      "excerpt": "The fastest-growing meat stick brand said the investment will help meet its growth targets and address increased demand for its better-for-you snacks."
+    },
+    {
       "id": "zx2h3n",
       "title": "Link any Facebook Page to LinkedIn and publish posts automatically",
       "url": "https://zapier.com/blog/link-facebook-page-to-linkedin",
@@ -18,6 +306,69 @@
       "lang": "en",
       "date": "2026-11-17T16:44:00.000Z",
       "excerpt": "Do you copy posts from your Facebook Page and paste them into LinkedIn? What if you didn't have to do the copying and pasting yourself? Set up a Zap once, and every new post on your Facebook Page gets published to LinkedIn on its own, with no more copy and…"
+    },
+    {
+      "id": "tv09ol",
+      "title": "How an engineering firm advises DOD on designing energetics facilities",
+      "url": "https://www.manufacturingdive.com/news/burns-mcdonnell-engineering-energetics-ammunition-plant-missouri/874658/",
+      "source": "Manufacturing Dive",
+      "lang": "en",
+      "date": "2026-11-17T16:39:43.000Z",
+      "excerpt": "Burns & McDonnell is under contract with the Army Corps of Engineers, Kansas City District, to help with planning, programming and design of the Lake City facility in Missouri."
+    },
+    {
+      "id": "41mtti",
+      "title": "DOC final rule places export controls on advanced semiconductors",
+      "url": "https://www.manufacturingdive.com/news/new-interim-rule-export-controls-advanced-semiconductors/874869/",
+      "source": "Manufacturing Dive",
+      "lang": "en",
+      "date": "2026-11-17T16:37:00.000Z",
+      "excerpt": "A U.S. Department of Commerce rule aims to prevent companies from circumventing existing export restrictions through remote computing arrangements involving data centers in third countries."
+    },
+    {
+      "id": "1mwvr2q",
+      "title": "The food health and ingredient claims driving lawsuits",
+      "url": "https://www.fooddive.com/news/lawsuits-food-beverage-ultraprocessed-zero-sugar/874890/",
+      "source": "Food Dive",
+      "lang": "en",
+      "date": "2026-11-17T16:03:00.000Z",
+      "excerpt": "An uptick in litigation around zero-sugar labels and ultraprocessed foods reflect changing risks for the industry."
+    },
+    {
+      "id": "1t6ni1o",
+      "title": "Earth Fare names new president",
+      "url": "https://www.grocerydive.com/news/earth-fare-new-president-ben-burton-specialty-grocer/874880/",
+      "source": "Grocery Dive",
+      "lang": "en",
+      "date": "2026-11-17T16:00:00.000Z",
+      "excerpt": "Ben Burton brings experience at The Fresh Market and Healthy Living Market to his new role at the specialty grocer."
+    },
+    {
+      "id": "1wfh1ih",
+      "title": "How to prepare for the most severe El Niño on record",
+      "url": "https://www.supplychaindive.com/news/how-to-prepare-for-the-most-severe-el-nino-on-record/874732/",
+      "source": "Supply Chain Dive",
+      "lang": "en",
+      "date": "2026-11-17T15:57:00.000Z",
+      "excerpt": "As this year's severe weather approaches, manufacturers should audit their systems for failure risks and take other protective measures, experts say."
+    },
+    {
+      "id": "m5opjb",
+      "title": "Pardon the Disruption: Grocers have backed themselves into a corner with e-commerce",
+      "url": "https://www.grocerydive.com/news/pardon-the-disruption-online-grocery-challenges-deepen/874796/",
+      "source": "Grocery Dive",
+      "lang": "en",
+      "date": "2026-11-17T15:35:45.000Z",
+      "excerpt": "Instacart and DoorDash are looking to merge as Amazon and Walmart become bigger threats. Where does that leave grocers?"
+    },
+    {
+      "id": "7m62qb",
+      "title": "Flashfood expands into new state",
+      "url": "https://www.grocerydive.com/news/associated-food-stores-flashfood-utah/874807/",
+      "source": "Grocery Dive",
+      "lang": "en",
+      "date": "2026-11-17T15:34:00.000Z",
+      "excerpt": "Associated Food Stores is adding the food waste tech company to 11 of its stores in the greater Salt Lake City area."
     },
     {
       "id": "1jy05ds",
@@ -549,357 +900,6 @@
       "lang": "en",
       "date": "2026-11-16T10:00:00.000Z",
       "excerpt": "AI search is reshaping CPG discovery. SPINS on investing where it actually pays off."
-    },
-    {
-      "id": "1lt2sh1",
-      "title": "Better food traceability starts at the first mile",
-      "url": "https://www.fooddive.com/spons/better-food-traceability-starts-at-the-first-mile/873412/",
-      "source": "Food Dive",
-      "lang": "en",
-      "date": "2026-11-16T10:00:00.000Z",
-      "excerpt": "A text message could be the key to solving food traceability's toughest challenge."
-    },
-    {
-      "id": "akrg",
-      "title": "Under protective screens, Florida grapefruit finds room to grow",
-      "url": "https://www.grocerydive.com/spons/under-protective-screens-florida-grapefruit-finds-room-to-grow/874216/",
-      "source": "Grocery Dive",
-      "lang": "en",
-      "date": "2026-11-16T10:00:00.000Z",
-      "excerpt": "For retailers, fruit grown under CUPS converts an investment in the grove to an opportunity in the produce aisle."
-    },
-    {
-      "id": "uad00z",
-      "title": "Black Friday is a stress test for customer trust",
-      "url": "https://www.ciodive.com/spons/black-friday-is-a-stress-test-for-customer-trust/874140/",
-      "source": "CIO Dive",
-      "lang": "en",
-      "date": "2026-11-16T10:00:00.000Z",
-      "excerpt": "Black Friday / Cyber Monday isn’t just a stress test for your infrastructure. It’s a stress test for customer trust."
-    },
-    {
-      "id": "6yr5bo",
-      "title": "The physics of agentic scale: Why full-stack co-design matters",
-      "url": "https://www.ciodive.com/spons/the-physics-of-agentic-scale-why-full-stack-co-design-matters/874197/",
-      "source": "CIO Dive",
-      "lang": "en",
-      "date": "2026-11-16T10:00:00.000Z",
-      "excerpt": "Scaling AI agents requires more than faster chips. Discover how full-stack co-design can help optimize performance, reduce costs and improve efficiency."
-    },
-    {
-      "id": "99ffx3",
-      "title": "Ghost businesses are easier to build than ever",
-      "url": "https://www.cio.com/article/4248460/ghost-businesses-are-easier-to-build-than-ever.html",
-      "source": "CIO",
-      "lang": "en",
-      "date": "2026-11-16T10:00:00.000Z",
-      "excerpt": "Earlier this year, CBS News reporters set out to investigate 89 licensed hospice companies. The task was simpler than it seemed at first glance: state records tied these companies to a single, 32,000-square-foot Los Angeles building that also housed a salon,…"
-    },
-    {
-      "id": "9rlsk8",
-      "title": "Building AI-enabled cities starts with putting people first",
-      "url": "https://www.cio.com/article/4248094/building-ai-enabled-cities-starts-with-putting-people-first.html",
-      "source": "CIO",
-      "lang": "en",
-      "date": "2026-11-16T10:00:00.000Z",
-      "excerpt": "The cities getting the most out of AI aren’t just the ones adopting it fastest but those putting their residents first. These cities are seeing more than twice the return on their AI investments compared with their peers. This is according to ThoughtLab’s new…"
-    },
-    {
-      "id": "15edph4",
-      "title": "How food and beverage manufacturers can take control of rising energy costs with onsite power",
-      "url": "https://www.manufacturingdive.com/spons/how-food-and-beverage-manufacturers-can-take-control-of-rising-energy-costs/874472/",
-      "source": "Manufacturing Dive",
-      "lang": "en",
-      "date": "2026-11-16T10:00:00.000Z",
-      "excerpt": "Discover how onsite fuel cells can help manufacturers cut energy costs and improve reliability."
-    },
-    {
-      "id": "1733icd",
-      "title": "Your AI is smarter. Is your business still working the same way?",
-      "url": "https://www.cio.com/article/4248443/your-ai-is-smarter-is-your-business-still-working-the-same-way.html",
-      "source": "CIO",
-      "lang": "en",
-      "date": "2026-11-16T09:00:00.000Z",
-      "excerpt": "AI is getting smarter at remarkable speed. Employees can draft, analyze, search and automate routine work faster than they could a year ago. Recent research on the state of AI shows organizations continuing to expand adoption across functions and use cases.…"
-    },
-    {
-      "id": "1ffqmjr",
-      "title": "Qué es el Marketing Directo: Mi definición, estrategias y ejemplos reales",
-      "url": "https://www.iebschool.com/hub/marketing-directo-interactivo-comercio-ventas/",
-      "source": "IEB School",
-      "lang": "es",
-      "date": "2026-11-16T08:40:44.000Z",
-      "excerpt": ""
-    },
-    {
-      "id": "lkzsuo",
-      "title": "Samsung’s Next Phone Could Stretch Instead of Fold, Leak Suggests.",
-      "url": "https://www.techrepublic.com/article/news-samsung-rollable-phone-vertical-sliding-display-leak/",
-      "source": "TechRepublic",
-      "lang": "en",
-      "date": "2026-11-13T22:56:31.000Z",
-      "excerpt": "Samsung may be exploring a rollable phone that expands vertically from 16:9 to 21:9. Here's what the leak suggests about its design and potential challenges."
-    },
-    {
-      "id": "1d457uh",
-      "title": "FAA Grounds US Flights Nationwide, Citing ‘Extraordinary’ Safety Concerns",
-      "url": "https://www.techrepublic.com/article/news-faa-nationwide-ground-stop-flight-delays-2026/",
-      "source": "TechRepublic",
-      "lang": "en",
-      "date": "2026-11-13T22:14:35.000Z",
-      "excerpt": "FAA grounds flights nationwide, citing extraordinary safety concerns amid air traffic control communications problems. Here's what travelers need to know."
-    },
-    {
-      "id": "1uvkt54",
-      "title": "Toshiba Wins UK Contract to Scale Quantum Networks With BT, Colt",
-      "url": "https://www.techrepublic.com/article/news-toshiba-uk-quantum-network-contract-bt-colt-emea/",
-      "source": "TechRepublic",
-      "lang": "en",
-      "date": "2026-11-13T22:02:27.000Z",
-      "excerpt": "Toshiba Europe won an Innovate UK contract to build long-distance, multi-user quantum network subsystems, with BT and Colt testing them on real fiber."
-    },
-    {
-      "id": "1l5s8wi",
-      "title": "Microsoft 365 outage underscores enterprise resiliency issues",
-      "url": "https://www.ciodive.com/news/microsoft-outage-enterprise-resiliancy/874695/",
-      "source": "CIO Dive",
-      "lang": "en",
-      "date": "2026-11-13T21:19:35.000Z",
-      "excerpt": "CIOs should rely on a diversity of providers and bolster incident response as strain on compute threatens to bring future disruptions."
-    },
-    {
-      "id": "11n3jml",
-      "title": "Kraft Heinz expects return to growth in 2027 as innovation investments pay off",
-      "url": "https://www.fooddive.com/news/kraft-heinz-return-to-growth-innovation-investments-payoff/874643/",
-      "source": "Food Dive",
-      "lang": "en",
-      "date": "2026-11-13T21:00:00.000Z",
-      "excerpt": "Recent launches, including ketchup with lower sugar and gluten-free cream cheese, are helping grow market share and volume."
-    },
-    {
-      "id": "srlc4c",
-      "title": "Companies struggle to know what normal looks like for AI agents",
-      "url": "https://www.ciodive.com/news/ai-agents-normal-baseline-security-governance/874676/",
-      "source": "CIO Dive",
-      "lang": "en",
-      "date": "2026-11-13T20:58:00.000Z",
-      "excerpt": "The inability to establish baselines is complicating the task of securing these autonomous tools, a report from security firm Abnormal AI found."
-    },
-    {
-      "id": "h8eqm8",
-      "title": "M365 services slowly come back online after global outage",
-      "url": "https://www.cio.com/article/4248596/m365-services-slowly-come-back-online-after-global-outage-2.html",
-      "source": "CIO",
-      "lang": "en",
-      "date": "2026-11-13T20:50:47.000Z",
-      "excerpt": "After a lengthy Microsoft 365 outage disrupted business around the globe, Microsoft is now restoring services to its customers. As of 6:00 p.m. UTC (1 p.m. ET) on Friday, Nov. 13, Microsoft said that it is seeing broad recovery and stability across its…"
-    },
-    {
-      "id": "1c5i1o5",
-      "title": "Nvidia’s leadership crisis puts enterprise AI’s dependence on one company under scrutiny",
-      "url": "https://www.cio.com/article/4248546/nvidias-leadership-crisis-puts-enterprise-ais-dependence-on-one-company-under-scrutiny-2.html",
-      "source": "CIO",
-      "lang": "en",
-      "date": "2026-11-13T18:19:32.000Z",
-      "excerpt": "The tech world has been rattled by the toppling of one of its most prominent leaders, and the widespread implications it could have on the AI industry itself. Nvidia, which provides the underlying AI infrastructure for seemingly every company on the planet,…"
-    },
-    {
-      "id": "gxwm1b",
-      "title": "Monthly manufacturing tech orders reach $1B; GE Vernova expands and more",
-      "url": "https://www.manufacturingdive.com/news/manufacturing-technology-orders-reached-1b-september-kopin-ge-vernova/874607/",
-      "source": "Manufacturing Dive",
-      "lang": "en",
-      "date": "2026-11-13T17:09:00.000Z",
-      "excerpt": "Additionally, companies such as Honda, Kopin and ATP Adhesive announced openings or expansion projects this week."
-    },
-    {
-      "id": "1iudeui",
-      "title": "BASF opens $1B MDI production facility in Louisiana",
-      "url": "https://www.manufacturingdive.com/news/basf-verbund-mdi-facility-polyurethanes-geismar-louisiana/874549/",
-      "source": "Manufacturing Dive",
-      "lang": "en",
-      "date": "2026-11-13T16:50:00.000Z",
-      "excerpt": "The Geismar site is the Germany-based entity’s largest single investment to date in the United States and **, making it its most significant** MDI producer in North America."
-    },
-    {
-      "id": "1qoxdc6",
-      "title": "Automakers using advanced tech to cut waste and costs, boost flexibility",
-      "url": "https://www.manufacturingdive.com/news/automakers-ai-reduce-waste-cut-costs-boost-flexibility/874543/",
-      "source": "Manufacturing Dive",
-      "lang": "en",
-      "date": "2026-11-13T16:48:52.000Z",
-      "excerpt": "Artificial intelligence can help companies enhance connectivity on the factory floor and optimize supply chains, experts said at the State of Automotive Manufacturing virtual event."
-    },
-    {
-      "id": "1etx74d",
-      "title": "The beverage boom is here to stay",
-      "url": "https://www.restaurantdive.com/news/beverage-boom-restaurant-finance-continuing-trends/874571/",
-      "source": "Restaurant Dive",
-      "lang": "en",
-      "date": "2026-11-13T16:05:32.000Z",
-      "excerpt": "A widening consumer base, traffic at unconventional times and strong food attachment mean the brands benefiting from beverage have a bright future."
-    },
-    {
-      "id": "1akvp6a",
-      "title": "Port of Los Angeles grapples with elevated rail dwell times",
-      "url": "https://www.supplychaindive.com/news/port-of-los-angeles-grapples-with-elevated-rail-dwell-times/874553/",
-      "source": "Supply Chain Dive",
-      "lang": "en",
-      "date": "2026-11-13T16:04:00.000Z",
-      "excerpt": "Wait times for idle containers set for rail transport have reached over nine days, Executive Director Gene Seroka said."
-    },
-    {
-      "id": "1xud3pp",
-      "title": "JD Sports leverages tech for faster replenishment",
-      "url": "https://www.supplychaindive.com/news/jd-sports-leverages-tech-for-faster-replenishment/874427/",
-      "source": "Supply Chain Dive",
-      "lang": "en",
-      "date": "2026-11-13T15:55:00.000Z",
-      "excerpt": "The sportswear retailer is partnering with Zebra to gain real-time inventory visibility across its omnichannel operations, citing 98% on-shelf availability."
-    },
-    {
-      "id": "1ss1uih",
-      "title": "Merchants sue feds over Illinois card fee law",
-      "url": "https://www.grocerydive.com/news/merchants-sue-federal-government-illinois-card-fee-law/874601/",
-      "source": "Grocery Dive",
-      "lang": "en",
-      "date": "2026-11-13T15:55:00.000Z",
-      "excerpt": "Trade groups including FMI and NGA filed lawsuits against bank and credit union regulators over a preemption of a state law that bans swipe fees for taxes and tips."
-    },
-    {
-      "id": "o6zkvs",
-      "title": "Papa Johns franchisee declares bankruptcy",
-      "url": "https://www.restaurantdive.com/news/papa-johns-franchisee-papazhs-files-chapter-11-bankruptcy/874612/",
-      "source": "Restaurant Dive",
-      "lang": "en",
-      "date": "2026-11-13T15:45:00.000Z",
-      "excerpt": "Papa ZHS, which opened the chain’s 6,000th restaurant in 2025, is the latest operator to seek court-supervised restructuring as the brand’s sales troubles continue."
-    },
-    {
-      "id": "5ii61v",
-      "title": "Leftovers: Hershey bakes Reese’s pie for Thanksgiving | Tostitos adds zesty twist to Scoops",
-      "url": "https://www.fooddive.com/news/leftovers-pepsico-hint-of-lime-scoops-reeses-3-pound-pie-cutwater-white-russian/874620/",
-      "source": "Food Dive",
-      "lang": "en",
-      "date": "2026-11-13T15:45:00.000Z",
-      "excerpt": "The sweets giant is introducing a 3-pound peanut butter cup for holiday hosting, while Cutwater gets festive with a Gingerbread White Russian."
-    },
-    {
-      "id": "1l8871n",
-      "title": "Samsung and Google Open AI Glasses Preorders: What $395 Gets You",
-      "url": "https://www.techrepublic.com/article/news-samsung-google-ai-glasses-preorders/",
-      "source": "TechRepublic",
-      "lang": "en",
-      "date": "2026-11-13T15:20:38.000Z",
-      "excerpt": "Samsung and Google open AI glasses preorders from $395. Explore Gemini features, Warby Parker and Gentle Monster styles, release dates, and phone compatibility."
-    },
-    {
-      "id": "17bym74",
-      "title": "Apple Wants $50 for More AI Usage: How Much Do You Actually Get?",
-      "url": "https://www.techrepublic.com/article/news-apple-creator-studio-ai-usage-packs/",
-      "source": "TechRepublic",
-      "lang": "en",
-      "date": "2026-11-13T15:03:56.000Z",
-      "excerpt": "Apple now sells $49.99 AI usage packs for Creator Studio subscribers. Here's how they work, who qualifies, and why the extra capacity is hard to predict."
-    },
-    {
-      "id": "1o7eroz",
-      "title": "This Week in Tech: Nvidia’s Shakeup and AI’s Reality Check",
-      "url": "https://www.techrepublic.com/article/this-week-in-tech-nvidias-shakeup-and-ais-reality-check/",
-      "source": "TechRepublic",
-      "lang": "en",
-      "date": "2026-11-13T15:01:46.000Z",
-      "excerpt": "See what you missed in Daily Tech Insider from Nov. 9–13."
-    },
-    {
-      "id": "zuqdfn",
-      "title": "Instacart starts stocking up bars",
-      "url": "https://www.grocerydive.com/news/instacart-provi-restaurants-bar-delivery/874540/",
-      "source": "Grocery Dive",
-      "lang": "en",
-      "date": "2026-11-13T15:00:00.000Z",
-      "excerpt": "The grocery technology company partnered with digital platform Provi to let bars and restaurants order non-alcoholic items."
-    },
-    {
-      "id": "w1a775",
-      "title": "Starbucks brings extra personalization, delivery to app",
-      "url": "https://www.restaurantdive.com/news/starbucks-digital-personalization-app-update/874610/",
-      "source": "Restaurant Dive",
-      "lang": "en",
-      "date": "2026-11-13T14:58:21.000Z",
-      "excerpt": "The coffee giant will personalize recommendations for consumers as it plans to grow its presence in conversational product discovery."
-    },
-    {
-      "id": "1vdy5n1",
-      "title": "Walmart more than doubles planned drone delivery sites",
-      "url": "https://www.supplychaindive.com/news/walmart-more-than-doubles-planned-drone-delivery-sites/874580/",
-      "source": "Supply Chain Dive",
-      "lang": "en",
-      "date": "2026-11-13T14:37:21.000Z",
-      "excerpt": "An expansion with drone operator Zipline will allow the retailer to make rapid air delivery available to customers nationwide over the next several years."
-    },
-    {
-      "id": "185mjcq",
-      "title": "USPS readies 2027 rate increase, permanent fuel surcharge",
-      "url": "https://www.supplychaindive.com/news/usps-readies-2027-rate-increase-permanent-fuel-surcharge/874524/",
-      "source": "Supply Chain Dive",
-      "lang": "en",
-      "date": "2026-11-13T14:26:13.000Z",
-      "excerpt": "The agency plans to increase prices by 5.9% on average for services like USPS Ground Advantage and Priority Mail in January."
-    },
-    {
-      "id": "18303b2",
-      "title": "Google, Meta, TikTok Oppose Indonesia’s AI Copyright Bill",
-      "url": "https://www.techrepublic.com/article/news-google-meta-tiktok-indonesia-ai-copyright-apac/",
-      "source": "TechRepublic",
-      "lang": "en",
-      "date": "2026-11-13T14:19:55.000Z",
-      "excerpt": "Google, Meta, and TikTok oppose Indonesia's proposed copyright changes. Here's what APAC businesses should know about AI content, news links, and liability."
-    },
-    {
-      "id": "11it9ch",
-      "title": "Nvidia CEO resigns amid scandal; CFO named interim",
-      "url": "https://www.manufacturingdive.com/news/nvidia-ceo-resigns-scandal-cfo-named-interim-ceo-ai/874515/",
-      "source": "Manufacturing Dive",
-      "lang": "en",
-      "date": "2026-11-13T14:17:33.000Z",
-      "excerpt": "Jensen Huang resigned effective immediately, with the chipmaker naming its long-time CFO Colette Kress as interim CEO until a permanent successor is found, Nvidia announced Thursday."
-    },
-    {
-      "id": "xamsyz",
-      "title": "Your Smartphone Camera Wastes Light. HoloCoder Wants to Fix That",
-      "url": "https://www.techrepublic.com/article/news-metalenz-holocoder-smartphone-camera-technology/",
-      "source": "TechRepublic",
-      "lang": "en",
-      "date": "2026-11-13T14:09:49.000Z",
-      "excerpt": "Metalenz says HoloCoder could deliver up to 2.5 times more light to smartphone camera sensors. Here's how the technology works and what remains unproven."
-    },
-    {
-      "id": "1ypecoh",
-      "title": "The Friday Checkout: Winn-Dixie bets on its Florida roots",
-      "url": "https://www.grocerydive.com/news/winn-dixie-florida-grocery-georgia/874598/",
-      "source": "Grocery Dive",
-      "lang": "en",
-      "date": "2026-11-13T14:06:35.000Z",
-      "excerpt": "The company sold the last of its Georgia stores this month to focus on the Sunshine State. But does it have a strong enough reputation to survive in such a competitive market?"
-    },
-    {
-      "id": "1dvjm9",
-      "title": "How to Create A+ Content with a Content Development Process",
-      "url": "https://www.process.st/content-development/",
-      "source": "Process.st",
-      "lang": "en",
-      "date": "2026-11-13T14:00:00.000Z",
-      "excerpt": "Content development is the repeatable process of researching, planning, creating, reviewing, publishing, promoting, and improving useful content. The post How to Create A+ Content with a Content Development Process first appeared on Process Street |…"
-    },
-    {
-      "id": "zloo63",
-      "title": "How to Combat Zoom Fatigue: Synchronous vs. Asynchronous Communication",
-      "url": "https://www.process.st/synchronous-vs-asynchronous-communication/",
-      "source": "Process.st",
-      "lang": "en",
-      "date": "2026-11-13T14:00:00.000Z",
-      "excerpt": "Synchronous communication is the real-time exchange of information, while asynchronous communication is an exchange that does not expect an immediate response. Use live conversation for urgent, ambiguous, or relationship-sensitive work. Use asynchronous…"
     }
   ]
 }
